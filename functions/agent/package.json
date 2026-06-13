@@ -1,0 +1,10 @@
+{
+  "name": "trinetra-agent",
+  "version": "1.0.0",
+  "description": "TRINETRA NL→ZCQL agent function (Catalyst Advanced I/O)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ../test-local.js"
+  },
+  "dependencies": {}
+}

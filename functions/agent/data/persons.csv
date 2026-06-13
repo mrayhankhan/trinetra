@@ -1,0 +1,3008 @@
+person_id,full_name,age,gender,district,socioeconomic_band,education,occupation
+P00001,Asha Raju,26,F,BTM,High,Graduate,Unemployed
+P00002,Asha Joshi,52,M,Jayanagar,Mid,Primary,IT worker
+P00003,Priya Reddy,32,M,Rajajinagar,Lower-mid,Secondary,Mechanic
+P00004,Reshma Khan,32,F,Electronic City,Low,Graduate,Unemployed
+P00005,Harish Patil,57,M,Hubballi,Low,None,Vendor
+P00006,Rahul Kumar,55,M,BTM,Lower-mid,None,Unknown
+P00007,Shilpa Sharma,60,M,KR Puram,Low,Graduate,Daily wage
+P00008,Naveen Bhat,22,M,Whitefield,Lower-mid,Diploma,Mechanic
+P00009,Rahul Gowda,53,M,Hubballi,Low,Postgraduate,Clerk
+P00010,Mahesh Shetty,66,F,BLR South,Lower-mid,Diploma,Student
+P00011,Manjunath Prasad,57,M,Yelahanka,Upper-mid,None,Mechanic
+P00012,Nandini Desai,69,M,BTM,Lower-mid,Postgraduate,Shop owner
+P00013,Reshma Kulkarni,67,F,Electronic City,Lower-mid,Postgraduate,Unknown
+P00014,Reshma Pai,70,M,Jayanagar,Low,Diploma,Vendor
+P00015,Meena Joshi,55,M,KR Puram,Low,Secondary,Driver
+P00016,Sahana Hegde,38,F,KR Puram,Low,Graduate,Clerk
+P00017,Jyothi Kumar,49,F,Jayanagar,Low,Diploma,IT worker
+P00018,Jyothi Patil,60,M,Belagavi,Lower-mid,None,Daily wage
+P00019,Santosh Patil,41,M,Whitefield,Mid,Secondary,IT worker
+P00020,Jyothi Prasad,38,M,Belagavi,Lower-mid,Secondary,IT worker
+P00021,Reshma Bhat,32,M,Belagavi,Low,None,Shop owner
+P00022,Priya Hegde,29,M,Whitefield,Mid,Graduate,Unknown
+P00023,Santosh Shetty,69,M,Rajajinagar,Lower-mid,Secondary,Unemployed
+P00024,Ramesh Nayak,33,M,BLR South,Lower-mid,Postgraduate,Driver
+P00025,Sahana Shetty,16,M,Electronic City,Lower-mid,Secondary,Driver
+P00026,Deepa Murthy,46,M,Jayanagar,Lower-mid,None,Unknown
+P00027,Deepa Nayak,25,F,Whitefield,Low,Primary,Daily wage
+P00028,Jyothi Khan,54,M,Mangaluru,Low,Graduate,Mechanic
+P00029,Rajesh Sharma,35,F,Yelahanka,Lower-mid,Graduate,Unemployed
+P00030,Roopa Raju,22,F,Rajajinagar,Mid,Secondary,Daily wage
+P00031,Naveen Patil,27,M,BTM,Low,Diploma,Unknown
+P00032,Karthik Bhat,18,M,Belagavi,Low,Diploma,Daily wage
+P00033,Arun Murthy,66,F,Mangaluru,Mid,Primary,Mechanic
+P00034,Kiran Gupta,30,M,Whitefield,Upper-mid,None,Unemployed
+P00035,Naveen Bhat,54,M,Mangaluru,Upper-mid,Diploma,Daily wage
+P00036,Meena Setty,35,M,Whitefield,Lower-mid,Diploma,IT worker
+P00037,Faisal Kulkarni,18,F,Belagavi,Lower-mid,Secondary,Unemployed
+P00038,Faisal Patil,59,F,Mangaluru,Mid,None,Clerk
+P00039,Sandeep Reddy,64,M,Electronic City,Lower-mid,Diploma,Clerk
+P00040,Priya Joshi,43,M,Electronic City,High,Diploma,Student
+P00041,Prakash Pai,36,M,BTM,Lower-mid,Postgraduate,IT worker
+P00042,Santosh Achar,41,F,Mysuru,Low,None,Student
+P00043,Mohan Pai,23,F,Yelahanka,Upper-mid,None,Shop owner
+P00044,Meena Khan,19,M,KR Puram,Mid,Diploma,IT worker
+P00045,Deepa Hegde,33,M,Whitefield,Lower-mid,Postgraduate,IT worker
+P00046,Kiran Kumar,56,M,Rajajinagar,Mid,Secondary,Shop owner
+P00047,Suresh Gupta,42,M,Jayanagar,Lower-mid,None,Driver
+P00048,Sahana Setty,34,M,Whitefield,Lower-mid,Diploma,IT worker
+P00049,Geetha Sharma,51,M,Rajajinagar,Upper-mid,Graduate,Driver
+P00050,Manjunath Murthy,65,F,Yelahanka,Lower-mid,Graduate,Clerk
+P00051,Suresh Bhat,62,M,Mangaluru,Lower-mid,Postgraduate,IT worker
+P00052,Vijay Sharma,50,M,KR Puram,Lower-mid,Graduate,Mechanic
+P00053,Meena Pai,28,F,Rajajinagar,Lower-mid,Primary,Mechanic
+P00054,Imran Pai,63,M,Yelahanka,Lower-mid,Postgraduate,Driver
+P00055,Sahana Reddy,24,M,Mangaluru,Lower-mid,None,IT worker
+P00056,Anita Prasad,45,M,BTM,Lower-mid,Postgraduate,Driver
+P00057,Manjunath Das,66,F,KR Puram,Mid,Diploma,Daily wage
+P00058,Pooja Achar,70,M,KR Puram,Mid,Diploma,Shop owner
+P00059,Imran Kulkarni,20,M,Hubballi,Upper-mid,Primary,Daily wage
+P00060,Sneha Shetty,64,M,Jayanagar,Lower-mid,Postgraduate,Clerk
+P00061,Ravi Reddy,36,F,Whitefield,Lower-mid,Diploma,Driver
+P00062,Geetha Prasad,42,M,BTM,Low,None,Unknown
+P00063,Vinay Kulkarni,59,M,Mangaluru,Low,Diploma,Clerk
+P00064,Meena Murthy,58,M,Electronic City,Upper-mid,Postgraduate,Shop owner
+P00065,Naveen Gowda,44,F,Mangaluru,Low,Diploma,Clerk
+P00066,Meena Bhat,28,F,Electronic City,Low,Diploma,Unknown
+P00067,Harish Joshi,34,F,Whitefield,Low,Postgraduate,Mechanic
+P00068,Reshma Kumar,52,F,Belagavi,High,Graduate,IT worker
+P00069,Santosh Patil,54,F,Rajajinagar,Mid,Graduate,Clerk
+P00070,Lakshmi Desai,22,F,Hubballi,Low,Diploma,Unemployed
+P00071,Kavya Naidu,62,M,Whitefield,Lower-mid,Diploma,Driver
+P00072,Rahul Nayak,66,M,KR Puram,Lower-mid,Secondary,Driver
+P00073,Mohan Das,67,M,KR Puram,Upper-mid,Diploma,Daily wage
+P00074,Vijay Patil,59,M,Yelahanka,High,Graduate,Student
+P00075,Faisal Iyer,16,M,Jayanagar,Lower-mid,Postgraduate,Clerk
+P00076,Kavya Iyer,68,M,KR Puram,Low,Primary,IT worker
+P00077,Ravi Kulkarni,51,M,Mangaluru,Low,None,IT worker
+P00078,Divya Desai,42,M,BLR South,High,Secondary,IT worker
+P00079,Kiran Shetty,31,F,BTM,Lower-mid,Secondary,Shop owner
+P00080,Prakash Joshi,63,M,Yelahanka,Mid,Diploma,Unknown
+P00081,Prakash Murthy,18,M,Rajajinagar,Lower-mid,Primary,Student
+P00082,Anita Achar,39,M,Hubballi,Lower-mid,Diploma,Clerk
+P00083,Rahul Shetty,70,F,Jayanagar,Mid,Postgraduate,Unknown
+P00084,Ravi Reddy,66,M,BTM,Mid,Primary,Daily wage
+P00085,Jyothi Hegde,53,M,Rajajinagar,Lower-mid,Primary,Unknown
+P00086,Suresh Murthy,70,F,BTM,Lower-mid,Primary,Daily wage
+P00087,Ravi Nayak,16,M,Rajajinagar,Mid,None,Driver
+P00088,Mohan Reddy,24,M,Mysuru,Low,None,IT worker
+P00089,Rajesh Naidu,48,M,Electronic City,Lower-mid,Graduate,Unemployed
+P00090,Bhavani Bhat,45,M,BLR South,Low,Diploma,Mechanic
+P00091,Sneha Achar,22,M,Electronic City,Low,None,Student
+P00092,Mahesh Nayak,20,M,Mangaluru,Mid,Graduate,Student
+P00093,Vinay Kulkarni,49,M,Mysuru,Mid,None,Daily wage
+P00094,Jyothi Raju,29,M,Rajajinagar,Lower-mid,Diploma,Mechanic
+P00095,Prakash Raju,22,M,KR Puram,Mid,Secondary,Driver
+P00096,Karthik Gowda,21,F,Jayanagar,Lower-mid,Postgraduate,Student
+P00097,Lakshmi Gupta,19,M,Mysuru,Lower-mid,Postgraduate,Daily wage
+P00098,Prakash Naidu,58,F,Yelahanka,Upper-mid,Postgraduate,Unemployed
+P00099,Santosh Kulkarni,35,M,Mangaluru,Lower-mid,Primary,IT worker
+P00100,Arun Shetty,38,F,KR Puram,Low,Secondary,Unknown
+P00101,Arun Khan,70,M,Mangaluru,Mid,Postgraduate,Shop owner
+P00102,Ravi Kulkarni,58,F,Whitefield,Low,Secondary,Clerk
+P00103,Pooja Naidu,16,M,BTM,Lower-mid,Diploma,Daily wage
+P00104,Vijay Raju,56,F,Jayanagar,Mid,Primary,Mechanic
+P00105,Prakash Sharma,37,M,Whitefield,Mid,Graduate,Unknown
+P00106,Faisal Reddy,25,M,Mangaluru,Low,None,Clerk
+P00107,Rajesh Achar,43,M,Electronic City,Lower-mid,Primary,Shop owner
+P00108,Kiran Naidu,43,M,Hubballi,Mid,Diploma,Shop owner
+P00109,Divya Reddy,30,M,Mangaluru,Low,Primary,Clerk
+P00110,Shilpa Nayak,64,M,KR Puram,Low,Diploma,Mechanic
+P00111,Priya Nayak,40,M,Rajajinagar,Lower-mid,Postgraduate,Student
+P00112,Manjunath Iyer,63,M,BLR South,Lower-mid,None,Student
+P00113,Sandeep Khan,52,M,Hubballi,Lower-mid,None,Mechanic
+P00114,Ravi Pai,26,F,Mangaluru,Lower-mid,Postgraduate,Student
+P00115,Faisal Khan,70,M,Yelahanka,Mid,Graduate,Daily wage
+P00116,Asha Bhat,63,M,KR Puram,Mid,None,Shop owner
+P00117,Kiran Prasad,48,M,KR Puram,Lower-mid,Postgraduate,Driver
+P00118,Geetha Shetty,25,M,BTM,Mid,Postgraduate,Daily wage
+P00119,Priya Desai,47,M,Mangaluru,Mid,Diploma,Unknown
+P00120,Roopa Pai,56,M,Electronic City,Low,Diploma,Clerk
+P00121,Reshma Joshi,19,M,Jayanagar,Lower-mid,Diploma,Unemployed
+P00122,Deepa Naidu,69,M,Hubballi,Upper-mid,None,Unknown
+P00123,Mahesh Prasad,40,M,Mysuru,High,Postgraduate,Unemployed
+P00124,Rajesh Joshi,57,M,Mangaluru,Lower-mid,Primary,Unemployed
+P00125,Rajesh Shetty,67,F,KR Puram,High,None,Shop owner
+P00126,Priya Reddy,31,M,Electronic City,Lower-mid,Graduate,Driver
+P00127,Nandini Naidu,34,M,KR Puram,Mid,None,Student
+P00128,Manjunath Pai,22,M,Yelahanka,Low,Postgraduate,Unknown
+P00129,Vijay Pai,21,M,BTM,Upper-mid,Secondary,Mechanic
+P00130,Lakshmi Kulkarni,61,F,Whitefield,Lower-mid,Postgraduate,Student
+P00131,Lakshmi Achar,60,F,Belagavi,High,Graduate,Daily wage
+P00132,Sneha Prasad,39,M,Whitefield,Low,Primary,Student
+P00133,Sahana Hegde,30,F,BTM,Low,None,Shop owner
+P00134,Ramesh Raju,49,M,KR Puram,Upper-mid,Graduate,Driver
+P00135,Mahesh Iyer,25,M,Belagavi,Mid,Primary,IT worker
+P00136,Imran Khan,39,M,Rajajinagar,High,Graduate,Clerk
+P00137,Rajesh Patil,50,M,Electronic City,Upper-mid,Primary,Student
+P00138,Sandeep Sharma,45,M,Yelahanka,Lower-mid,Diploma,Driver
+P00139,Rahul Kulkarni,24,F,BLR South,Mid,Secondary,Shop owner
+P00140,Anita Setty,70,M,Jayanagar,Low,Primary,Clerk
+P00141,Rajesh Prasad,25,F,Jayanagar,High,Primary,IT worker
+P00142,Harish Kumar,42,M,Mysuru,Lower-mid,Diploma,Daily wage
+P00143,Nandini Patil,17,M,Jayanagar,Upper-mid,Postgraduate,Student
+P00144,Vijay Nayak,18,M,Electronic City,Mid,Primary,IT worker
+P00145,Rajesh Kulkarni,16,F,BLR South,Low,Primary,Shop owner
+P00146,Mahesh Prasad,43,M,Whitefield,Low,None,Unemployed
+P00147,Geetha Khan,56,F,Electronic City,Low,Diploma,Unknown
+P00148,Ramesh Kumar,56,M,Rajajinagar,Mid,Secondary,Mechanic
+P00149,Suresh Kulkarni,38,M,Yelahanka,Low,Postgraduate,Daily wage
+P00150,Bhavani Naidu,20,F,Mysuru,Lower-mid,Graduate,Shop owner
+P00151,Ravi Iyer,46,M,Yelahanka,High,Secondary,Unemployed
+P00152,Harish Gowda,38,M,Hubballi,Mid,Graduate,Student
+P00153,Lakshmi Reddy,38,M,Hubballi,Low,Postgraduate,IT worker
+P00154,Karthik Desai,27,F,Jayanagar,Mid,Diploma,Unemployed
+P00155,Santosh Hegde,18,F,BLR South,Lower-mid,Secondary,Shop owner
+P00156,Asha Gupta,46,M,Hubballi,Low,Secondary,Unemployed
+P00157,Pooja Murthy,23,F,Yelahanka,Upper-mid,Postgraduate,IT worker
+P00158,Vinay Pai,27,M,Electronic City,Lower-mid,Graduate,Clerk
+P00159,Faisal Raju,43,M,Mangaluru,High,Primary,Shop owner
+P00160,Santosh Pai,22,M,Hubballi,Low,Diploma,Unknown
+P00161,Sneha Rao,60,M,Electronic City,Low,Secondary,Unknown
+P00162,Sneha Murthy,56,F,BLR South,Low,Postgraduate,Mechanic
+P00163,Nandini Prasad,67,M,BTM,High,Primary,Unknown
+P00164,Rajesh Reddy,24,M,Hubballi,Lower-mid,Diploma,Unknown
+P00165,Imran Kulkarni,25,M,KR Puram,Lower-mid,None,Unknown
+P00166,Lakshmi Prasad,39,M,Hubballi,Low,None,Unemployed
+P00167,Priya Das,49,M,Mysuru,Low,Secondary,IT worker
+P00168,Shilpa Kulkarni,34,M,Electronic City,Low,Primary,Daily wage
+P00169,Rajesh Rao,61,M,Jayanagar,Upper-mid,Secondary,Student
+P00170,Manjunath Gupta,50,M,Whitefield,Upper-mid,Postgraduate,Driver
+P00171,Nandini Prasad,30,M,Rajajinagar,Mid,Primary,IT worker
+P00172,Ravi Naidu,51,M,Electronic City,Upper-mid,Graduate,Driver
+P00173,Roopa Gowda,20,M,Belagavi,Mid,Graduate,Mechanic
+P00174,Prakash Joshi,20,M,KR Puram,Mid,Diploma,IT worker
+P00175,Bhavani Naidu,24,F,Mysuru,Mid,Primary,Driver
+P00176,Sneha Prasad,19,F,Mysuru,Low,Primary,Driver
+P00177,Ganesh Setty,30,M,Mysuru,Upper-mid,None,Clerk
+P00178,Rahul Desai,51,M,Hubballi,Lower-mid,Graduate,Daily wage
+P00179,Yusuf Desai,26,M,Mangaluru,Low,Postgraduate,Unknown
+P00180,Mahesh Pai,69,F,BLR South,Upper-mid,None,Daily wage
+P00181,Imran Desai,65,M,Hubballi,Low,Graduate,Mechanic
+P00182,Roopa Desai,17,M,Hubballi,Lower-mid,Postgraduate,Clerk
+P00183,Karthik Patil,67,F,Yelahanka,Low,None,Unemployed
+P00184,Naveen Sharma,42,M,Rajajinagar,Lower-mid,Primary,Student
+P00185,Ganesh Raju,38,F,BTM,Mid,Graduate,Shop owner
+P00186,Anita Pai,31,M,Whitefield,Lower-mid,Primary,Daily wage
+P00187,Deepa Bhat,40,F,Yelahanka,Low,Primary,Student
+P00188,Sandeep Raju,36,M,BTM,Lower-mid,Graduate,IT worker
+P00189,Sahana Bhat,47,M,Yelahanka,Lower-mid,Primary,Vendor
+P00190,Kavya Naidu,19,M,Electronic City,Mid,Postgraduate,IT worker
+P00191,Santosh Gupta,16,F,Yelahanka,Low,Secondary,Student
+P00192,Asha Naidu,18,M,Mangaluru,Lower-mid,Secondary,Shop owner
+P00193,Santosh Gowda,40,M,Mysuru,Low,Graduate,Unknown
+P00194,Kiran Nayak,22,M,KR Puram,Lower-mid,Secondary,Driver
+P00195,Rahul Kulkarni,48,M,BLR South,Low,Primary,Student
+P00196,Karthik Prasad,45,M,Mysuru,Low,Graduate,Student
+P00197,Naveen Iyer,55,M,Whitefield,Mid,Graduate,Shop owner
+P00198,Ramesh Das,61,M,Electronic City,Upper-mid,Secondary,Student
+P00199,Kiran Khan,53,M,Belagavi,Upper-mid,Postgraduate,Unemployed
+P00200,Mahesh Das,32,F,Mangaluru,Lower-mid,Postgraduate,Unemployed
+P00201,Kavya Das,26,M,Belagavi,Mid,Diploma,Driver
+P00202,Geetha Reddy,52,F,Jayanagar,Low,Diploma,Student
+P00203,Prakash Nayak,42,M,Yelahanka,Lower-mid,Graduate,IT worker
+P00204,Deepa Setty,24,M,Mysuru,Lower-mid,Postgraduate,IT worker
+P00205,Bhavani Iyer,36,F,Electronic City,Upper-mid,Secondary,Shop owner
+P00206,Harish Achar,65,F,Hubballi,Mid,Postgraduate,Clerk
+P00207,Roopa Das,28,F,Whitefield,Lower-mid,Primary,Clerk
+P00208,Santosh Setty,29,M,Electronic City,Lower-mid,Secondary,Shop owner
+P00209,Reshma Bhat,23,M,Mysuru,Lower-mid,Diploma,Student
+P00210,Vijay Bhat,18,M,Belagavi,Low,Diploma,Clerk
+P00211,Karthik Hegde,28,F,Whitefield,High,Postgraduate,Clerk
+P00212,Lakshmi Shetty,55,M,Rajajinagar,Low,Postgraduate,Shop owner
+P00213,Arun Desai,30,M,Yelahanka,Lower-mid,Diploma,Daily wage
+P00214,Lakshmi Kumar,51,F,BTM,Lower-mid,Diploma,IT worker
+P00215,Rahul Bhat,36,M,BLR South,Upper-mid,None,Unknown
+P00216,Arun Gupta,63,M,BLR South,Upper-mid,Primary,Mechanic
+P00217,Priya Reddy,69,M,Electronic City,Low,Postgraduate,Clerk
+P00218,Imran Kumar,35,M,Jayanagar,Upper-mid,Secondary,Clerk
+P00219,Meena Desai,50,M,BTM,Upper-mid,Diploma,Clerk
+P00220,Rahul Shetty,37,M,Electronic City,Mid,Postgraduate,Driver
+P00221,Suresh Raju,37,F,Mangaluru,Mid,Primary,Driver
+P00222,Roopa Desai,41,F,Mysuru,Lower-mid,Diploma,Daily wage
+P00223,Priya Nayak,46,M,Rajajinagar,Low,Diploma,Vendor
+P00224,Rajesh Murthy,37,M,Belagavi,Lower-mid,Secondary,Student
+P00225,Geetha Reddy,58,M,Whitefield,Low,Postgraduate,Shop owner
+P00226,Divya Setty,23,M,Whitefield,Lower-mid,Primary,Vendor
+P00227,Lakshmi Das,25,M,Mangaluru,Lower-mid,Postgraduate,Shop owner
+P00228,Karthik Gupta,67,M,Rajajinagar,Mid,Postgraduate,Unknown
+P00229,Faisal Prasad,44,M,KR Puram,Low,Graduate,Daily wage
+P00230,Deepa Gupta,48,M,Mysuru,Low,Secondary,Shop owner
+P00231,Rajesh Shetty,59,M,Mangaluru,Lower-mid,Graduate,IT worker
+P00232,Deepa Sharma,24,M,Electronic City,Lower-mid,Graduate,IT worker
+P00233,Divya Raju,17,M,BLR South,Mid,Graduate,Daily wage
+P00234,Imran Khan,38,M,Mysuru,High,None,IT worker
+P00235,Imran Bhat,42,M,BTM,Mid,Postgraduate,Mechanic
+P00236,Nandini Iyer,44,F,Yelahanka,Lower-mid,Postgraduate,Shop owner
+P00237,Lakshmi Desai,38,M,Mysuru,Lower-mid,Primary,Vendor
+P00238,Suresh Kumar,35,M,Belagavi,Lower-mid,Graduate,Mechanic
+P00239,Arun Patil,45,M,Whitefield,Low,Postgraduate,Daily wage
+P00240,Imran Achar,42,M,BLR South,Low,None,Daily wage
+P00241,Mahesh Reddy,44,M,Belagavi,Upper-mid,Primary,Unemployed
+P00242,Asha Sharma,30,M,BLR South,Low,Secondary,Vendor
+P00243,Sandeep Pai,52,M,Hubballi,Upper-mid,Primary,Clerk
+P00244,Vijay Achar,49,M,Whitefield,Low,Graduate,Unknown
+P00245,Priya Desai,59,M,Electronic City,Low,Secondary,Mechanic
+P00246,Bhavani Pai,60,M,BTM,Low,Primary,Shop owner
+P00247,Karthik Patil,70,M,Belagavi,Low,Diploma,Unemployed
+P00248,Jyothi Khan,42,M,BTM,Lower-mid,Secondary,Vendor
+P00249,Pooja Desai,21,F,KR Puram,Low,Postgraduate,Vendor
+P00250,Deepa Murthy,40,M,Mangaluru,Low,None,Vendor
+P00251,Kavya Raju,58,M,Electronic City,Low,Secondary,Clerk
+P00252,Suresh Hegde,28,F,Jayanagar,Mid,Diploma,Vendor
+P00253,Mahesh Setty,29,M,Rajajinagar,Lower-mid,Secondary,Mechanic
+P00254,Meena Gupta,57,M,Whitefield,Lower-mid,Diploma,IT worker
+P00255,Anita Raju,46,M,KR Puram,Upper-mid,Secondary,Student
+P00256,Prakash Reddy,52,F,Belagavi,Low,Secondary,Shop owner
+P00257,Kavya Joshi,62,M,BTM,Low,Primary,Mechanic
+P00258,Sandeep Patil,47,M,Hubballi,Lower-mid,Diploma,IT worker
+P00259,Meena Rao,62,F,BTM,Low,Graduate,IT worker
+P00260,Priya Gupta,57,F,Mysuru,Low,None,Unemployed
+P00261,Suresh Khan,24,F,Rajajinagar,Low,Primary,Unemployed
+P00262,Shilpa Prasad,45,M,Mangaluru,Mid,Graduate,IT worker
+P00263,Sahana Kumar,16,M,Yelahanka,Low,Graduate,Clerk
+P00264,Ramesh Bhat,17,M,Belagavi,Mid,Primary,Daily wage
+P00265,Anita Prasad,25,M,Mangaluru,Lower-mid,Secondary,Clerk
+P00266,Asha Gowda,39,F,Electronic City,Lower-mid,Postgraduate,Vendor
+P00267,Divya Achar,68,F,Hubballi,High,Postgraduate,Unemployed
+P00268,Faisal Iyer,40,M,Electronic City,Low,None,Driver
+P00269,Faisal Das,70,M,KR Puram,Lower-mid,None,Shop owner
+P00270,Imran Patil,29,F,Belagavi,Upper-mid,Diploma,Clerk
+P00271,Imran Gowda,59,F,Mysuru,Lower-mid,None,Driver
+P00272,Ganesh Kumar,29,M,Belagavi,Upper-mid,None,Clerk
+P00273,Naveen Joshi,31,M,Yelahanka,Mid,Graduate,Student
+P00274,Vinay Raju,24,F,Belagavi,Mid,Graduate,Student
+P00275,Deepa Shetty,43,M,Jayanagar,Lower-mid,Graduate,Unknown
+P00276,Asha Pai,17,M,Electronic City,Lower-mid,Secondary,Shop owner
+P00277,Vinay Khan,27,M,Hubballi,Lower-mid,Graduate,Clerk
+P00278,Geetha Setty,20,M,BTM,Lower-mid,Postgraduate,Driver
+P00279,Vinay Pai,39,M,BLR South,High,Diploma,Student
+P00280,Reshma Shetty,24,M,Yelahanka,Lower-mid,Graduate,Shop owner
+P00281,Prakash Shetty,17,M,Mysuru,Low,Graduate,Student
+P00282,Vinay Kumar,34,M,Jayanagar,Mid,Graduate,Vendor
+P00283,Sandeep Prasad,26,M,BTM,Low,Secondary,Clerk
+P00284,Sahana Nayak,20,M,Whitefield,Lower-mid,Diploma,Daily wage
+P00285,Nandini Murthy,31,M,Electronic City,Mid,Primary,IT worker
+P00286,Anita Nayak,35,M,Yelahanka,Lower-mid,Graduate,Mechanic
+P00287,Pooja Sharma,37,M,Hubballi,High,Primary,Clerk
+P00288,Ganesh Kulkarni,60,M,KR Puram,Low,Diploma,Student
+P00289,Santosh Raju,60,M,Mangaluru,Mid,Secondary,Mechanic
+P00290,Reshma Iyer,39,M,Mangaluru,Low,Graduate,Driver
+P00291,Jyothi Kumar,62,M,Belagavi,Low,Secondary,Daily wage
+P00292,Prakash Achar,47,M,Whitefield,Low,Postgraduate,Driver
+P00293,Sneha Iyer,20,M,Mangaluru,Lower-mid,Diploma,Shop owner
+P00294,Yusuf Setty,42,M,KR Puram,Mid,Graduate,Unknown
+P00295,Faisal Shetty,65,M,Hubballi,Lower-mid,Postgraduate,Unknown
+P00296,Imran Joshi,57,M,Yelahanka,High,Secondary,Mechanic
+P00297,Anita Kumar,22,M,Mysuru,Mid,Graduate,Unknown
+P00298,Sandeep Patil,44,M,Electronic City,Mid,Graduate,Shop owner
+P00299,Vijay Naidu,17,M,Whitefield,Lower-mid,None,Daily wage
+P00300,Vijay Naidu,35,M,Rajajinagar,Lower-mid,Secondary,IT worker
+P00301,Anita Sharma,62,M,KR Puram,Low,None,Daily wage
+P00302,Ravi Pai,57,M,BTM,Upper-mid,Postgraduate,Vendor
+P00303,Bhavani Rao,51,M,Mysuru,Lower-mid,Diploma,Vendor
+P00304,Asha Desai,27,M,Hubballi,Lower-mid,None,Unknown
+P00305,Rahul Sharma,53,M,BLR South,Mid,Primary,Clerk
+P00306,Manjunath Joshi,22,F,Mysuru,Low,Secondary,Vendor
+P00307,Meena Shetty,32,M,Electronic City,Lower-mid,Postgraduate,Student
+P00308,Mahesh Iyer,55,M,Jayanagar,Lower-mid,Diploma,Unknown
+P00309,Priya Achar,61,F,Mangaluru,Mid,Postgraduate,Driver
+P00310,Ganesh Shetty,31,M,BTM,Lower-mid,Primary,Shop owner
+P00311,Vinay Khan,54,M,Yelahanka,Lower-mid,Diploma,Shop owner
+P00312,Priya Gupta,26,M,BTM,Low,Diploma,Unknown
+P00313,Deepa Naidu,16,M,Rajajinagar,Upper-mid,Graduate,Shop owner
+P00314,Sahana Khan,59,M,Belagavi,Upper-mid,Diploma,Driver
+P00315,Faisal Joshi,17,F,Rajajinagar,Low,Secondary,Vendor
+P00316,Ramesh Bhat,26,F,Mangaluru,Mid,Diploma,Shop owner
+P00317,Yusuf Shetty,52,M,Mysuru,Upper-mid,Secondary,Shop owner
+P00318,Imran Raju,44,M,Yelahanka,Low,Postgraduate,Vendor
+P00319,Divya Reddy,44,M,Jayanagar,Lower-mid,None,Vendor
+P00320,Shilpa Raju,53,M,Belagavi,Mid,Diploma,Driver
+P00321,Roopa Nayak,66,M,Rajajinagar,Upper-mid,Graduate,Student
+P00322,Ramesh Murthy,54,M,KR Puram,High,Secondary,Clerk
+P00323,Sandeep Murthy,70,M,Hubballi,Upper-mid,Primary,Mechanic
+P00324,Deepa Murthy,57,M,BTM,Low,Postgraduate,Student
+P00325,Geetha Achar,41,M,Mangaluru,Mid,Postgraduate,Mechanic
+P00326,Vinay Sharma,20,M,Jayanagar,Lower-mid,Postgraduate,Clerk
+P00327,Nandini Sharma,47,M,BLR South,Upper-mid,Postgraduate,Daily wage
+P00328,Meena Desai,58,M,Jayanagar,Mid,Diploma,Vendor
+P00329,Sneha Hegde,47,M,Whitefield,Lower-mid,Graduate,Driver
+P00330,Sandeep Das,66,M,Hubballi,Mid,None,Daily wage
+P00331,Meena Kumar,23,F,BTM,Lower-mid,None,Mechanic
+P00332,Rahul Setty,24,F,Whitefield,Low,Secondary,Daily wage
+P00333,Nandini Murthy,21,M,Hubballi,Low,Diploma,Clerk
+P00334,Arun Khan,57,M,Jayanagar,Low,Diploma,Daily wage
+P00335,Lakshmi Joshi,30,M,Electronic City,Low,Postgraduate,Student
+P00336,Kiran Khan,60,M,Jayanagar,Low,None,Daily wage
+P00337,Anita Pai,39,F,BTM,Lower-mid,Primary,Driver
+P00338,Manjunath Prasad,52,M,Hubballi,Low,Secondary,Vendor
+P00339,Vijay Khan,55,M,Rajajinagar,Low,None,Driver
+P00340,Kiran Joshi,62,M,Yelahanka,Lower-mid,Primary,Vendor
+P00341,Reshma Desai,21,M,Mangaluru,Mid,Graduate,Clerk
+P00342,Ravi Achar,35,M,Mangaluru,Lower-mid,Postgraduate,Mechanic
+P00343,Santosh Desai,19,F,Rajajinagar,Lower-mid,None,Vendor
+P00344,Sahana Desai,54,M,BLR South,High,Secondary,Driver
+P00345,Vinay Joshi,42,M,Hubballi,Low,Diploma,Daily wage
+P00346,Ravi Joshi,20,M,Rajajinagar,Low,None,Mechanic
+P00347,Yusuf Bhat,56,M,Yelahanka,Lower-mid,Diploma,Daily wage
+P00348,Ramesh Gupta,55,M,Jayanagar,Lower-mid,Graduate,Vendor
+P00349,Vijay Gupta,36,M,Hubballi,Mid,Postgraduate,Daily wage
+P00350,Divya Setty,43,M,Rajajinagar,Low,None,Mechanic
+P00351,Kiran Sharma,55,M,Whitefield,Mid,Postgraduate,Driver
+P00352,Kiran Kumar,61,M,BLR South,Low,Secondary,Shop owner
+P00353,Bhavani Raju,32,M,BTM,Mid,Secondary,Daily wage
+P00354,Ravi Pai,67,M,Mysuru,Low,Postgraduate,Unknown
+P00355,Manjunath Das,45,M,BLR South,Lower-mid,Graduate,Driver
+P00356,Nandini Rao,32,M,Mangaluru,Mid,None,Vendor
+P00357,Yusuf Kumar,18,F,BLR South,Low,Diploma,Student
+P00358,Vinay Nayak,27,F,BLR South,Lower-mid,Postgraduate,Mechanic
+P00359,Arun Pai,31,M,Belagavi,Lower-mid,None,Unknown
+P00360,Nandini Shetty,48,M,BLR South,Low,Graduate,Unemployed
+P00361,Asha Gowda,45,F,Whitefield,Lower-mid,Graduate,IT worker
+P00362,Suresh Naidu,28,M,Whitefield,Mid,Primary,IT worker
+P00363,Nandini Joshi,47,F,Rajajinagar,Mid,Graduate,Vendor
+P00364,Vijay Kumar,42,M,Mysuru,Lower-mid,Postgraduate,Unemployed
+P00365,Pooja Kumar,64,M,Belagavi,Mid,None,Vendor
+P00366,Bhavani Patil,42,M,BLR South,High,Primary,Clerk
+P00367,Faisal Reddy,30,F,Mysuru,Lower-mid,Secondary,IT worker
+P00368,Faisal Joshi,22,M,Hubballi,Upper-mid,None,Unknown
+P00369,Sandeep Reddy,43,M,BTM,Low,Secondary,Student
+P00370,Asha Setty,69,M,KR Puram,Lower-mid,Primary,Daily wage
+P00371,Rahul Nayak,65,M,Jayanagar,Low,Primary,IT worker
+P00372,Meena Pai,42,M,KR Puram,High,Primary,IT worker
+P00373,Divya Sharma,32,F,Jayanagar,Low,Postgraduate,Clerk
+P00374,Mahesh Reddy,29,F,KR Puram,Low,Postgraduate,Vendor
+P00375,Harish Iyer,48,M,Whitefield,Low,Primary,Unemployed
+P00376,Asha Sharma,51,M,Rajajinagar,Low,None,Driver
+P00377,Kiran Kumar,19,F,Rajajinagar,Low,Diploma,Student
+P00378,Faisal Joshi,53,M,Jayanagar,Low,None,Vendor
+P00379,Rajesh Nayak,21,F,KR Puram,Low,Diploma,Unemployed
+P00380,Naveen Joshi,43,F,Yelahanka,Lower-mid,Diploma,Mechanic
+P00381,Priya Naidu,29,F,Whitefield,Low,Primary,Unemployed
+P00382,Roopa Kulkarni,55,M,Whitefield,Lower-mid,Graduate,IT worker
+P00383,Deepa Gowda,33,M,Yelahanka,Low,Graduate,Vendor
+P00384,Ramesh Kumar,40,F,KR Puram,Lower-mid,Diploma,Student
+P00385,Sandeep Prasad,36,M,BTM,Low,Graduate,Vendor
+P00386,Ravi Murthy,19,F,Electronic City,Lower-mid,Graduate,Vendor
+P00387,Naveen Shetty,31,M,Whitefield,Lower-mid,Postgraduate,Unemployed
+P00388,Arun Joshi,70,F,Yelahanka,Lower-mid,Primary,Driver
+P00389,Geetha Joshi,36,F,Belagavi,Lower-mid,Graduate,Unemployed
+P00390,Harish Joshi,52,M,Rajajinagar,Upper-mid,Diploma,Shop owner
+P00391,Divya Rao,47,M,BLR South,Low,Primary,Unemployed
+P00392,Bhavani Das,16,M,Mangaluru,Low,Primary,Student
+P00393,Priya Pai,19,M,Mangaluru,Mid,Primary,Daily wage
+P00394,Bhavani Naidu,20,M,Hubballi,Lower-mid,None,Student
+P00395,Divya Pai,24,F,Belagavi,High,Postgraduate,IT worker
+P00396,Ganesh Rao,61,F,Belagavi,Upper-mid,Graduate,Student
+P00397,Arun Achar,53,F,Yelahanka,Lower-mid,Postgraduate,Clerk
+P00398,Lakshmi Rao,62,M,Belagavi,High,Diploma,Unknown
+P00399,Imran Rao,54,M,Mangaluru,Low,Graduate,Daily wage
+P00400,Sahana Nayak,37,M,Rajajinagar,Lower-mid,Secondary,Driver
+P00401,Faisal Setty,58,M,KR Puram,Lower-mid,Secondary,Vendor
+P00402,Geetha Setty,20,M,Jayanagar,Mid,None,Mechanic
+P00403,Rajesh Raju,42,F,Yelahanka,Lower-mid,Diploma,Student
+P00404,Ramesh Iyer,22,F,Mangaluru,Mid,Postgraduate,Vendor
+P00405,Naveen Sharma,20,F,BLR South,Low,Secondary,Clerk
+P00406,Anita Gowda,37,M,Yelahanka,Low,None,Shop owner
+P00407,Faisal Pai,54,F,Electronic City,Mid,Diploma,Driver
+P00408,Mahesh Khan,26,M,KR Puram,Low,Primary,Mechanic
+P00409,Jyothi Raju,62,M,Hubballi,Low,Primary,Daily wage
+P00410,Deepa Iyer,52,M,Electronic City,Low,Secondary,Unemployed
+P00411,Sneha Gowda,34,F,Hubballi,Mid,Primary,Daily wage
+P00412,Ravi Hegde,26,M,Jayanagar,Lower-mid,None,Clerk
+P00413,Asha Das,47,F,Whitefield,Low,Graduate,Mechanic
+P00414,Priya Naidu,40,M,Electronic City,Low,Diploma,IT worker
+P00415,Mohan Patil,69,M,BLR South,Low,Postgraduate,Daily wage
+P00416,Faisal Achar,38,F,Yelahanka,High,Graduate,Vendor
+P00417,Jyothi Reddy,69,M,Mysuru,Lower-mid,Graduate,IT worker
+P00418,Sandeep Patil,46,M,Yelahanka,Upper-mid,Postgraduate,Unemployed
+P00419,Yusuf Joshi,49,F,Hubballi,High,Primary,Daily wage
+P00420,Rajesh Rao,26,F,Rajajinagar,Low,Diploma,Daily wage
+P00421,Sneha Hegde,68,M,Mangaluru,Low,Postgraduate,Daily wage
+P00422,Faisal Iyer,51,M,KR Puram,Upper-mid,Graduate,IT worker
+P00423,Suresh Setty,55,M,Yelahanka,Low,Primary,Driver
+P00424,Sandeep Joshi,53,M,Jayanagar,Upper-mid,Graduate,Daily wage
+P00425,Santosh Gupta,38,F,Whitefield,Lower-mid,Diploma,Unknown
+P00426,Mahesh Das,18,M,Yelahanka,Low,Graduate,Mechanic
+P00427,Imran Iyer,37,M,BLR South,Mid,Secondary,Student
+P00428,Ravi Pai,68,F,Whitefield,Low,Diploma,Daily wage
+P00429,Arun Nayak,35,F,Electronic City,Mid,Secondary,Clerk
+P00430,Prakash Kulkarni,57,M,Electronic City,Low,Diploma,IT worker
+P00431,Bhavani Naidu,68,M,BTM,Low,Postgraduate,Shop owner
+P00432,Asha Nayak,65,F,Mangaluru,Low,Primary,Vendor
+P00433,Deepa Patil,18,M,KR Puram,Mid,Secondary,Student
+P00434,Meena Prasad,41,M,Jayanagar,Mid,Primary,Student
+P00435,Sahana Kulkarni,44,M,Electronic City,Mid,Secondary,Student
+P00436,Naveen Murthy,63,F,Jayanagar,Low,Diploma,Unemployed
+P00437,Naveen Joshi,65,F,Rajajinagar,Mid,Postgraduate,Vendor
+P00438,Reshma Desai,42,M,Hubballi,Low,Primary,Driver
+P00439,Mahesh Kumar,30,M,Whitefield,Mid,Postgraduate,Clerk
+P00440,Sneha Iyer,70,M,Whitefield,Low,Secondary,Shop owner
+P00441,Roopa Iyer,53,M,Mysuru,High,Secondary,Shop owner
+P00442,Mahesh Kulkarni,34,M,Jayanagar,Lower-mid,Secondary,Clerk
+P00443,Ganesh Murthy,32,M,Hubballi,Low,Primary,Shop owner
+P00444,Geetha Reddy,67,F,Mangaluru,Lower-mid,Secondary,Driver
+P00445,Ravi Desai,47,F,Whitefield,Upper-mid,Diploma,Mechanic
+P00446,Imran Joshi,61,F,Rajajinagar,Lower-mid,Postgraduate,Vendor
+P00447,Ramesh Desai,66,M,Hubballi,Lower-mid,Secondary,Driver
+P00448,Jyothi Rao,34,M,BTM,Mid,Postgraduate,Shop owner
+P00449,Priya Achar,37,M,Rajajinagar,Lower-mid,Postgraduate,Clerk
+P00450,Prakash Pai,39,M,Whitefield,Lower-mid,None,IT worker
+P00451,Deepa Desai,53,M,Mangaluru,Low,Primary,Shop owner
+P00452,Kiran Achar,40,M,Yelahanka,Low,Primary,Driver
+P00453,Rahul Pai,42,F,Electronic City,Low,Postgraduate,Driver
+P00454,Faisal Das,37,M,BTM,Lower-mid,None,Unemployed
+P00455,Rajesh Murthy,29,M,BTM,Lower-mid,Primary,IT worker
+P00456,Faisal Nayak,55,M,Yelahanka,Lower-mid,Diploma,Mechanic
+P00457,Suresh Reddy,50,M,KR Puram,High,Secondary,Shop owner
+P00458,Rahul Kumar,59,M,Belagavi,Low,Postgraduate,Student
+P00459,Divya Nayak,22,M,Mangaluru,Lower-mid,None,Unemployed
+P00460,Divya Bhat,45,M,Mangaluru,Lower-mid,Diploma,Driver
+P00461,Pooja Das,38,M,BTM,High,Diploma,Unemployed
+P00462,Arun Patil,62,F,Rajajinagar,Mid,Graduate,Shop owner
+P00463,Naveen Shetty,39,M,BLR South,Lower-mid,Postgraduate,Clerk
+P00464,Ramesh Kulkarni,19,M,BLR South,Mid,Postgraduate,Unemployed
+P00465,Deepa Setty,23,M,Yelahanka,Low,Secondary,IT worker
+P00466,Vijay Hegde,60,M,BLR South,Lower-mid,Postgraduate,Daily wage
+P00467,Bhavani Murthy,55,M,BTM,Lower-mid,None,Shop owner
+P00468,Roopa Shetty,34,M,Jayanagar,Lower-mid,Graduate,Vendor
+P00469,Mohan Prasad,28,M,Yelahanka,Low,None,Shop owner
+P00470,Sahana Hegde,60,F,KR Puram,Low,None,Daily wage
+P00471,Kiran Joshi,58,M,Jayanagar,Mid,None,Daily wage
+P00472,Mohan Desai,30,M,Whitefield,Low,None,Daily wage
+P00473,Priya Reddy,70,M,Hubballi,Lower-mid,Postgraduate,Daily wage
+P00474,Anita Reddy,16,F,Hubballi,Mid,Secondary,Student
+P00475,Rajesh Kulkarni,33,F,Jayanagar,Lower-mid,Secondary,Driver
+P00476,Kiran Iyer,41,F,Whitefield,Upper-mid,Postgraduate,IT worker
+P00477,Prakash Desai,67,M,BTM,Mid,None,Driver
+P00478,Anita Khan,53,M,Mangaluru,Mid,Primary,Unknown
+P00479,Vinay Naidu,55,M,Hubballi,Upper-mid,Postgraduate,Driver
+P00480,Karthik Das,23,F,Electronic City,Low,Secondary,Student
+P00481,Suresh Setty,59,M,Belagavi,Lower-mid,Graduate,Vendor
+P00482,Pooja Prasad,49,M,Mangaluru,Low,Postgraduate,Vendor
+P00483,Karthik Naidu,58,M,Yelahanka,Low,Graduate,Unknown
+P00484,Deepa Kumar,57,F,Mysuru,Upper-mid,Diploma,Driver
+P00485,Manjunath Das,36,M,Whitefield,Low,Primary,Shop owner
+P00486,Vinay Iyer,68,M,Electronic City,Lower-mid,Graduate,IT worker
+P00487,Faisal Das,44,M,Electronic City,Mid,None,Daily wage
+P00488,Asha Khan,18,M,BLR South,Upper-mid,Graduate,Unknown
+P00489,Divya Prasad,51,M,Hubballi,Lower-mid,Secondary,Student
+P00490,Deepa Patil,70,M,Mysuru,Mid,Graduate,IT worker
+P00491,Nandini Setty,44,M,Hubballi,Low,Secondary,Student
+P00492,Santosh Gupta,49,M,Jayanagar,Low,Primary,IT worker
+P00493,Lakshmi Setty,63,M,Jayanagar,Low,Primary,Vendor
+P00494,Kiran Iyer,29,M,Rajajinagar,Mid,None,Mechanic
+P00495,Imran Desai,69,M,Jayanagar,Mid,Diploma,IT worker
+P00496,Kavya Prasad,24,F,BLR South,Lower-mid,None,Shop owner
+P00497,Sneha Joshi,46,F,BTM,Mid,Primary,Driver
+P00498,Anita Iyer,58,M,KR Puram,Lower-mid,Diploma,Mechanic
+P00499,Mahesh Setty,64,M,Yelahanka,High,Secondary,IT worker
+P00500,Lakshmi Nayak,42,M,Belagavi,Lower-mid,Postgraduate,Shop owner
+P00501,Ganesh Setty,63,F,Hubballi,Low,Primary,Unknown
+P00502,Santosh Achar,38,F,BTM,High,Postgraduate,Driver
+P00503,Yusuf Gupta,60,M,Belagavi,Low,Secondary,Shop owner
+P00504,Karthik Joshi,52,F,Belagavi,Lower-mid,Postgraduate,Shop owner
+P00505,Santosh Khan,67,M,Jayanagar,Low,Primary,Unemployed
+P00506,Deepa Hegde,33,M,BTM,High,Postgraduate,Clerk
+P00507,Vijay Reddy,60,F,Rajajinagar,Mid,None,Student
+P00508,Rajesh Shetty,55,F,Belagavi,Lower-mid,Primary,Shop owner
+P00509,Vinay Patil,48,F,Belagavi,Low,Postgraduate,Unemployed
+P00510,Vinay Iyer,42,F,Hubballi,Lower-mid,Graduate,Unemployed
+P00511,Suresh Raju,32,M,Electronic City,Upper-mid,Postgraduate,Student
+P00512,Kavya Gupta,63,M,Belagavi,High,Secondary,IT worker
+P00513,Priya Achar,20,M,BTM,Mid,None,Mechanic
+P00514,Imran Khan,33,M,BTM,Low,Secondary,Unemployed
+P00515,Pooja Sharma,61,F,BLR South,Low,Secondary,Unknown
+P00516,Deepa Desai,55,F,Whitefield,Lower-mid,Graduate,Shop owner
+P00517,Harish Gowda,66,M,Mysuru,Low,Primary,Shop owner
+P00518,Manjunath Prasad,26,M,Mysuru,Lower-mid,Secondary,Vendor
+P00519,Shilpa Achar,37,M,Whitefield,Low,Graduate,Shop owner
+P00520,Karthik Gupta,68,M,Hubballi,Low,Postgraduate,Student
+P00521,Rajesh Patil,57,M,Mangaluru,Low,None,Student
+P00522,Vinay Shetty,40,M,Belagavi,Low,Graduate,Student
+P00523,Yusuf Prasad,44,M,Whitefield,Upper-mid,Primary,Student
+P00524,Yusuf Gowda,22,M,Mysuru,Lower-mid,Postgraduate,Daily wage
+P00525,Shilpa Achar,56,M,Hubballi,Lower-mid,None,Vendor
+P00526,Ramesh Setty,63,M,Hubballi,Upper-mid,None,Driver
+P00527,Ravi Sharma,61,M,Jayanagar,Low,Primary,Clerk
+P00528,Jyothi Gowda,52,F,Whitefield,Lower-mid,Diploma,Mechanic
+P00529,Sneha Pai,17,M,Jayanagar,Lower-mid,Postgraduate,Unknown
+P00530,Manjunath Raju,53,M,Jayanagar,Lower-mid,Graduate,Daily wage
+P00531,Santosh Achar,35,M,Whitefield,Mid,Diploma,Mechanic
+P00532,Asha Achar,17,M,Mysuru,Low,Postgraduate,Mechanic
+P00533,Ramesh Bhat,56,M,Hubballi,Upper-mid,Postgraduate,Student
+P00534,Suresh Gupta,51,M,BLR South,Low,Graduate,Mechanic
+P00535,Ramesh Gupta,21,M,Belagavi,Mid,Postgraduate,Student
+P00536,Shilpa Khan,57,F,BTM,Low,Primary,Unknown
+P00537,Mohan Hegde,23,M,Mangaluru,Upper-mid,Graduate,IT worker
+P00538,Jyothi Gowda,34,M,Whitefield,Low,Postgraduate,Unknown
+P00539,Sahana Pai,38,M,Hubballi,Low,Secondary,Unknown
+P00540,Manjunath Hegde,36,M,KR Puram,Mid,Secondary,Unknown
+P00541,Vijay Joshi,52,M,KR Puram,High,Primary,Unemployed
+P00542,Ganesh Patil,66,M,Belagavi,Mid,Secondary,Student
+P00543,Lakshmi Achar,62,M,Electronic City,Lower-mid,Secondary,Clerk
+P00544,Sahana Gupta,22,M,Mangaluru,Low,Secondary,Driver
+P00545,Ramesh Hegde,32,M,Hubballi,Low,None,Unemployed
+P00546,Yusuf Desai,17,F,Mangaluru,Lower-mid,Graduate,Vendor
+P00547,Imran Gupta,32,M,Mysuru,Lower-mid,Primary,Student
+P00548,Asha Patil,65,M,Whitefield,Low,Graduate,Shop owner
+P00549,Faisal Iyer,39,M,Hubballi,Low,Graduate,Driver
+P00550,Yusuf Nayak,44,M,Mangaluru,High,Postgraduate,Driver
+P00551,Karthik Naidu,18,M,Electronic City,Low,Secondary,Student
+P00552,Arun Reddy,58,M,KR Puram,Lower-mid,Diploma,Unemployed
+P00553,Imran Desai,36,M,Mysuru,Mid,Secondary,Clerk
+P00554,Kavya Gupta,52,M,Hubballi,Lower-mid,Graduate,Daily wage
+P00555,Bhavani Murthy,40,F,Rajajinagar,Lower-mid,Secondary,Student
+P00556,Sahana Das,54,M,BTM,Lower-mid,Primary,Daily wage
+P00557,Yusuf Desai,33,M,BTM,Low,Graduate,Daily wage
+P00558,Arun Khan,67,M,Jayanagar,Lower-mid,Diploma,IT worker
+P00559,Shilpa Joshi,26,M,Yelahanka,Low,None,Driver
+P00560,Sandeep Joshi,26,M,Mysuru,Low,Graduate,Driver
+P00561,Deepa Rao,32,F,Mysuru,High,Graduate,Unknown
+P00562,Ravi Raju,62,M,Whitefield,High,Primary,IT worker
+P00563,Mahesh Das,46,M,Yelahanka,Mid,Graduate,Driver
+P00564,Roopa Achar,48,M,Belagavi,Mid,Diploma,Unknown
+P00565,Kavya Gowda,30,M,BTM,Low,Primary,Shop owner
+P00566,Yusuf Achar,42,F,Mangaluru,Low,Diploma,Unknown
+P00567,Mahesh Reddy,66,M,Jayanagar,Low,Postgraduate,Driver
+P00568,Mahesh Gupta,68,M,Hubballi,Mid,Graduate,Mechanic
+P00569,Nandini Reddy,60,M,Rajajinagar,High,Diploma,Mechanic
+P00570,Harish Joshi,67,M,Belagavi,Lower-mid,Diploma,Driver
+P00571,Mohan Das,65,M,Jayanagar,Low,Graduate,Mechanic
+P00572,Mohan Hegde,16,M,BLR South,Lower-mid,None,Shop owner
+P00573,Suresh Iyer,57,M,KR Puram,Lower-mid,None,Driver
+P00574,Sneha Desai,53,M,Mysuru,Lower-mid,Secondary,Unknown
+P00575,Reshma Achar,41,M,Yelahanka,Lower-mid,Graduate,IT worker
+P00576,Priya Naidu,51,M,Whitefield,High,Graduate,Student
+P00577,Asha Raju,24,F,Hubballi,Low,Primary,IT worker
+P00578,Naveen Shetty,29,M,KR Puram,Upper-mid,Graduate,Unemployed
+P00579,Naveen Iyer,56,M,Jayanagar,Upper-mid,Diploma,Unknown
+P00580,Sneha Gowda,20,M,KR Puram,Low,None,Mechanic
+P00581,Asha Kulkarni,57,M,Belagavi,High,None,Driver
+P00582,Sahana Sharma,16,M,Hubballi,High,Graduate,Clerk
+P00583,Rahul Reddy,66,M,Mysuru,Mid,Graduate,Driver
+P00584,Imran Naidu,31,M,BTM,Low,Secondary,Mechanic
+P00585,Harish Achar,41,M,Rajajinagar,Lower-mid,Postgraduate,Daily wage
+P00586,Faisal Gupta,34,M,Mysuru,Upper-mid,Secondary,Student
+P00587,Reshma Patil,54,F,Electronic City,Upper-mid,Graduate,Unemployed
+P00588,Mohan Rao,42,M,Mysuru,Low,Secondary,Student
+P00589,Kiran Prasad,32,F,Mangaluru,Low,Diploma,Mechanic
+P00590,Sandeep Das,65,M,KR Puram,High,Diploma,IT worker
+P00591,Kavya Kumar,46,M,Jayanagar,Lower-mid,Primary,Vendor
+P00592,Ganesh Khan,38,M,BLR South,Mid,Secondary,Vendor
+P00593,Santosh Gowda,41,M,KR Puram,Low,Primary,IT worker
+P00594,Ganesh Naidu,29,F,Whitefield,Low,Postgraduate,Vendor
+P00595,Sahana Raju,28,M,Rajajinagar,Upper-mid,Primary,Vendor
+P00596,Rahul Patil,69,M,BTM,Mid,None,Daily wage
+P00597,Sahana Kulkarni,16,M,Mysuru,High,Diploma,Student
+P00598,Roopa Pai,47,F,Mangaluru,Upper-mid,Diploma,Driver
+P00599,Yusuf Murthy,41,M,Mangaluru,Low,Graduate,Mechanic
+P00600,Karthik Gupta,18,M,Yelahanka,Upper-mid,Primary,IT worker
+P00601,Kiran Setty,49,M,Belagavi,Low,Postgraduate,Vendor
+P00602,Vinay Joshi,22,M,Mangaluru,Upper-mid,Primary,Shop owner
+P00603,Mohan Patil,33,M,Mangaluru,Lower-mid,Primary,IT worker
+P00604,Sneha Hegde,42,M,KR Puram,Lower-mid,Diploma,Clerk
+P00605,Rajesh Rao,52,M,Mangaluru,Mid,None,Clerk
+P00606,Geetha Gupta,43,F,Rajajinagar,Low,Postgraduate,Driver
+P00607,Karthik Kumar,27,M,BTM,High,Postgraduate,Shop owner
+P00608,Ramesh Raju,36,F,Whitefield,Low,Graduate,Unemployed
+P00609,Asha Shetty,60,M,Rajajinagar,Upper-mid,Diploma,Daily wage
+P00610,Rajesh Raju,37,M,KR Puram,Lower-mid,Secondary,Student
+P00611,Ravi Khan,23,M,Hubballi,High,Primary,Unknown
+P00612,Sandeep Desai,57,M,Whitefield,Lower-mid,Postgraduate,Shop owner
+P00613,Sahana Raju,44,F,Yelahanka,Mid,Diploma,Driver
+P00614,Naveen Desai,67,F,Yelahanka,Mid,Graduate,Mechanic
+P00615,Manjunath Gowda,26,M,KR Puram,Lower-mid,Secondary,Clerk
+P00616,Mahesh Desai,41,M,Electronic City,Mid,Secondary,Unknown
+P00617,Bhavani Sharma,42,M,BLR South,Low,Primary,Clerk
+P00618,Faisal Hegde,26,M,Jayanagar,Low,Diploma,Shop owner
+P00619,Deepa Kumar,65,M,Jayanagar,Low,Graduate,Driver
+P00620,Faisal Desai,40,M,Rajajinagar,Mid,Diploma,Driver
+P00621,Lakshmi Prasad,69,M,BLR South,Mid,Secondary,IT worker
+P00622,Meena Gupta,33,M,BTM,High,Postgraduate,Shop owner
+P00623,Priya Joshi,54,M,Belagavi,Mid,Graduate,Mechanic
+P00624,Bhavani Desai,56,M,KR Puram,Lower-mid,Primary,Daily wage
+P00625,Rajesh Bhat,39,M,BTM,Lower-mid,None,Shop owner
+P00626,Lakshmi Naidu,34,M,BLR South,Mid,Diploma,IT worker
+P00627,Divya Kumar,65,M,Whitefield,Mid,None,Shop owner
+P00628,Nandini Hegde,42,F,Yelahanka,Lower-mid,Primary,Mechanic
+P00629,Vinay Patil,32,M,Hubballi,Low,Graduate,Clerk
+P00630,Santosh Desai,63,M,Whitefield,Lower-mid,None,Driver
+P00631,Lakshmi Bhat,23,M,Mangaluru,Lower-mid,Postgraduate,Unknown
+P00632,Sahana Hegde,36,M,BLR South,High,None,Driver
+P00633,Anita Bhat,33,M,Electronic City,Mid,Primary,Daily wage
+P00634,Vijay Kumar,47,M,Yelahanka,Lower-mid,Diploma,Student
+P00635,Meena Setty,66,M,Jayanagar,Upper-mid,Primary,Unemployed
+P00636,Reshma Iyer,20,M,BTM,Low,Secondary,Mechanic
+P00637,Suresh Shetty,65,M,Yelahanka,Mid,Diploma,Vendor
+P00638,Imran Hegde,45,M,Jayanagar,Lower-mid,Primary,IT worker
+P00639,Vinay Achar,35,F,BTM,Mid,None,Shop owner
+P00640,Bhavani Shetty,32,M,Whitefield,Low,None,Vendor
+P00641,Kiran Patil,56,M,BLR South,Low,Secondary,Unknown
+P00642,Kiran Iyer,66,M,BLR South,Mid,Postgraduate,IT worker
+P00643,Mahesh Nayak,39,M,Rajajinagar,Low,None,Unknown
+P00644,Pooja Desai,19,M,Hubballi,Low,Graduate,Daily wage
+P00645,Lakshmi Das,30,M,Mysuru,Mid,Secondary,IT worker
+P00646,Rahul Kumar,60,M,Belagavi,Low,None,IT worker
+P00647,Rajesh Gupta,34,M,Electronic City,Low,Primary,Shop owner
+P00648,Harish Pai,62,M,Mangaluru,Upper-mid,Graduate,Driver
+P00649,Manjunath Prasad,25,M,Whitefield,Lower-mid,Diploma,Unemployed
+P00650,Yusuf Iyer,62,M,BLR South,Mid,Secondary,Unknown
+P00651,Geetha Pai,62,M,Mysuru,Upper-mid,Primary,Shop owner
+P00652,Sahana Gupta,25,M,KR Puram,Lower-mid,Secondary,Daily wage
+P00653,Anita Prasad,58,M,BTM,Low,None,Vendor
+P00654,Anita Das,28,M,Mangaluru,Mid,Diploma,IT worker
+P00655,Bhavani Kulkarni,60,M,BLR South,Lower-mid,Graduate,Daily wage
+P00656,Suresh Hegde,57,M,Jayanagar,Lower-mid,Postgraduate,Unemployed
+P00657,Nandini Gupta,63,F,Yelahanka,Upper-mid,Postgraduate,Unemployed
+P00658,Roopa Murthy,49,M,Jayanagar,Upper-mid,None,Vendor
+P00659,Bhavani Shetty,22,M,Mysuru,Lower-mid,Primary,Shop owner
+P00660,Geetha Joshi,56,F,Mysuru,Mid,Diploma,Daily wage
+P00661,Sandeep Naidu,59,M,Hubballi,Lower-mid,None,Driver
+P00662,Priya Gupta,41,M,Hubballi,Low,Graduate,IT worker
+P00663,Harish Pai,51,F,KR Puram,Upper-mid,Diploma,Mechanic
+P00664,Ganesh Kulkarni,31,M,Rajajinagar,Lower-mid,Graduate,Clerk
+P00665,Nandini Sharma,44,F,BLR South,Mid,Secondary,Unknown
+P00666,Ravi Prasad,24,F,Whitefield,Low,Primary,Vendor
+P00667,Ganesh Kumar,65,F,Belagavi,Upper-mid,Graduate,Shop owner
+P00668,Jyothi Joshi,52,M,BLR South,Lower-mid,Primary,Driver
+P00669,Mohan Naidu,53,M,Whitefield,Upper-mid,None,Unknown
+P00670,Asha Joshi,29,M,Belagavi,Lower-mid,Diploma,Driver
+P00671,Sahana Setty,60,M,Jayanagar,Mid,Secondary,Unemployed
+P00672,Sandeep Iyer,21,F,KR Puram,Lower-mid,Diploma,Mechanic
+P00673,Kiran Patil,63,M,Mangaluru,Upper-mid,Postgraduate,Mechanic
+P00674,Deepa Bhat,49,M,Mysuru,Lower-mid,Secondary,Shop owner
+P00675,Arun Nayak,19,M,Yelahanka,High,Graduate,Unknown
+P00676,Yusuf Gowda,30,M,Yelahanka,Low,Secondary,Daily wage
+P00677,Karthik Joshi,63,M,Yelahanka,Low,Diploma,Shop owner
+P00678,Sneha Setty,24,M,Electronic City,Lower-mid,Diploma,Mechanic
+P00679,Sandeep Hegde,51,M,Belagavi,Lower-mid,Primary,Daily wage
+P00680,Reshma Khan,36,M,Mangaluru,Low,Postgraduate,Mechanic
+P00681,Sneha Naidu,38,M,KR Puram,Mid,None,Clerk
+P00682,Naveen Naidu,55,F,Electronic City,Mid,Diploma,Unemployed
+P00683,Arun Hegde,59,M,Belagavi,Upper-mid,None,Unemployed
+P00684,Geetha Kulkarni,25,F,Whitefield,Low,Postgraduate,Daily wage
+P00685,Divya Sharma,46,M,Rajajinagar,Mid,Primary,Vendor
+P00686,Ramesh Prasad,64,M,Electronic City,Mid,Primary,Unemployed
+P00687,Vinay Joshi,58,M,Whitefield,Low,Secondary,Vendor
+P00688,Roopa Murthy,19,M,BLR South,Low,Postgraduate,Clerk
+P00689,Nandini Shetty,17,M,Hubballi,Lower-mid,Diploma,Shop owner
+P00690,Anita Pai,47,F,Mysuru,Low,Primary,Shop owner
+P00691,Meena Gupta,61,M,Rajajinagar,Upper-mid,Secondary,Student
+P00692,Sahana Iyer,63,M,KR Puram,Mid,Secondary,Clerk
+P00693,Geetha Prasad,33,F,Hubballi,Low,Diploma,Unemployed
+P00694,Jyothi Murthy,30,M,Yelahanka,Mid,None,Mechanic
+P00695,Bhavani Achar,55,F,Hubballi,Low,Primary,Unknown
+P00696,Vijay Khan,35,F,KR Puram,Lower-mid,Primary,Vendor
+P00697,Lakshmi Joshi,50,M,Rajajinagar,Upper-mid,Secondary,Shop owner
+P00698,Lakshmi Khan,65,M,Mangaluru,Upper-mid,Secondary,Daily wage
+P00699,Jyothi Gupta,62,M,KR Puram,Upper-mid,Primary,Unemployed
+P00700,Ganesh Khan,42,M,Belagavi,High,Postgraduate,Clerk
+P00701,Vijay Hegde,22,M,BLR South,Mid,Graduate,Unknown
+P00702,Reshma Kulkarni,52,M,Mangaluru,Low,Postgraduate,Unemployed
+P00703,Harish Gowda,60,M,BTM,Lower-mid,Graduate,IT worker
+P00704,Nandini Rao,70,M,Electronic City,Low,Primary,Vendor
+P00705,Imran Khan,64,F,Whitefield,High,Primary,Vendor
+P00706,Shilpa Gowda,27,F,Electronic City,Upper-mid,Diploma,Student
+P00707,Meena Patil,43,M,BLR South,Mid,Diploma,Student
+P00708,Asha Kulkarni,63,M,Mysuru,Lower-mid,Postgraduate,Unemployed
+P00709,Bhavani Shetty,44,M,BLR South,Upper-mid,Primary,Shop owner
+P00710,Ramesh Iyer,63,M,Yelahanka,Lower-mid,Postgraduate,Unemployed
+P00711,Rahul Bhat,44,M,Whitefield,Mid,Secondary,IT worker
+P00712,Naveen Khan,34,M,BLR South,Mid,Primary,IT worker
+P00713,Rajesh Gowda,62,M,BTM,Mid,Postgraduate,Shop owner
+P00714,Lakshmi Iyer,42,M,BLR South,Low,Graduate,Vendor
+P00715,Meena Gowda,32,M,Hubballi,Upper-mid,Primary,Daily wage
+P00716,Faisal Shetty,61,M,KR Puram,Low,Postgraduate,Mechanic
+P00717,Yusuf Kulkarni,26,M,Yelahanka,Low,Primary,Student
+P00718,Sandeep Achar,25,M,BTM,Low,Postgraduate,Unemployed
+P00719,Prakash Bhat,35,M,Electronic City,Low,Primary,Daily wage
+P00720,Lakshmi Hegde,16,M,Whitefield,Low,Diploma,IT worker
+P00721,Ramesh Kumar,54,F,Rajajinagar,Low,Postgraduate,IT worker
+P00722,Meena Khan,44,M,Mangaluru,Low,Graduate,Clerk
+P00723,Roopa Desai,51,F,Rajajinagar,Low,Primary,Unemployed
+P00724,Harish Reddy,25,F,Hubballi,Lower-mid,Graduate,Clerk
+P00725,Pooja Gowda,19,M,BTM,Low,Secondary,Unknown
+P00726,Mahesh Joshi,66,M,Electronic City,Mid,Secondary,Unemployed
+P00727,Faisal Bhat,36,M,Yelahanka,Upper-mid,Diploma,Shop owner
+P00728,Manjunath Bhat,46,M,Belagavi,Upper-mid,Secondary,Shop owner
+P00729,Prakash Prasad,29,M,Mangaluru,Low,Graduate,Shop owner
+P00730,Faisal Das,62,M,Belagavi,Low,Graduate,Student
+P00731,Mohan Prasad,52,F,KR Puram,Upper-mid,Graduate,Unknown
+P00732,Sahana Prasad,62,M,Electronic City,Upper-mid,Graduate,Vendor
+P00733,Santosh Hegde,16,M,Electronic City,Mid,None,Vendor
+P00734,Roopa Khan,42,M,KR Puram,Lower-mid,Postgraduate,Vendor
+P00735,Suresh Desai,28,M,Whitefield,Mid,Secondary,Clerk
+P00736,Yusuf Gupta,36,M,Jayanagar,Mid,Secondary,Mechanic
+P00737,Sandeep Kulkarni,17,F,Rajajinagar,Lower-mid,Secondary,IT worker
+P00738,Karthik Reddy,57,M,BTM,Mid,Graduate,Student
+P00739,Meena Khan,63,M,Mysuru,Low,Postgraduate,Student
+P00740,Jyothi Gupta,17,M,Hubballi,Lower-mid,Secondary,Daily wage
+P00741,Vijay Murthy,69,M,Yelahanka,Mid,Primary,Unknown
+P00742,Mahesh Iyer,27,M,Whitefield,Mid,Secondary,Unemployed
+P00743,Reshma Khan,21,M,Rajajinagar,Lower-mid,Secondary,Vendor
+P00744,Bhavani Bhat,27,M,BLR South,Mid,None,IT worker
+P00745,Yusuf Kumar,67,M,Mysuru,Low,Secondary,IT worker
+P00746,Bhavani Bhat,65,M,Jayanagar,Upper-mid,Graduate,Driver
+P00747,Shilpa Raju,18,M,Belagavi,Upper-mid,None,Unemployed
+P00748,Divya Reddy,59,F,Jayanagar,Lower-mid,None,Daily wage
+P00749,Bhavani Achar,63,M,Mangaluru,Mid,Postgraduate,Vendor
+P00750,Ganesh Hegde,28,M,Mysuru,Lower-mid,Diploma,Daily wage
+P00751,Reshma Nayak,26,M,BLR South,High,Graduate,Shop owner
+P00752,Anita Hegde,50,M,KR Puram,Low,Postgraduate,Clerk
+P00753,Sandeep Patil,26,M,Mangaluru,Upper-mid,Graduate,IT worker
+P00754,Deepa Nayak,17,M,Hubballi,Low,Diploma,Unemployed
+P00755,Faisal Khan,41,M,Mangaluru,Upper-mid,Postgraduate,IT worker
+P00756,Roopa Naidu,35,M,Rajajinagar,Mid,Postgraduate,Shop owner
+P00757,Faisal Sharma,52,M,Belagavi,Lower-mid,Diploma,Clerk
+P00758,Meena Das,30,F,BTM,Upper-mid,Graduate,Clerk
+P00759,Nandini Iyer,27,M,Hubballi,Lower-mid,Secondary,IT worker
+P00760,Sahana Kumar,20,M,KR Puram,Lower-mid,Primary,Clerk
+P00761,Harish Kulkarni,52,M,Jayanagar,Lower-mid,Postgraduate,Daily wage
+P00762,Ganesh Gupta,57,M,Whitefield,Lower-mid,Diploma,Unknown
+P00763,Prakash Patil,55,M,BTM,High,Diploma,Daily wage
+P00764,Pooja Hegde,68,M,Yelahanka,Mid,Diploma,Unknown
+P00765,Pooja Gupta,60,M,Hubballi,Mid,Postgraduate,Unknown
+P00766,Sahana Shetty,53,M,KR Puram,Lower-mid,Diploma,Driver
+P00767,Divya Iyer,20,M,Hubballi,Upper-mid,Diploma,Student
+P00768,Sahana Desai,58,M,Rajajinagar,Upper-mid,Graduate,Unemployed
+P00769,Vijay Achar,25,M,Whitefield,Lower-mid,Graduate,IT worker
+P00770,Rahul Hegde,59,F,Whitefield,Lower-mid,Postgraduate,Clerk
+P00771,Sneha Setty,38,F,Mangaluru,Low,Graduate,Mechanic
+P00772,Lakshmi Bhat,19,M,Mysuru,High,None,Shop owner
+P00773,Harish Shetty,34,F,Rajajinagar,Lower-mid,Graduate,Mechanic
+P00774,Ganesh Setty,40,M,Yelahanka,Lower-mid,Postgraduate,Driver
+P00775,Karthik Nayak,28,M,KR Puram,Upper-mid,Primary,Clerk
+P00776,Lakshmi Nayak,16,M,BLR South,Low,Diploma,Mechanic
+P00777,Lakshmi Gowda,24,M,Yelahanka,Upper-mid,Postgraduate,Unknown
+P00778,Sneha Kulkarni,27,M,Yelahanka,Lower-mid,Diploma,Mechanic
+P00779,Harish Patil,27,M,BLR South,Lower-mid,Postgraduate,Vendor
+P00780,Yusuf Murthy,42,F,Mangaluru,Lower-mid,None,Unknown
+P00781,Karthik Setty,39,M,Electronic City,High,None,Driver
+P00782,Bhavani Murthy,45,M,Mysuru,Upper-mid,None,Vendor
+P00783,Karthik Desai,63,M,Hubballi,Low,Postgraduate,Shop owner
+P00784,Kavya Bhat,55,M,KR Puram,Lower-mid,None,IT worker
+P00785,Meena Prasad,46,M,KR Puram,Lower-mid,Secondary,Clerk
+P00786,Naveen Reddy,60,F,Belagavi,Lower-mid,Graduate,Clerk
+P00787,Deepa Desai,46,M,Mangaluru,Low,Secondary,Unknown
+P00788,Ravi Bhat,47,M,Mysuru,Low,Secondary,Clerk
+P00789,Lakshmi Kulkarni,33,M,Whitefield,Low,None,Unknown
+P00790,Priya Joshi,63,M,Electronic City,Lower-mid,Primary,Clerk
+P00791,Geetha Das,27,F,BLR South,Lower-mid,None,Driver
+P00792,Mahesh Nayak,69,M,Yelahanka,Mid,Primary,IT worker
+P00793,Naveen Hegde,52,M,KR Puram,Low,Secondary,Daily wage
+P00794,Deepa Rao,45,M,Whitefield,Lower-mid,Graduate,Vendor
+P00795,Vinay Achar,61,M,Whitefield,Low,Diploma,Unemployed
+P00796,Santosh Sharma,40,M,Mysuru,Mid,None,Daily wage
+P00797,Ramesh Desai,38,F,Yelahanka,Mid,Postgraduate,Clerk
+P00798,Pooja Murthy,33,F,Whitefield,Mid,Diploma,IT worker
+P00799,Geetha Raju,59,M,Rajajinagar,Lower-mid,Postgraduate,Driver
+P00800,Ganesh Gupta,16,M,Jayanagar,Low,None,Shop owner
+P00801,Anita Achar,44,M,Belagavi,Low,Primary,Unemployed
+P00802,Ravi Kulkarni,21,M,Mangaluru,Mid,Primary,Unknown
+P00803,Kiran Setty,23,M,Mangaluru,Low,Postgraduate,Unknown
+P00804,Priya Shetty,60,M,Whitefield,Lower-mid,None,IT worker
+P00805,Reshma Khan,60,F,KR Puram,Low,None,Clerk
+P00806,Deepa Iyer,40,M,BLR South,Low,Secondary,Driver
+P00807,Rajesh Gowda,47,F,Rajajinagar,Mid,Primary,IT worker
+P00808,Anita Nayak,50,M,Rajajinagar,Mid,None,IT worker
+P00809,Mohan Shetty,18,M,Mangaluru,Mid,Diploma,Unemployed
+P00810,Sahana Nayak,57,M,BLR South,Mid,Secondary,Driver
+P00811,Pooja Iyer,52,M,Belagavi,High,Diploma,IT worker
+P00812,Sneha Iyer,70,M,Jayanagar,Lower-mid,None,Mechanic
+P00813,Karthik Shetty,52,M,KR Puram,Lower-mid,Secondary,Mechanic
+P00814,Deepa Desai,57,M,Mysuru,Upper-mid,Secondary,Daily wage
+P00815,Meena Bhat,57,M,Mysuru,Low,Diploma,Vendor
+P00816,Divya Setty,40,F,Hubballi,Mid,Diploma,Daily wage
+P00817,Rajesh Raju,28,M,Rajajinagar,Low,Graduate,Vendor
+P00818,Sahana Iyer,20,F,Hubballi,Lower-mid,Graduate,IT worker
+P00819,Ravi Reddy,37,M,Belagavi,Low,None,Vendor
+P00820,Bhavani Sharma,59,F,Mysuru,Low,Graduate,Vendor
+P00821,Manjunath Reddy,63,M,Hubballi,Low,Graduate,Unemployed
+P00822,Geetha Setty,57,M,BTM,Mid,Secondary,Daily wage
+P00823,Meena Kulkarni,26,F,Jayanagar,Upper-mid,None,Daily wage
+P00824,Sahana Kulkarni,67,M,Jayanagar,Upper-mid,Diploma,Student
+P00825,Asha Pai,23,F,Mangaluru,Lower-mid,Secondary,Vendor
+P00826,Imran Joshi,27,M,Jayanagar,Low,Diploma,Driver
+P00827,Nandini Gupta,26,M,Mangaluru,Low,None,Unknown
+P00828,Vinay Rao,17,F,Jayanagar,Low,Primary,Daily wage
+P00829,Kavya Bhat,42,M,Electronic City,Mid,Primary,Driver
+P00830,Reshma Prasad,44,M,BTM,Mid,None,Unknown
+P00831,Priya Setty,47,M,Jayanagar,Mid,Secondary,Student
+P00832,Prakash Kumar,51,M,Jayanagar,High,None,Unknown
+P00833,Nandini Gupta,48,M,Hubballi,Mid,Secondary,Unemployed
+P00834,Rahul Shetty,66,M,Electronic City,Lower-mid,Primary,Unemployed
+P00835,Deepa Desai,39,M,Yelahanka,Low,Graduate,IT worker
+P00836,Imran Shetty,63,M,Mysuru,Low,None,IT worker
+P00837,Yusuf Shetty,20,F,Belagavi,Lower-mid,Graduate,Student
+P00838,Prakash Hegde,63,M,KR Puram,Low,None,Student
+P00839,Arun Shetty,31,M,Rajajinagar,Lower-mid,Primary,Daily wage
+P00840,Karthik Joshi,47,M,Yelahanka,Low,Graduate,IT worker
+P00841,Priya Iyer,39,M,Belagavi,Low,Secondary,Clerk
+P00842,Rahul Pai,24,M,Mangaluru,Low,Primary,Daily wage
+P00843,Meena Sharma,42,M,KR Puram,Low,Secondary,Unknown
+P00844,Naveen Desai,55,F,Mangaluru,High,Primary,Daily wage
+P00845,Prakash Prasad,47,F,Rajajinagar,Mid,Diploma,Clerk
+P00846,Suresh Raju,43,M,Rajajinagar,Low,Diploma,Unknown
+P00847,Arun Joshi,25,F,BLR South,Lower-mid,None,Unemployed
+P00848,Karthik Raju,65,M,Yelahanka,Lower-mid,Diploma,Daily wage
+P00849,Rajesh Das,31,M,BLR South,Mid,Diploma,Vendor
+P00850,Lakshmi Naidu,34,M,Jayanagar,Low,Postgraduate,Clerk
+P00851,Naveen Setty,45,F,Belagavi,Mid,Diploma,IT worker
+P00852,Lakshmi Setty,41,M,KR Puram,Mid,Postgraduate,Unemployed
+P00853,Manjunath Iyer,60,M,BLR South,Low,Secondary,Unknown
+P00854,Ramesh Joshi,66,M,Hubballi,Low,Secondary,Unemployed
+P00855,Yusuf Achar,39,F,Jayanagar,Lower-mid,Diploma,Unknown
+P00856,Imran Naidu,39,M,Mysuru,Mid,Graduate,Vendor
+P00857,Lakshmi Pai,31,M,Hubballi,Lower-mid,Graduate,Vendor
+P00858,Arun Pai,38,F,Mysuru,Mid,Secondary,Unemployed
+P00859,Manjunath Naidu,38,M,Mysuru,Lower-mid,None,IT worker
+P00860,Ramesh Achar,68,M,Whitefield,Lower-mid,Secondary,Daily wage
+P00861,Rahul Sharma,21,M,BTM,Low,None,Daily wage
+P00862,Naveen Murthy,23,M,Electronic City,Low,Primary,Shop owner
+P00863,Ravi Bhat,42,F,Mysuru,High,Diploma,Student
+P00864,Prakash Sharma,63,M,Whitefield,Low,None,Vendor
+P00865,Bhavani Desai,37,M,KR Puram,Mid,Secondary,IT worker
+P00866,Kavya Achar,60,M,Mysuru,Lower-mid,Secondary,Unknown
+P00867,Lakshmi Bhat,26,F,Rajajinagar,Lower-mid,Secondary,Unemployed
+P00868,Vijay Naidu,34,M,BTM,Mid,Primary,Shop owner
+P00869,Santosh Rao,27,F,Belagavi,Upper-mid,Primary,Driver
+P00870,Geetha Shetty,18,F,Mangaluru,Low,Secondary,Student
+P00871,Priya Hegde,51,M,Hubballi,Lower-mid,Secondary,Driver
+P00872,Nandini Sharma,50,F,Mysuru,Lower-mid,None,Mechanic
+P00873,Sahana Nayak,45,F,BTM,Low,Postgraduate,Shop owner
+P00874,Yusuf Pai,57,M,Electronic City,Upper-mid,Graduate,Driver
+P00875,Sandeep Raju,44,M,Jayanagar,Mid,None,Driver
+P00876,Jyothi Shetty,35,M,Mangaluru,Upper-mid,Diploma,Student
+P00877,Faisal Pai,19,M,Rajajinagar,Mid,Primary,Clerk
+P00878,Rahul Kumar,21,M,Electronic City,Mid,None,Shop owner
+P00879,Asha Hegde,47,M,Mangaluru,Lower-mid,None,Student
+P00880,Asha Nayak,61,F,KR Puram,Lower-mid,None,Clerk
+P00881,Harish Naidu,35,F,Mysuru,Low,Postgraduate,IT worker
+P00882,Prakash Sharma,34,M,Belagavi,High,Diploma,Mechanic
+P00883,Lakshmi Joshi,54,M,Rajajinagar,Lower-mid,Graduate,Student
+P00884,Manjunath Joshi,64,M,BLR South,Lower-mid,Secondary,Mechanic
+P00885,Priya Gupta,45,M,BTM,Low,Diploma,Clerk
+P00886,Jyothi Das,18,F,Whitefield,Upper-mid,Secondary,IT worker
+P00887,Jyothi Raju,45,M,BLR South,Low,Secondary,IT worker
+P00888,Kiran Desai,58,F,Yelahanka,Low,Postgraduate,Vendor
+P00889,Ravi Shetty,64,M,Jayanagar,Mid,Secondary,Unknown
+P00890,Karthik Joshi,43,F,Hubballi,Mid,Postgraduate,Daily wage
+P00891,Nandini Prasad,62,M,Whitefield,Low,None,Driver
+P00892,Ganesh Sharma,60,M,BTM,Low,Secondary,Mechanic
+P00893,Harish Reddy,34,M,Hubballi,High,Graduate,Vendor
+P00894,Priya Shetty,54,M,Mysuru,Lower-mid,Secondary,Clerk
+P00895,Reshma Achar,60,M,Jayanagar,Lower-mid,Secondary,Driver
+P00896,Suresh Nayak,49,M,Electronic City,Lower-mid,Primary,Daily wage
+P00897,Shilpa Nayak,48,M,Rajajinagar,Mid,Graduate,Unknown
+P00898,Bhavani Gupta,61,M,Jayanagar,Lower-mid,None,Daily wage
+P00899,Lakshmi Kumar,46,M,Belagavi,Lower-mid,Diploma,Unknown
+P00900,Bhavani Pai,27,M,BLR South,Mid,None,Vendor
+P00901,Lakshmi Setty,25,M,Whitefield,Low,Primary,Daily wage
+P00902,Sneha Setty,64,F,Jayanagar,Low,Diploma,Mechanic
+P00903,Imran Hegde,22,M,Hubballi,Lower-mid,None,IT worker
+P00904,Kiran Murthy,18,M,Hubballi,Low,None,Daily wage
+P00905,Mahesh Hegde,53,F,BTM,Mid,None,Daily wage
+P00906,Vijay Raju,33,F,KR Puram,Lower-mid,Graduate,Unknown
+P00907,Geetha Prasad,52,M,Mangaluru,Mid,Graduate,Vendor
+P00908,Rahul Bhat,26,F,Mysuru,Low,Postgraduate,Daily wage
+P00909,Shilpa Prasad,70,M,KR Puram,Mid,Primary,IT worker
+P00910,Anita Rao,69,M,Yelahanka,Lower-mid,Graduate,Vendor
+P00911,Prakash Shetty,64,F,Jayanagar,Lower-mid,Graduate,Driver
+P00912,Sahana Naidu,61,M,Belagavi,Low,Secondary,IT worker
+P00913,Kiran Iyer,34,M,Belagavi,Lower-mid,Diploma,Vendor
+P00914,Jyothi Khan,34,F,Yelahanka,Low,None,IT worker
+P00915,Nandini Rao,16,F,Electronic City,Mid,Diploma,IT worker
+P00916,Bhavani Achar,59,M,BTM,Lower-mid,Postgraduate,Unknown
+P00917,Anita Raju,26,M,Rajajinagar,Lower-mid,Graduate,Mechanic
+P00918,Kiran Patil,69,M,Electronic City,Low,Postgraduate,Unknown
+P00919,Kavya Murthy,64,F,Hubballi,High,Secondary,IT worker
+P00920,Mahesh Iyer,47,M,BTM,Mid,None,Daily wage
+P00921,Mohan Das,47,M,BTM,Low,Postgraduate,Unemployed
+P00922,Manjunath Das,59,M,BTM,Lower-mid,Postgraduate,Student
+P00923,Vijay Bhat,55,M,Jayanagar,Mid,Graduate,IT worker
+P00924,Meena Hegde,34,M,Electronic City,Lower-mid,Graduate,Student
+P00925,Ramesh Gupta,17,F,BLR South,High,None,Mechanic
+P00926,Rajesh Pai,70,M,Electronic City,Low,Primary,Shop owner
+P00927,Divya Setty,26,M,BTM,Lower-mid,Diploma,IT worker
+P00928,Kiran Joshi,59,M,Mysuru,Mid,Graduate,IT worker
+P00929,Karthik Gupta,70,M,BLR South,Lower-mid,Diploma,Unknown
+P00930,Vinay Kulkarni,59,M,Whitefield,Lower-mid,None,Unknown
+P00931,Imran Nayak,69,M,Belagavi,Mid,Postgraduate,Student
+P00932,Vinay Shetty,43,M,KR Puram,Lower-mid,None,Vendor
+P00933,Geetha Patil,57,M,Jayanagar,Upper-mid,None,Clerk
+P00934,Kiran Pai,26,M,KR Puram,Low,Postgraduate,Mechanic
+P00935,Sandeep Prasad,42,M,Belagavi,Lower-mid,None,Student
+P00936,Vinay Joshi,40,M,Jayanagar,Upper-mid,None,Vendor
+P00937,Pooja Das,48,F,Hubballi,Lower-mid,Graduate,Clerk
+P00938,Nandini Khan,28,M,Jayanagar,Upper-mid,Graduate,Vendor
+P00939,Santosh Murthy,19,M,Mangaluru,Lower-mid,Primary,Unknown
+P00940,Faisal Setty,70,M,Mangaluru,Lower-mid,None,Unknown
+P00941,Bhavani Das,43,M,Jayanagar,Mid,Secondary,Shop owner
+P00942,Divya Khan,58,M,Rajajinagar,Lower-mid,Secondary,Unknown
+P00943,Yusuf Sharma,58,M,BTM,Upper-mid,Postgraduate,Shop owner
+P00944,Priya Joshi,47,M,Belagavi,High,Secondary,Shop owner
+P00945,Roopa Khan,52,M,BLR South,Lower-mid,Secondary,IT worker
+P00946,Vijay Patil,25,M,Whitefield,Upper-mid,Diploma,Student
+P00947,Manjunath Desai,29,F,Whitefield,Upper-mid,Postgraduate,Driver
+P00948,Mohan Achar,54,M,Rajajinagar,Low,Primary,Unemployed
+P00949,Geetha Bhat,45,M,Yelahanka,Lower-mid,None,Vendor
+P00950,Naveen Murthy,24,M,Whitefield,Mid,Primary,Unemployed
+P00951,Sahana Kumar,19,F,Jayanagar,Lower-mid,Secondary,Daily wage
+P00952,Prakash Naidu,58,M,Jayanagar,Lower-mid,Postgraduate,Driver
+P00953,Geetha Shetty,52,M,Jayanagar,Lower-mid,Graduate,Shop owner
+P00954,Mohan Das,21,M,Jayanagar,Mid,Secondary,Student
+P00955,Kavya Raju,40,F,Belagavi,Low,Diploma,Vendor
+P00956,Vijay Shetty,27,M,Whitefield,Lower-mid,Secondary,Unknown
+P00957,Deepa Das,50,M,Jayanagar,Lower-mid,Diploma,IT worker
+P00958,Geetha Murthy,66,F,KR Puram,Lower-mid,Secondary,Clerk
+P00959,Ravi Desai,54,M,Belagavi,Mid,None,Vendor
+P00960,Mohan Gupta,40,M,Belagavi,Lower-mid,Postgraduate,Daily wage
+P00961,Ramesh Patil,70,M,BLR South,Upper-mid,Diploma,Clerk
+P00962,Divya Gowda,68,M,Whitefield,Low,Primary,IT worker
+P00963,Ganesh Desai,42,F,Whitefield,Upper-mid,Diploma,IT worker
+P00964,Prakash Pai,61,M,Jayanagar,Upper-mid,Postgraduate,Clerk
+P00965,Yusuf Gowda,38,M,Belagavi,Upper-mid,Postgraduate,Student
+P00966,Meena Setty,17,M,Hubballi,Mid,Postgraduate,IT worker
+P00967,Lakshmi Kumar,41,M,Whitefield,Lower-mid,None,Daily wage
+P00968,Naveen Patil,49,M,Hubballi,Mid,Graduate,Mechanic
+P00969,Ganesh Sharma,46,F,BTM,Low,Postgraduate,Unknown
+P00970,Ganesh Bhat,28,M,KR Puram,Low,Diploma,Unknown
+P00971,Arun Kumar,17,F,Hubballi,Mid,Primary,Daily wage
+P00972,Meena Hegde,32,M,BTM,Low,Graduate,Mechanic
+P00973,Mahesh Murthy,25,M,KR Puram,Low,Graduate,Daily wage
+P00974,Suresh Setty,49,M,Electronic City,Upper-mid,Diploma,Daily wage
+P00975,Arun Setty,29,M,Whitefield,Low,Diploma,Mechanic
+P00976,Lakshmi Khan,70,M,Rajajinagar,High,Secondary,Vendor
+P00977,Prakash Rao,42,F,BLR South,Low,Secondary,Vendor
+P00978,Roopa Sharma,31,M,Hubballi,Mid,None,Unemployed
+P00979,Karthik Nayak,36,F,Yelahanka,Mid,Postgraduate,Mechanic
+P00980,Sneha Raju,54,M,Jayanagar,Lower-mid,None,Student
+P00981,Geetha Das,38,F,Hubballi,High,Graduate,Unemployed
+P00982,Suresh Murthy,48,M,Whitefield,High,Postgraduate,Student
+P00983,Lakshmi Gupta,18,M,Whitefield,Low,Diploma,Student
+P00984,Meena Nayak,21,M,Mysuru,Lower-mid,Secondary,Daily wage
+P00985,Ganesh Reddy,24,M,Whitefield,Mid,Diploma,Clerk
+P00986,Mohan Kulkarni,69,M,Whitefield,Lower-mid,Diploma,Driver
+P00987,Ganesh Raju,47,M,BTM,Lower-mid,Postgraduate,IT worker
+P00988,Deepa Hegde,25,M,BTM,Low,Secondary,Driver
+P00989,Meena Khan,23,F,Electronic City,Low,Secondary,Shop owner
+P00990,Sahana Sharma,47,M,Belagavi,Upper-mid,None,Student
+P00991,Faisal Hegde,34,M,BTM,Mid,Secondary,Unknown
+P00992,Kavya Hegde,53,F,BLR South,Lower-mid,Graduate,Driver
+P00993,Prakash Gowda,31,M,Hubballi,Low,Secondary,Unemployed
+P00994,Santosh Achar,59,M,KR Puram,Mid,None,Student
+P00995,Vijay Kumar,21,M,Belagavi,Mid,Diploma,Clerk
+P00996,Mahesh Achar,16,M,BLR South,Mid,Diploma,Student
+P00997,Sandeep Nayak,29,F,Hubballi,Low,None,Daily wage
+P00998,Jyothi Kulkarni,40,M,Whitefield,Low,Diploma,Daily wage
+P00999,Ravi Hegde,26,M,Yelahanka,Low,Postgraduate,Driver
+P01000,Kiran Bhat,47,F,Belagavi,Upper-mid,Secondary,Unknown
+P01001,Lakshmi Naidu,58,M,KR Puram,Lower-mid,Diploma,IT worker
+P01002,Vinay Das,33,M,Yelahanka,Low,Diploma,Student
+P01003,Roopa Rao,43,M,Jayanagar,Low,Secondary,IT worker
+P01004,Arun Desai,59,M,Electronic City,Lower-mid,Postgraduate,Shop owner
+P01005,Faisal Bhat,45,M,Electronic City,Lower-mid,Primary,Clerk
+P01006,Geetha Prasad,43,M,BLR South,Lower-mid,None,Shop owner
+P01007,Anita Prasad,43,M,Electronic City,Mid,Graduate,Clerk
+P01008,Harish Murthy,53,M,Mysuru,Low,Postgraduate,IT worker
+P01009,Priya Rao,69,M,Jayanagar,Lower-mid,Postgraduate,Clerk
+P01010,Ganesh Joshi,62,M,Hubballi,Lower-mid,Secondary,Student
+P01011,Priya Hegde,27,M,Mangaluru,Low,Postgraduate,Daily wage
+P01012,Sneha Gupta,17,M,Jayanagar,Low,Postgraduate,IT worker
+P01013,Meena Setty,41,F,Belagavi,Mid,Diploma,Clerk
+P01014,Roopa Kulkarni,39,M,Belagavi,Mid,Secondary,Daily wage
+P01015,Lakshmi Nayak,16,M,BLR South,Mid,Primary,Unemployed
+P01016,Shilpa Das,57,M,Rajajinagar,Lower-mid,Postgraduate,Shop owner
+P01017,Rahul Gowda,35,M,BTM,Lower-mid,None,Daily wage
+P01018,Naveen Nayak,63,M,Electronic City,Lower-mid,Diploma,Unknown
+P01019,Geetha Hegde,34,M,Yelahanka,Low,None,Daily wage
+P01020,Sneha Khan,70,M,Mangaluru,Mid,Graduate,Clerk
+P01021,Imran Das,41,M,Mangaluru,Mid,Postgraduate,IT worker
+P01022,Arun Setty,19,M,Yelahanka,Lower-mid,Graduate,Daily wage
+P01023,Reshma Desai,42,F,Jayanagar,Lower-mid,Postgraduate,Student
+P01024,Rajesh Setty,43,M,Whitefield,Mid,Diploma,Student
+P01025,Rajesh Patil,48,M,Hubballi,Lower-mid,Graduate,IT worker
+P01026,Lakshmi Bhat,62,M,Yelahanka,Upper-mid,Postgraduate,Student
+P01027,Karthik Rao,55,M,Belagavi,Mid,Postgraduate,IT worker
+P01028,Lakshmi Rao,28,M,Electronic City,Low,Diploma,IT worker
+P01029,Divya Patil,29,M,BLR South,Lower-mid,Secondary,Student
+P01030,Naveen Rao,68,F,Mysuru,Low,None,Student
+P01031,Sneha Shetty,55,M,Mysuru,Low,Secondary,Student
+P01032,Harish Reddy,65,F,Whitefield,Upper-mid,Postgraduate,Shop owner
+P01033,Mahesh Achar,22,M,Electronic City,Mid,None,Daily wage
+P01034,Roopa Kulkarni,66,F,Jayanagar,Upper-mid,None,Shop owner
+P01035,Anita Rao,56,M,Rajajinagar,Upper-mid,Primary,Clerk
+P01036,Rajesh Prasad,47,M,Jayanagar,Low,Secondary,Student
+P01037,Lakshmi Shetty,70,M,Yelahanka,Mid,None,Vendor
+P01038,Karthik Pai,34,M,Jayanagar,Low,Postgraduate,Mechanic
+P01039,Nandini Desai,58,M,Mysuru,Lower-mid,Primary,Driver
+P01040,Sneha Khan,42,F,Mysuru,Mid,Secondary,Unemployed
+P01041,Rajesh Nayak,65,M,Mysuru,High,None,Student
+P01042,Ganesh Iyer,65,M,BLR South,Lower-mid,None,Driver
+P01043,Sandeep Reddy,56,F,Hubballi,Upper-mid,Secondary,Mechanic
+P01044,Asha Achar,60,M,Whitefield,Mid,Secondary,Student
+P01045,Suresh Murthy,49,M,BTM,Mid,Diploma,Vendor
+P01046,Ramesh Kulkarni,66,M,Electronic City,Mid,Postgraduate,Mechanic
+P01047,Rahul Bhat,21,M,KR Puram,Lower-mid,Postgraduate,Driver
+P01048,Bhavani Gupta,34,M,Mysuru,Lower-mid,Graduate,Student
+P01049,Naveen Kumar,17,F,Mysuru,Mid,Primary,Clerk
+P01050,Sneha Prasad,23,M,KR Puram,Low,Graduate,Student
+P01051,Kiran Reddy,64,M,Jayanagar,Lower-mid,Graduate,Unemployed
+P01052,Meena Pai,31,F,Mangaluru,Lower-mid,Postgraduate,Shop owner
+P01053,Mahesh Patil,38,M,Hubballi,Mid,Postgraduate,Unknown
+P01054,Lakshmi Setty,40,M,Rajajinagar,Low,Graduate,Unknown
+P01055,Rahul Naidu,45,M,Belagavi,Lower-mid,Diploma,Daily wage
+P01056,Faisal Reddy,43,F,Electronic City,Low,None,Student
+P01057,Bhavani Iyer,53,M,Yelahanka,Upper-mid,Graduate,IT worker
+P01058,Sneha Sharma,60,F,Electronic City,Mid,Diploma,Driver
+P01059,Vijay Prasad,24,M,Electronic City,Low,Postgraduate,Shop owner
+P01060,Bhavani Shetty,60,M,Electronic City,Low,Primary,Shop owner
+P01061,Nandini Shetty,54,F,Jayanagar,Low,Graduate,Clerk
+P01062,Imran Prasad,25,M,Whitefield,High,Secondary,Clerk
+P01063,Sahana Kumar,66,M,Mangaluru,Lower-mid,Secondary,Clerk
+P01064,Shilpa Rao,68,M,BLR South,Low,Secondary,Daily wage
+P01065,Imran Khan,46,M,Mangaluru,Lower-mid,Secondary,Mechanic
+P01066,Karthik Raju,69,M,BTM,Lower-mid,Diploma,IT worker
+P01067,Rajesh Nayak,62,M,Mangaluru,Mid,Diploma,Mechanic
+P01068,Arun Iyer,37,M,Hubballi,Upper-mid,Postgraduate,Clerk
+P01069,Faisal Rao,61,M,Hubballi,Mid,Postgraduate,Clerk
+P01070,Jyothi Desai,23,M,Jayanagar,Low,Graduate,Shop owner
+P01071,Sandeep Reddy,52,M,Electronic City,Lower-mid,None,Daily wage
+P01072,Ramesh Rao,17,M,Rajajinagar,Low,Postgraduate,Unknown
+P01073,Rajesh Gowda,67,M,KR Puram,Lower-mid,None,IT worker
+P01074,Ravi Pai,43,M,BLR South,Upper-mid,Secondary,Mechanic
+P01075,Mohan Gowda,23,F,Mysuru,Low,Primary,Driver
+P01076,Mohan Gowda,25,M,Yelahanka,Mid,None,Unknown
+P01077,Ganesh Rao,17,M,Whitefield,Lower-mid,Secondary,Driver
+P01078,Prakash Pai,32,M,Jayanagar,Low,Primary,Unknown
+P01079,Kavya Patil,47,M,Mysuru,Lower-mid,None,Clerk
+P01080,Deepa Pai,45,M,Jayanagar,Lower-mid,Diploma,Vendor
+P01081,Ravi Murthy,51,F,Hubballi,Low,Graduate,Driver
+P01082,Divya Joshi,42,M,Hubballi,Lower-mid,Primary,Student
+P01083,Ramesh Rao,66,M,Yelahanka,High,Graduate,IT worker
+P01084,Imran Kumar,68,M,Mangaluru,Low,Primary,Unemployed
+P01085,Deepa Das,33,M,Hubballi,Lower-mid,Secondary,Vendor
+P01086,Kavya Prasad,34,M,Belagavi,Lower-mid,None,Clerk
+P01087,Faisal Iyer,60,M,BTM,Mid,Secondary,Mechanic
+P01088,Shilpa Kulkarni,48,F,KR Puram,Upper-mid,Secondary,Clerk
+P01089,Rajesh Murthy,31,M,KR Puram,Lower-mid,Diploma,Unknown
+P01090,Pooja Kumar,60,M,BLR South,Mid,None,Unemployed
+P01091,Priya Khan,51,F,Belagavi,Lower-mid,Diploma,Shop owner
+P01092,Faisal Desai,57,M,BLR South,Upper-mid,Postgraduate,IT worker
+P01093,Kiran Naidu,68,M,Mangaluru,Lower-mid,Primary,Unemployed
+P01094,Kiran Sharma,39,F,Electronic City,Low,Postgraduate,Unemployed
+P01095,Reshma Achar,61,M,Jayanagar,Upper-mid,Postgraduate,Clerk
+P01096,Arun Patil,47,F,BLR South,Low,Postgraduate,Unknown
+P01097,Shilpa Kumar,28,F,Hubballi,Lower-mid,Secondary,Unknown
+P01098,Yusuf Das,26,M,Hubballi,Mid,Postgraduate,Unknown
+P01099,Sandeep Rao,20,M,Belagavi,Low,Secondary,Unknown
+P01100,Arun Prasad,62,F,Rajajinagar,Upper-mid,None,Shop owner
+P01101,Roopa Murthy,59,M,Electronic City,Low,Diploma,Unemployed
+P01102,Ganesh Khan,70,F,Whitefield,Low,Graduate,IT worker
+P01103,Sahana Naidu,49,M,Belagavi,Low,Secondary,Mechanic
+P01104,Ramesh Sharma,36,M,Rajajinagar,Lower-mid,Graduate,Unemployed
+P01105,Arun Setty,43,F,Rajajinagar,Low,Secondary,Clerk
+P01106,Manjunath Desai,56,M,Electronic City,Lower-mid,None,Unknown
+P01107,Pooja Murthy,31,M,Rajajinagar,High,None,Student
+P01108,Bhavani Patil,20,M,Mangaluru,Lower-mid,None,IT worker
+P01109,Kavya Shetty,21,F,BLR South,Lower-mid,Postgraduate,Daily wage
+P01110,Lakshmi Reddy,67,M,Whitefield,Mid,Diploma,Daily wage
+P01111,Anita Achar,19,M,Whitefield,Upper-mid,Diploma,Daily wage
+P01112,Roopa Khan,30,F,Hubballi,Mid,Diploma,Mechanic
+P01113,Meena Khan,55,M,KR Puram,Mid,Postgraduate,Unemployed
+P01114,Meena Prasad,37,M,Jayanagar,Low,Graduate,Daily wage
+P01115,Kavya Hegde,52,M,Mysuru,Low,Diploma,IT worker
+P01116,Roopa Sharma,27,M,BLR South,Low,Secondary,Unknown
+P01117,Sneha Prasad,57,M,Whitefield,Mid,Graduate,Driver
+P01118,Vijay Das,35,M,Whitefield,Lower-mid,None,Shop owner
+P01119,Kavya Achar,59,M,Rajajinagar,Lower-mid,Graduate,Unemployed
+P01120,Sneha Naidu,28,F,Hubballi,Upper-mid,None,Student
+P01121,Rahul Achar,46,M,Electronic City,Mid,Secondary,Unknown
+P01122,Sandeep Pai,55,M,KR Puram,Low,Diploma,Unemployed
+P01123,Sahana Patil,16,M,Belagavi,Low,Graduate,Vendor
+P01124,Geetha Das,63,M,KR Puram,Upper-mid,Diploma,Vendor
+P01125,Asha Rao,68,F,KR Puram,Low,Secondary,Unemployed
+P01126,Jyothi Shetty,25,M,Rajajinagar,Mid,Secondary,Unemployed
+P01127,Ravi Hegde,28,M,Rajajinagar,Upper-mid,Postgraduate,Driver
+P01128,Pooja Gupta,31,M,BLR South,Low,Secondary,Daily wage
+P01129,Ravi Achar,24,M,Jayanagar,Lower-mid,Primary,Clerk
+P01130,Meena Patil,39,F,Hubballi,Low,Graduate,Unknown
+P01131,Sneha Setty,20,M,BTM,Mid,Primary,Shop owner
+P01132,Vinay Setty,39,M,Yelahanka,High,Primary,Unemployed
+P01133,Roopa Joshi,28,F,Whitefield,Mid,Secondary,Vendor
+P01134,Deepa Desai,66,M,BTM,Upper-mid,Graduate,IT worker
+P01135,Shilpa Raju,21,F,Hubballi,Mid,Primary,Shop owner
+P01136,Vinay Desai,64,M,Electronic City,Lower-mid,Primary,Student
+P01137,Nandini Prasad,60,M,Electronic City,Lower-mid,Graduate,Mechanic
+P01138,Kavya Desai,18,M,Rajajinagar,Lower-mid,Primary,Mechanic
+P01139,Shilpa Bhat,43,F,Mangaluru,Low,Secondary,Clerk
+P01140,Jyothi Gowda,24,M,Whitefield,Lower-mid,Secondary,Vendor
+P01141,Kavya Reddy,45,M,KR Puram,Lower-mid,Diploma,Mechanic
+P01142,Prakash Naidu,67,M,Whitefield,Lower-mid,Primary,IT worker
+P01143,Arun Murthy,57,M,Jayanagar,Low,Graduate,Shop owner
+P01144,Ramesh Desai,21,F,Rajajinagar,Low,None,Student
+P01145,Imran Gupta,28,M,Hubballi,Lower-mid,Secondary,Clerk
+P01146,Rahul Setty,54,F,Belagavi,Mid,Secondary,Unemployed
+P01147,Divya Bhat,68,M,Yelahanka,High,Graduate,Unemployed
+P01148,Karthik Desai,48,F,BTM,Upper-mid,Primary,Vendor
+P01149,Shilpa Das,30,M,Mysuru,Mid,Postgraduate,IT worker
+P01150,Pooja Gowda,36,F,Yelahanka,Mid,Postgraduate,Mechanic
+P01151,Shilpa Sharma,44,F,BLR South,Lower-mid,Graduate,Driver
+P01152,Divya Raju,16,M,Hubballi,Upper-mid,Secondary,Vendor
+P01153,Prakash Khan,59,M,Belagavi,Lower-mid,Secondary,Unknown
+P01154,Ravi Joshi,66,M,BTM,Low,Secondary,Unknown
+P01155,Mahesh Kulkarni,52,F,Yelahanka,Low,Diploma,Daily wage
+P01156,Ramesh Iyer,28,M,KR Puram,Lower-mid,Diploma,Clerk
+P01157,Faisal Rao,22,M,BTM,Low,Postgraduate,Unknown
+P01158,Sahana Kumar,27,M,Yelahanka,Low,Primary,Clerk
+P01159,Bhavani Gowda,45,M,Mysuru,Low,Secondary,Mechanic
+P01160,Asha Rao,23,M,Yelahanka,Lower-mid,None,Mechanic
+P01161,Shilpa Nayak,29,M,Belagavi,Mid,Primary,Unknown
+P01162,Sandeep Bhat,53,M,Belagavi,Mid,Secondary,Vendor
+P01163,Suresh Nayak,44,M,Yelahanka,Mid,Primary,Shop owner
+P01164,Pooja Joshi,47,M,Mangaluru,Low,None,Clerk
+P01165,Meena Naidu,60,F,Whitefield,Lower-mid,Primary,Mechanic
+P01166,Geetha Rao,55,M,Electronic City,Lower-mid,Postgraduate,Driver
+P01167,Sandeep Shetty,41,M,BLR South,Low,Primary,Clerk
+P01168,Ramesh Bhat,58,F,Belagavi,Mid,Primary,IT worker
+P01169,Prakash Gupta,23,F,Jayanagar,Mid,Graduate,Student
+P01170,Prakash Sharma,26,M,Mysuru,Low,None,Daily wage
+P01171,Meena Iyer,37,M,Rajajinagar,Lower-mid,None,Clerk
+P01172,Kiran Setty,24,M,Belagavi,Lower-mid,Diploma,Daily wage
+P01173,Faisal Gupta,58,M,Electronic City,Low,Secondary,Driver
+P01174,Naveen Kumar,54,M,Whitefield,Low,Postgraduate,Mechanic
+P01175,Naveen Gowda,58,M,Hubballi,Low,Diploma,Student
+P01176,Priya Hegde,61,M,Hubballi,Lower-mid,Diploma,Unemployed
+P01177,Bhavani Desai,58,M,Jayanagar,Lower-mid,Secondary,IT worker
+P01178,Deepa Kulkarni,16,M,Yelahanka,Mid,Primary,Student
+P01179,Geetha Hegde,21,M,BLR South,High,Secondary,Vendor
+P01180,Manjunath Patil,22,F,Hubballi,Low,Primary,Unemployed
+P01181,Prakash Prasad,22,F,KR Puram,Lower-mid,Primary,Unknown
+P01182,Shilpa Gupta,41,F,Jayanagar,Low,None,Student
+P01183,Ganesh Rao,16,M,KR Puram,Low,Primary,IT worker
+P01184,Arun Gowda,58,F,Hubballi,Mid,None,Daily wage
+P01185,Shilpa Khan,35,M,Electronic City,High,None,Shop owner
+P01186,Sandeep Rao,32,F,Mangaluru,Lower-mid,Postgraduate,Mechanic
+P01187,Lakshmi Pai,27,M,Belagavi,Lower-mid,Postgraduate,IT worker
+P01188,Manjunath Pai,17,M,Mangaluru,Lower-mid,Graduate,Vendor
+P01189,Yusuf Joshi,61,F,Rajajinagar,Low,None,Clerk
+P01190,Geetha Raju,43,M,Mangaluru,Low,Primary,Student
+P01191,Sahana Bhat,28,M,Rajajinagar,Mid,Primary,Unknown
+P01192,Rajesh Raju,37,M,KR Puram,Mid,None,Shop owner
+P01193,Prakash Desai,68,M,BLR South,Low,Postgraduate,Student
+P01194,Pooja Patil,29,M,Hubballi,High,Postgraduate,Vendor
+P01195,Mahesh Iyer,49,M,Electronic City,Mid,None,IT worker
+P01196,Manjunath Hegde,19,M,BTM,High,Primary,Daily wage
+P01197,Priya Joshi,51,F,Rajajinagar,Low,None,Mechanic
+P01198,Meena Bhat,26,M,Rajajinagar,Lower-mid,Graduate,Vendor
+P01199,Divya Bhat,52,M,Hubballi,Low,Diploma,Daily wage
+P01200,Nandini Iyer,40,M,Electronic City,Lower-mid,Graduate,Mechanic
+P01201,Vijay Das,17,M,Yelahanka,Upper-mid,Secondary,Unknown
+P01202,Ramesh Nayak,51,M,Whitefield,Lower-mid,Secondary,IT worker
+P01203,Santosh Iyer,51,M,Jayanagar,Lower-mid,Postgraduate,IT worker
+P01204,Rahul Nayak,28,M,Mysuru,Mid,Secondary,IT worker
+P01205,Asha Khan,41,F,KR Puram,Lower-mid,Secondary,Unknown
+P01206,Manjunath Khan,18,F,Jayanagar,Lower-mid,Graduate,Driver
+P01207,Rahul Khan,32,M,Belagavi,Lower-mid,Postgraduate,IT worker
+P01208,Nandini Setty,19,M,Yelahanka,Mid,Primary,IT worker
+P01209,Imran Naidu,56,M,BLR South,Mid,Postgraduate,Driver
+P01210,Mohan Kulkarni,45,F,BTM,Low,Graduate,Unknown
+P01211,Naveen Kumar,23,M,Hubballi,Mid,Diploma,Mechanic
+P01212,Kavya Gowda,49,F,Yelahanka,Low,Diploma,Clerk
+P01213,Divya Prasad,50,M,Yelahanka,Mid,Postgraduate,Mechanic
+P01214,Faisal Shetty,56,M,KR Puram,Upper-mid,Secondary,Vendor
+P01215,Asha Setty,35,M,BTM,Upper-mid,None,Daily wage
+P01216,Manjunath Setty,42,M,Hubballi,Low,Diploma,Driver
+P01217,Priya Naidu,27,M,Rajajinagar,Lower-mid,Graduate,Daily wage
+P01218,Rajesh Joshi,68,M,Rajajinagar,Low,Primary,Vendor
+P01219,Mohan Khan,44,M,Mangaluru,Low,Postgraduate,Driver
+P01220,Faisal Bhat,21,M,Whitefield,Low,None,Unknown
+P01221,Geetha Das,47,M,Jayanagar,Low,Secondary,Unemployed
+P01222,Kavya Reddy,22,M,BLR South,Lower-mid,Graduate,Clerk
+P01223,Sahana Das,64,M,Yelahanka,Lower-mid,Postgraduate,Student
+P01224,Ganesh Patil,39,M,Yelahanka,Mid,Secondary,Student
+P01225,Anita Kumar,45,F,Yelahanka,Mid,Primary,Unemployed
+P01226,Mahesh Shetty,49,M,Belagavi,Mid,Primary,Student
+P01227,Rajesh Kulkarni,59,M,Electronic City,Lower-mid,Postgraduate,Vendor
+P01228,Suresh Desai,68,M,Hubballi,Lower-mid,None,Student
+P01229,Rajesh Patil,54,M,Belagavi,Mid,None,Student
+P01230,Sneha Das,58,F,Jayanagar,Mid,Secondary,Unknown
+P01231,Rahul Setty,25,F,Mangaluru,Mid,Postgraduate,Shop owner
+P01232,Imran Nayak,47,F,Whitefield,Upper-mid,Graduate,IT worker
+P01233,Naveen Sharma,23,M,Mysuru,Low,Primary,Driver
+P01234,Faisal Shetty,43,F,BLR South,Low,Secondary,Mechanic
+P01235,Reshma Patil,62,M,Electronic City,High,Postgraduate,Daily wage
+P01236,Lakshmi Gupta,56,M,Jayanagar,Mid,Secondary,Vendor
+P01237,Sandeep Kulkarni,20,M,Yelahanka,Upper-mid,Postgraduate,Mechanic
+P01238,Jyothi Khan,67,M,Whitefield,Low,None,Daily wage
+P01239,Faisal Pai,63,M,Rajajinagar,Mid,None,Unknown
+P01240,Nandini Nayak,70,M,Yelahanka,Lower-mid,None,Clerk
+P01241,Deepa Joshi,50,M,Yelahanka,High,Secondary,Student
+P01242,Lakshmi Prasad,58,M,Rajajinagar,Low,None,Shop owner
+P01243,Meena Pai,25,F,Whitefield,Upper-mid,Diploma,IT worker
+P01244,Vijay Kulkarni,34,M,Hubballi,Upper-mid,Postgraduate,Unemployed
+P01245,Mahesh Pai,35,M,Belagavi,Low,Postgraduate,Unknown
+P01246,Karthik Desai,69,M,Whitefield,Mid,Diploma,Unemployed
+P01247,Pooja Nayak,68,M,Belagavi,High,Primary,Unemployed
+P01248,Priya Das,62,M,Hubballi,Upper-mid,Primary,Unemployed
+P01249,Jyothi Iyer,37,M,Electronic City,High,Diploma,Mechanic
+P01250,Manjunath Prasad,62,M,Belagavi,Upper-mid,Postgraduate,Shop owner
+P01251,Asha Shetty,24,M,Mangaluru,Upper-mid,None,Clerk
+P01252,Meena Desai,26,M,Electronic City,Mid,Secondary,Driver
+P01253,Shilpa Hegde,67,M,Belagavi,Mid,Secondary,Unknown
+P01254,Anita Achar,66,F,BTM,Lower-mid,Diploma,Driver
+P01255,Deepa Shetty,38,F,BTM,High,None,Shop owner
+P01256,Pooja Joshi,43,F,Hubballi,Mid,Primary,Unemployed
+P01257,Kiran Patil,41,M,Belagavi,Mid,Primary,Mechanic
+P01258,Faisal Sharma,68,M,Whitefield,Mid,Diploma,Student
+P01259,Suresh Shetty,23,M,Electronic City,Mid,Graduate,Vendor
+P01260,Ravi Joshi,52,F,Electronic City,Low,Postgraduate,Daily wage
+P01261,Kavya Rao,40,M,Hubballi,Mid,Secondary,Unknown
+P01262,Lakshmi Shetty,36,M,Mysuru,Low,Postgraduate,Unemployed
+P01263,Asha Gupta,68,M,Mysuru,Lower-mid,Graduate,Unknown
+P01264,Ramesh Setty,68,F,Jayanagar,Mid,Primary,Daily wage
+P01265,Priya Kulkarni,60,M,Mysuru,Lower-mid,Secondary,Daily wage
+P01266,Imran Nayak,52,M,BTM,Low,Secondary,Unemployed
+P01267,Faisal Shetty,48,M,Mysuru,Low,Postgraduate,Unemployed
+P01268,Geetha Bhat,18,F,Mysuru,Upper-mid,Secondary,Shop owner
+P01269,Rajesh Nayak,52,M,KR Puram,Lower-mid,Secondary,Unknown
+P01270,Ramesh Prasad,29,M,Hubballi,Upper-mid,Primary,Unemployed
+P01271,Rahul Nayak,35,F,Rajajinagar,High,Graduate,Shop owner
+P01272,Shilpa Joshi,38,M,Belagavi,Mid,None,Shop owner
+P01273,Mohan Murthy,40,M,BTM,Lower-mid,None,Clerk
+P01274,Sneha Setty,25,M,Jayanagar,Mid,Secondary,Vendor
+P01275,Nandini Joshi,58,M,Mysuru,Mid,Diploma,Driver
+P01276,Ganesh Khan,40,M,Mangaluru,Low,Secondary,Daily wage
+P01277,Ramesh Shetty,59,M,Jayanagar,Lower-mid,None,Student
+P01278,Pooja Murthy,25,F,Rajajinagar,Low,None,Mechanic
+P01279,Arun Iyer,22,F,Jayanagar,Low,Postgraduate,Clerk
+P01280,Kavya Das,22,M,Belagavi,Lower-mid,Secondary,Shop owner
+P01281,Reshma Kulkarni,22,F,BTM,Lower-mid,Diploma,Driver
+P01282,Harish Raju,59,F,Mysuru,Lower-mid,Diploma,IT worker
+P01283,Kavya Nayak,32,M,Mysuru,Mid,Postgraduate,Driver
+P01284,Vijay Iyer,52,M,BLR South,Upper-mid,Postgraduate,Student
+P01285,Geetha Achar,54,M,Electronic City,Low,Secondary,IT worker
+P01286,Yusuf Bhat,33,F,Mysuru,High,Primary,Clerk
+P01287,Faisal Bhat,42,M,Jayanagar,Mid,None,Vendor
+P01288,Faisal Rao,52,M,Belagavi,Low,Diploma,Unemployed
+P01289,Sneha Achar,48,F,BTM,Lower-mid,Graduate,Shop owner
+P01290,Kiran Iyer,16,M,Belagavi,Low,Diploma,Shop owner
+P01291,Harish Patil,63,M,Mysuru,Mid,None,Unknown
+P01292,Rajesh Rao,59,F,Mysuru,Upper-mid,Primary,Daily wage
+P01293,Nandini Nayak,48,M,BLR South,Lower-mid,Diploma,Driver
+P01294,Nandini Shetty,37,F,Rajajinagar,Upper-mid,None,Clerk
+P01295,Divya Das,34,M,BLR South,Mid,Graduate,Mechanic
+P01296,Shilpa Bhat,57,M,BLR South,High,Graduate,IT worker
+P01297,Deepa Naidu,16,M,KR Puram,Low,None,Unemployed
+P01298,Harish Raju,27,M,BLR South,Low,Diploma,Vendor
+P01299,Faisal Prasad,48,F,Yelahanka,Low,Diploma,Unemployed
+P01300,Vijay Achar,32,M,Yelahanka,Lower-mid,Secondary,Mechanic
+P01301,Priya Gupta,67,M,Electronic City,Mid,Diploma,Driver
+P01302,Lakshmi Naidu,63,M,KR Puram,Upper-mid,Postgraduate,Vendor
+P01303,Kiran Hegde,34,M,Yelahanka,Lower-mid,Secondary,Unemployed
+P01304,Naveen Achar,28,F,Hubballi,High,None,Mechanic
+P01305,Sahana Gupta,47,F,Belagavi,Low,Diploma,Shop owner
+P01306,Vinay Nayak,23,F,BLR South,Low,Secondary,Shop owner
+P01307,Suresh Achar,31,M,KR Puram,Lower-mid,Graduate,Unemployed
+P01308,Sneha Das,34,M,Jayanagar,Mid,Primary,Unknown
+P01309,Vijay Raju,48,M,Whitefield,Mid,Secondary,Vendor
+P01310,Sneha Hegde,46,M,Jayanagar,Mid,Graduate,Unknown
+P01311,Priya Hegde,70,M,Hubballi,Low,None,Driver
+P01312,Asha Reddy,33,F,BTM,Lower-mid,Graduate,Vendor
+P01313,Faisal Reddy,40,M,Whitefield,Mid,Primary,Vendor
+P01314,Pooja Khan,46,M,Yelahanka,Mid,Secondary,Daily wage
+P01315,Reshma Naidu,33,F,Belagavi,Lower-mid,Secondary,Unemployed
+P01316,Priya Reddy,16,M,Belagavi,Lower-mid,Secondary,IT worker
+P01317,Reshma Kulkarni,22,M,Whitefield,High,Secondary,Student
+P01318,Divya Shetty,22,M,Hubballi,Lower-mid,Primary,Student
+P01319,Nandini Raju,67,M,Mangaluru,Lower-mid,Secondary,Vendor
+P01320,Reshma Hegde,53,M,Jayanagar,Low,Postgraduate,Unknown
+P01321,Kiran Reddy,53,F,Hubballi,Upper-mid,Primary,IT worker
+P01322,Anita Gowda,50,M,Whitefield,Mid,Primary,Shop owner
+P01323,Vijay Reddy,24,M,Mysuru,Mid,Graduate,Student
+P01324,Nandini Sharma,56,M,Yelahanka,Low,Diploma,Shop owner
+P01325,Yusuf Kumar,26,M,Belagavi,High,Secondary,Unemployed
+P01326,Sandeep Reddy,66,F,Rajajinagar,Mid,Diploma,IT worker
+P01327,Ramesh Prasad,20,M,Mysuru,Lower-mid,Diploma,Mechanic
+P01328,Mahesh Murthy,29,M,BTM,Lower-mid,Graduate,Unemployed
+P01329,Yusuf Sharma,48,M,Mysuru,Low,Primary,Clerk
+P01330,Reshma Gupta,23,M,BLR South,Lower-mid,Secondary,Unemployed
+P01331,Vijay Murthy,24,M,BLR South,Mid,Primary,Vendor
+P01332,Ramesh Shetty,16,M,Hubballi,Mid,Secondary,Student
+P01333,Faisal Setty,51,M,BTM,Lower-mid,Graduate,Clerk
+P01334,Ganesh Reddy,56,F,KR Puram,Low,Secondary,Driver
+P01335,Mohan Kumar,50,M,Mangaluru,Low,Postgraduate,Mechanic
+P01336,Mohan Desai,56,M,Rajajinagar,Upper-mid,Primary,Student
+P01337,Reshma Hegde,53,M,Yelahanka,Low,Primary,Mechanic
+P01338,Nandini Nayak,46,M,BTM,Lower-mid,Primary,Vendor
+P01339,Sandeep Das,62,M,Whitefield,Low,Primary,Driver
+P01340,Asha Achar,54,M,BTM,Low,Primary,IT worker
+P01341,Asha Shetty,62,M,Belagavi,Mid,None,Unknown
+P01342,Anita Iyer,40,M,BLR South,Mid,Postgraduate,Unemployed
+P01343,Lakshmi Patil,65,M,BTM,High,Graduate,Unemployed
+P01344,Suresh Shetty,50,M,KR Puram,Upper-mid,None,Vendor
+P01345,Lakshmi Das,64,M,Electronic City,Upper-mid,Secondary,Student
+P01346,Karthik Nayak,31,M,Belagavi,Low,Graduate,Daily wage
+P01347,Ravi Reddy,22,M,Jayanagar,Lower-mid,Diploma,Driver
+P01348,Suresh Patil,17,M,Yelahanka,Low,Postgraduate,Clerk
+P01349,Arun Achar,40,M,Belagavi,Upper-mid,None,IT worker
+P01350,Naveen Shetty,30,M,Whitefield,Lower-mid,Graduate,Student
+P01351,Kiran Naidu,21,F,Mangaluru,Low,Diploma,Shop owner
+P01352,Pooja Kulkarni,27,M,BTM,Upper-mid,Postgraduate,Clerk
+P01353,Roopa Bhat,38,F,Whitefield,Upper-mid,Postgraduate,Student
+P01354,Mohan Setty,67,M,BLR South,Upper-mid,Primary,Driver
+P01355,Ganesh Nayak,40,M,Electronic City,Upper-mid,None,Unknown
+P01356,Sneha Raju,33,M,KR Puram,High,Primary,Mechanic
+P01357,Harish Pai,47,M,Belagavi,High,Graduate,Student
+P01358,Lakshmi Desai,31,M,Mysuru,Lower-mid,Graduate,IT worker
+P01359,Ramesh Gupta,68,M,Jayanagar,Mid,Diploma,Shop owner
+P01360,Sandeep Setty,67,M,Belagavi,Low,Secondary,Unemployed
+P01361,Shilpa Kumar,39,M,BTM,Upper-mid,None,Student
+P01362,Nandini Nayak,34,M,Mysuru,High,Diploma,Vendor
+P01363,Shilpa Patil,19,M,Jayanagar,High,Postgraduate,Driver
+P01364,Vinay Raju,17,M,Yelahanka,Lower-mid,Postgraduate,Daily wage
+P01365,Kavya Gowda,46,F,BTM,Low,Secondary,Driver
+P01366,Faisal Patil,20,M,Yelahanka,Low,Primary,IT worker
+P01367,Lakshmi Raju,49,M,Whitefield,Lower-mid,Postgraduate,Student
+P01368,Rajesh Desai,60,M,Jayanagar,Low,Postgraduate,Unemployed
+P01369,Mahesh Rao,48,M,Yelahanka,Upper-mid,Postgraduate,IT worker
+P01370,Jyothi Setty,69,M,Mangaluru,Lower-mid,Postgraduate,Vendor
+P01371,Sneha Rao,33,F,Mysuru,Lower-mid,Primary,Vendor
+P01372,Asha Kulkarni,19,M,BTM,Upper-mid,Graduate,Unknown
+P01373,Manjunath Setty,45,M,Hubballi,Mid,Diploma,Driver
+P01374,Deepa Naidu,57,M,Whitefield,Low,None,Student
+P01375,Mahesh Pai,17,M,BTM,Lower-mid,None,Vendor
+P01376,Mahesh Kumar,64,F,Rajajinagar,Lower-mid,Postgraduate,Unemployed
+P01377,Geetha Murthy,21,F,Mangaluru,Low,Diploma,Unemployed
+P01378,Deepa Pai,21,F,BLR South,High,Secondary,Mechanic
+P01379,Yusuf Hegde,36,M,Belagavi,Lower-mid,Primary,Daily wage
+P01380,Pooja Khan,63,M,Mysuru,Upper-mid,Primary,Unemployed
+P01381,Kavya Iyer,46,M,BLR South,Low,Primary,IT worker
+P01382,Faisal Desai,21,F,Rajajinagar,Upper-mid,Postgraduate,Driver
+P01383,Naveen Prasad,49,F,Mangaluru,Mid,Secondary,IT worker
+P01384,Lakshmi Pai,34,M,Yelahanka,Low,Postgraduate,Mechanic
+P01385,Geetha Hegde,55,M,BTM,Lower-mid,Diploma,Daily wage
+P01386,Suresh Nayak,65,F,Mysuru,Upper-mid,None,IT worker
+P01387,Anita Sharma,36,M,Whitefield,Low,Secondary,Unknown
+P01388,Nandini Naidu,21,M,Belagavi,Mid,Secondary,IT worker
+P01389,Mohan Sharma,57,F,Jayanagar,High,Diploma,Unemployed
+P01390,Nandini Bhat,41,M,Mangaluru,Upper-mid,Primary,IT worker
+P01391,Nandini Prasad,70,M,KR Puram,Lower-mid,Postgraduate,Mechanic
+P01392,Yusuf Sharma,32,F,Hubballi,Low,Postgraduate,Unemployed
+P01393,Geetha Setty,68,M,BTM,Upper-mid,Secondary,Mechanic
+P01394,Naveen Joshi,41,F,Rajajinagar,Lower-mid,Diploma,Daily wage
+P01395,Harish Sharma,45,M,Electronic City,Low,Primary,Daily wage
+P01396,Asha Khan,28,M,Jayanagar,Lower-mid,Graduate,IT worker
+P01397,Shilpa Setty,63,M,Whitefield,Lower-mid,Graduate,Driver
+P01398,Karthik Nayak,56,M,Mangaluru,Low,Graduate,Mechanic
+P01399,Deepa Naidu,66,M,Electronic City,Low,Primary,Unemployed
+P01400,Sneha Murthy,32,M,Jayanagar,Low,Secondary,Mechanic
+P01401,Faisal Bhat,61,M,Yelahanka,Lower-mid,Postgraduate,Clerk
+P01402,Priya Reddy,21,F,Yelahanka,Lower-mid,Secondary,Driver
+P01403,Rahul Naidu,42,M,Mysuru,Mid,Primary,Mechanic
+P01404,Harish Setty,52,M,BLR South,Lower-mid,Graduate,Vendor
+P01405,Manjunath Raju,58,M,BTM,Lower-mid,Postgraduate,Student
+P01406,Suresh Nayak,45,F,Electronic City,Upper-mid,None,Mechanic
+P01407,Mohan Prasad,62,M,Electronic City,High,Primary,IT worker
+P01408,Kavya Shetty,18,M,Rajajinagar,Lower-mid,Graduate,Driver
+P01409,Mahesh Iyer,29,M,Rajajinagar,High,Graduate,Unemployed
+P01410,Nandini Naidu,17,M,Whitefield,Lower-mid,None,IT worker
+P01411,Meena Khan,42,M,Mysuru,Lower-mid,Secondary,Daily wage
+P01412,Priya Sharma,43,M,Mysuru,Mid,Graduate,Mechanic
+P01413,Vinay Bhat,70,M,Hubballi,Lower-mid,Secondary,Unknown
+P01414,Anita Gowda,67,F,Jayanagar,Mid,Graduate,Mechanic
+P01415,Anita Das,63,M,Mysuru,Low,Diploma,Shop owner
+P01416,Kavya Reddy,58,M,Yelahanka,Low,Diploma,Shop owner
+P01417,Vinay Shetty,28,F,Jayanagar,Lower-mid,Diploma,Mechanic
+P01418,Asha Kumar,39,F,Mysuru,Low,Postgraduate,Clerk
+P01419,Divya Khan,59,M,Yelahanka,Low,None,Driver
+P01420,Nandini Prasad,68,M,KR Puram,Lower-mid,Graduate,Mechanic
+P01421,Geetha Gupta,41,M,Hubballi,Lower-mid,None,Unknown
+P01422,Sneha Nayak,56,M,Belagavi,Low,Secondary,Shop owner
+P01423,Naveen Khan,30,M,BTM,Lower-mid,Postgraduate,Unknown
+P01424,Asha Desai,32,F,BTM,High,Primary,Daily wage
+P01425,Faisal Kumar,43,M,Mangaluru,Low,Graduate,Shop owner
+P01426,Faisal Joshi,40,M,Belagavi,Low,Diploma,Student
+P01427,Priya Patil,57,F,Whitefield,Low,Primary,Mechanic
+P01428,Mohan Achar,19,M,BTM,Mid,Postgraduate,Unknown
+P01429,Anita Shetty,45,F,Jayanagar,Low,Secondary,Clerk
+P01430,Priya Gowda,20,M,KR Puram,Upper-mid,Primary,Mechanic
+P01431,Anita Das,66,M,Jayanagar,Lower-mid,Postgraduate,Daily wage
+P01432,Shilpa Achar,42,M,KR Puram,Mid,Diploma,Driver
+P01433,Priya Bhat,16,F,Hubballi,Lower-mid,Graduate,Unemployed
+P01434,Kiran Pai,38,M,Mangaluru,Mid,None,Driver
+P01435,Bhavani Raju,32,F,Rajajinagar,Mid,Graduate,Unemployed
+P01436,Bhavani Prasad,64,M,KR Puram,Low,Primary,Unemployed
+P01437,Ganesh Nayak,30,M,Belagavi,High,Secondary,Clerk
+P01438,Karthik Hegde,21,M,Mysuru,Mid,Diploma,IT worker
+P01439,Sneha Prasad,41,F,Whitefield,Low,Postgraduate,Clerk
+P01440,Asha Shetty,53,F,Mangaluru,Lower-mid,Primary,IT worker
+P01441,Sneha Sharma,43,M,Whitefield,Upper-mid,Graduate,Daily wage
+P01442,Mahesh Iyer,43,M,KR Puram,Lower-mid,Postgraduate,Daily wage
+P01443,Rajesh Rao,18,F,Whitefield,Mid,Secondary,Unknown
+P01444,Bhavani Naidu,41,M,BTM,Upper-mid,Diploma,Driver
+P01445,Harish Patil,20,M,KR Puram,Lower-mid,Secondary,Daily wage
+P01446,Suresh Pai,60,M,KR Puram,Low,Graduate,Student
+P01447,Arun Gupta,20,M,Mangaluru,Low,Primary,Daily wage
+P01448,Jyothi Murthy,61,M,Hubballi,Low,Postgraduate,Mechanic
+P01449,Sneha Pai,68,M,Rajajinagar,Low,Diploma,IT worker
+P01450,Imran Murthy,42,M,Electronic City,Low,Secondary,Unknown
+P01451,Vinay Patil,52,M,BLR South,Mid,Graduate,Unemployed
+P01452,Meena Bhat,24,F,Yelahanka,Low,Graduate,Shop owner
+P01453,Imran Pai,57,M,Electronic City,Low,Diploma,Clerk
+P01454,Reshma Pai,64,M,Jayanagar,Lower-mid,Secondary,IT worker
+P01455,Roopa Reddy,41,M,Electronic City,Lower-mid,Postgraduate,Daily wage
+P01456,Nandini Kulkarni,22,M,BLR South,Upper-mid,Primary,Daily wage
+P01457,Ganesh Setty,62,M,BTM,Low,Postgraduate,Student
+P01458,Ramesh Kumar,60,F,Whitefield,Upper-mid,None,Daily wage
+P01459,Deepa Bhat,20,M,Belagavi,Mid,Diploma,Clerk
+P01460,Naveen Nayak,53,M,BTM,Lower-mid,Primary,Unknown
+P01461,Prakash Desai,44,M,Mysuru,Lower-mid,Graduate,IT worker
+P01462,Sahana Murthy,36,M,Electronic City,Low,Secondary,Clerk
+P01463,Faisal Naidu,51,F,Rajajinagar,Mid,Postgraduate,Vendor
+P01464,Manjunath Gowda,47,M,BLR South,Mid,Diploma,Mechanic
+P01465,Rahul Das,22,M,Mangaluru,Mid,Graduate,Student
+P01466,Divya Setty,45,M,Mysuru,Low,Primary,Vendor
+P01467,Nandini Iyer,44,F,Mysuru,Low,Diploma,Vendor
+P01468,Manjunath Murthy,43,M,Whitefield,High,Graduate,Daily wage
+P01469,Vijay Sharma,22,M,Rajajinagar,Low,Diploma,Driver
+P01470,Reshma Kumar,46,M,Electronic City,Lower-mid,None,Shop owner
+P01471,Faisal Naidu,43,M,Yelahanka,Lower-mid,Graduate,Student
+P01472,Deepa Sharma,33,M,BLR South,Mid,Postgraduate,Mechanic
+P01473,Rahul Bhat,28,M,Mangaluru,Low,Graduate,IT worker
+P01474,Bhavani Khan,22,M,Hubballi,Low,None,Vendor
+P01475,Kiran Reddy,18,M,Rajajinagar,Low,None,Clerk
+P01476,Arun Kulkarni,60,M,Yelahanka,Lower-mid,Primary,Clerk
+P01477,Sahana Hegde,26,F,KR Puram,Mid,Postgraduate,Unknown
+P01478,Santosh Raju,16,M,Mysuru,Upper-mid,Graduate,IT worker
+P01479,Divya Setty,31,M,Hubballi,Low,Primary,Student
+P01480,Meena Nayak,16,M,Yelahanka,Lower-mid,Primary,Clerk
+P01481,Manjunath Rao,59,M,BLR South,Mid,Diploma,Unknown
+P01482,Suresh Das,31,M,BLR South,Upper-mid,Graduate,Clerk
+P01483,Arun Prasad,48,M,BTM,Mid,None,Clerk
+P01484,Pooja Sharma,47,M,Mysuru,Low,Diploma,Clerk
+P01485,Nandini Sharma,16,F,Whitefield,Mid,Graduate,Unknown
+P01486,Karthik Shetty,33,M,Belagavi,Mid,Primary,Mechanic
+P01487,Arun Achar,25,M,BLR South,Low,Postgraduate,Mechanic
+P01488,Nandini Hegde,63,M,Yelahanka,Mid,Secondary,Shop owner
+P01489,Rajesh Prasad,27,M,Hubballi,Lower-mid,Secondary,Mechanic
+P01490,Kavya Khan,33,M,BLR South,Lower-mid,Postgraduate,Student
+P01491,Roopa Shetty,43,F,Mangaluru,High,Secondary,Clerk
+P01492,Kiran Kumar,47,F,BTM,Lower-mid,Primary,Shop owner
+P01493,Santosh Kulkarni,51,M,Whitefield,Lower-mid,None,Clerk
+P01494,Suresh Sharma,18,M,Mangaluru,Low,Diploma,Clerk
+P01495,Suresh Khan,38,M,BLR South,Low,Primary,Student
+P01496,Santosh Prasad,58,F,Mysuru,Low,None,Clerk
+P01497,Vijay Raju,28,M,Jayanagar,Low,None,IT worker
+P01498,Harish Patil,67,M,Yelahanka,Lower-mid,None,Clerk
+P01499,Divya Kulkarni,35,M,Yelahanka,Mid,Secondary,Unknown
+P01500,Lakshmi Achar,65,M,BTM,Lower-mid,Primary,Clerk
+P01501,Divya Gowda,35,M,Hubballi,Lower-mid,Primary,Mechanic
+P01502,Sneha Shetty,24,M,Belagavi,Lower-mid,Postgraduate,Student
+P01503,Meena Naidu,43,M,Yelahanka,Lower-mid,Graduate,Unemployed
+P01504,Prakash Gowda,64,M,Whitefield,Mid,Graduate,Shop owner
+P01505,Nandini Nayak,55,M,Mangaluru,Upper-mid,None,Mechanic
+P01506,Lakshmi Iyer,58,M,Mysuru,Lower-mid,None,Daily wage
+P01507,Deepa Murthy,69,F,Jayanagar,Lower-mid,None,Clerk
+P01508,Sandeep Das,60,M,BLR South,Low,Graduate,Shop owner
+P01509,Deepa Setty,29,M,Mysuru,Mid,Diploma,Driver
+P01510,Arun Achar,56,F,Whitefield,Mid,Postgraduate,Unemployed
+P01511,Sahana Kulkarni,60,M,Jayanagar,Low,Graduate,Daily wage
+P01512,Bhavani Shetty,31,M,Electronic City,Low,Graduate,IT worker
+P01513,Asha Reddy,23,M,Electronic City,High,Primary,Shop owner
+P01514,Mohan Kulkarni,59,M,Hubballi,Mid,Diploma,Driver
+P01515,Ravi Rao,25,F,Hubballi,Low,Graduate,Shop owner
+P01516,Rahul Das,46,M,Hubballi,Low,Graduate,IT worker
+P01517,Nandini Achar,33,M,Belagavi,Mid,Diploma,Mechanic
+P01518,Sneha Nayak,17,M,Jayanagar,Lower-mid,None,Unknown
+P01519,Divya Reddy,57,M,Hubballi,Mid,None,Student
+P01520,Lakshmi Sharma,62,M,BLR South,High,Secondary,Shop owner
+P01521,Yusuf Hegde,38,F,Mysuru,Lower-mid,None,Driver
+P01522,Vijay Naidu,57,M,KR Puram,Lower-mid,Primary,Clerk
+P01523,Divya Iyer,20,F,Hubballi,Lower-mid,Diploma,Unknown
+P01524,Priya Joshi,61,F,Hubballi,Lower-mid,Primary,Student
+P01525,Kavya Joshi,38,M,Yelahanka,Low,None,Driver
+P01526,Arun Shetty,58,M,Hubballi,Lower-mid,Primary,Vendor
+P01527,Anita Rao,62,F,Yelahanka,Upper-mid,None,Unknown
+P01528,Mohan Shetty,18,F,Jayanagar,Lower-mid,Secondary,Unknown
+P01529,Ravi Rao,36,M,Electronic City,Lower-mid,Postgraduate,Unknown
+P01530,Jyothi Hegde,28,M,Electronic City,Mid,Primary,Vendor
+P01531,Naveen Khan,68,M,Rajajinagar,Low,None,Daily wage
+P01532,Shilpa Reddy,67,M,BLR South,Lower-mid,Diploma,Unknown
+P01533,Ramesh Gowda,37,M,Belagavi,High,Postgraduate,Shop owner
+P01534,Sahana Hegde,69,M,Electronic City,Lower-mid,Secondary,Unknown
+P01535,Jyothi Nayak,67,M,Yelahanka,Mid,None,Unknown
+P01536,Faisal Nayak,66,M,Jayanagar,Low,Primary,Unemployed
+P01537,Mahesh Gupta,37,M,Whitefield,Upper-mid,Secondary,Mechanic
+P01538,Harish Gowda,26,F,Jayanagar,Lower-mid,Primary,Shop owner
+P01539,Roopa Prasad,35,M,BLR South,Lower-mid,None,Unknown
+P01540,Karthik Murthy,57,M,KR Puram,Lower-mid,Primary,Student
+P01541,Deepa Nayak,29,M,Belagavi,Lower-mid,Postgraduate,Unemployed
+P01542,Geetha Das,20,F,Mangaluru,Upper-mid,Postgraduate,Unemployed
+P01543,Harish Gowda,42,M,Mangaluru,Upper-mid,Graduate,IT worker
+P01544,Lakshmi Murthy,62,M,BLR South,Lower-mid,Primary,Student
+P01545,Sneha Das,35,F,Rajajinagar,Low,None,Unemployed
+P01546,Rahul Gupta,54,F,Hubballi,Mid,None,Shop owner
+P01547,Karthik Reddy,40,M,Belagavi,Low,Postgraduate,Mechanic
+P01548,Jyothi Nayak,23,M,Mangaluru,High,Secondary,Student
+P01549,Rahul Pai,43,F,Rajajinagar,Low,Graduate,Unemployed
+P01550,Arun Khan,63,M,Mysuru,Lower-mid,None,Vendor
+P01551,Deepa Gowda,19,M,BTM,Low,Secondary,Student
+P01552,Mahesh Desai,31,F,BTM,Mid,Diploma,Daily wage
+P01553,Manjunath Gowda,32,F,Rajajinagar,Lower-mid,Postgraduate,Student
+P01554,Arun Sharma,61,M,KR Puram,Mid,Secondary,Vendor
+P01555,Bhavani Murthy,36,M,Mysuru,Low,Secondary,Mechanic
+P01556,Roopa Das,33,M,BTM,Upper-mid,Graduate,Vendor
+P01557,Divya Raju,51,M,KR Puram,Mid,Primary,Unemployed
+P01558,Geetha Setty,44,M,Electronic City,High,None,IT worker
+P01559,Imran Murthy,33,M,Whitefield,Upper-mid,None,Unemployed
+P01560,Reshma Kulkarni,40,M,Yelahanka,Lower-mid,None,Vendor
+P01561,Shilpa Iyer,27,M,Mysuru,Low,Secondary,Unemployed
+P01562,Ramesh Naidu,17,F,KR Puram,Upper-mid,Secondary,Unknown
+P01563,Shilpa Kumar,37,M,Mangaluru,Lower-mid,Diploma,Unemployed
+P01564,Anita Gupta,40,F,Hubballi,Low,Graduate,IT worker
+P01565,Sneha Joshi,62,M,Mysuru,Low,Diploma,IT worker
+P01566,Geetha Nayak,16,M,Hubballi,High,None,Vendor
+P01567,Ramesh Bhat,37,M,BLR South,Mid,Secondary,Clerk
+P01568,Mohan Desai,67,M,BLR South,Low,Graduate,Student
+P01569,Mohan Rao,44,M,Electronic City,Low,None,Student
+P01570,Karthik Desai,70,M,Yelahanka,Low,None,Clerk
+P01571,Roopa Gupta,36,F,Electronic City,Low,Secondary,Clerk
+P01572,Sahana Nayak,30,M,BTM,Upper-mid,Postgraduate,Unemployed
+P01573,Arun Shetty,57,M,Hubballi,Lower-mid,Diploma,Unknown
+P01574,Ganesh Reddy,51,M,BLR South,High,Secondary,Clerk
+P01575,Ravi Achar,70,F,KR Puram,Lower-mid,None,Unknown
+P01576,Geetha Naidu,22,M,Electronic City,Low,None,Vendor
+P01577,Shilpa Pai,52,M,Hubballi,Lower-mid,Postgraduate,Mechanic
+P01578,Santosh Nayak,17,M,KR Puram,Lower-mid,Diploma,Student
+P01579,Karthik Bhat,55,M,KR Puram,Low,Primary,Unknown
+P01580,Ravi Shetty,54,M,KR Puram,Lower-mid,Postgraduate,Shop owner
+P01581,Kavya Setty,38,F,Yelahanka,Upper-mid,None,Driver
+P01582,Vinay Desai,21,F,Rajajinagar,Lower-mid,Graduate,Shop owner
+P01583,Prakash Gupta,62,M,Mysuru,Mid,Graduate,IT worker
+P01584,Bhavani Prasad,44,M,Rajajinagar,Upper-mid,Secondary,Vendor
+P01585,Pooja Patil,67,M,KR Puram,Low,Secondary,Daily wage
+P01586,Geetha Sharma,62,F,Yelahanka,Lower-mid,Secondary,Shop owner
+P01587,Yusuf Gowda,39,M,Mangaluru,Low,Diploma,Vendor
+P01588,Sandeep Nayak,50,M,Yelahanka,Mid,Postgraduate,Driver
+P01589,Mahesh Murthy,66,M,KR Puram,Low,Diploma,Mechanic
+P01590,Yusuf Nayak,52,M,Rajajinagar,Upper-mid,Diploma,Unemployed
+P01591,Naveen Shetty,42,M,Mysuru,Mid,Diploma,Daily wage
+P01592,Lakshmi Reddy,69,M,Belagavi,Low,None,Driver
+P01593,Yusuf Prasad,40,F,KR Puram,Low,Postgraduate,Shop owner
+P01594,Geetha Setty,34,M,KR Puram,Mid,Graduate,Daily wage
+P01595,Imran Gowda,63,F,Electronic City,Upper-mid,Postgraduate,IT worker
+P01596,Sneha Bhat,64,M,BTM,Mid,Postgraduate,Unknown
+P01597,Yusuf Gowda,25,F,Mangaluru,Mid,Postgraduate,IT worker
+P01598,Vinay Pai,44,M,Belagavi,Mid,None,Vendor
+P01599,Divya Das,37,M,Mysuru,Upper-mid,Graduate,Shop owner
+P01600,Sneha Bhat,36,M,BTM,High,None,Vendor
+P01601,Sneha Prasad,33,M,Mangaluru,Lower-mid,Secondary,Clerk
+P01602,Naveen Shetty,34,M,Electronic City,Low,Primary,Clerk
+P01603,Mohan Kulkarni,64,M,Rajajinagar,Mid,Primary,Daily wage
+P01604,Shilpa Gupta,69,M,BTM,Low,None,Shop owner
+P01605,Ramesh Hegde,16,M,BLR South,Lower-mid,Secondary,Unknown
+P01606,Sneha Raju,44,M,Electronic City,Low,None,Daily wage
+P01607,Rajesh Khan,47,M,BTM,High,Postgraduate,Daily wage
+P01608,Harish Gowda,63,F,Belagavi,Low,Primary,Shop owner
+P01609,Pooja Murthy,45,M,Mysuru,Mid,None,Student
+P01610,Imran Khan,22,F,Mysuru,Lower-mid,Graduate,Unemployed
+P01611,Suresh Patil,24,M,Rajajinagar,Mid,Secondary,IT worker
+P01612,Vijay Das,68,M,Electronic City,Low,Primary,Daily wage
+P01613,Bhavani Raju,63,M,Yelahanka,Low,Graduate,Unknown
+P01614,Shilpa Setty,27,M,Belagavi,Low,Diploma,Unknown
+P01615,Geetha Desai,38,M,Hubballi,High,Secondary,Vendor
+P01616,Santosh Achar,47,M,Hubballi,Lower-mid,Secondary,Shop owner
+P01617,Karthik Bhat,22,M,Whitefield,Lower-mid,Diploma,Student
+P01618,Geetha Achar,43,M,Electronic City,High,Postgraduate,Daily wage
+P01619,Harish Setty,41,M,Electronic City,Upper-mid,Diploma,Unknown
+P01620,Prakash Achar,31,M,Whitefield,Lower-mid,Diploma,Unemployed
+P01621,Jyothi Pai,32,M,Yelahanka,Lower-mid,Diploma,Mechanic
+P01622,Asha Murthy,19,M,Belagavi,Low,Postgraduate,Unemployed
+P01623,Divya Sharma,42,M,BTM,Lower-mid,Postgraduate,Daily wage
+P01624,Roopa Kulkarni,37,M,Mysuru,Low,Postgraduate,Unemployed
+P01625,Vinay Gowda,65,M,KR Puram,Mid,Graduate,Daily wage
+P01626,Deepa Prasad,29,M,Rajajinagar,High,Graduate,Mechanic
+P01627,Arun Bhat,67,M,KR Puram,Lower-mid,Primary,Shop owner
+P01628,Geetha Kumar,18,F,Mysuru,Low,Diploma,IT worker
+P01629,Imran Rao,34,M,Rajajinagar,Mid,Postgraduate,Vendor
+P01630,Imran Murthy,63,M,Yelahanka,Mid,Primary,Clerk
+P01631,Faisal Gowda,20,M,Belagavi,Mid,Diploma,Unemployed
+P01632,Suresh Raju,69,M,BTM,Low,Graduate,Mechanic
+P01633,Rahul Kulkarni,70,M,KR Puram,Lower-mid,Postgraduate,Unemployed
+P01634,Divya Murthy,45,M,Whitefield,High,Graduate,IT worker
+P01635,Vinay Bhat,43,M,Yelahanka,Lower-mid,Diploma,Clerk
+P01636,Ramesh Prasad,31,M,Electronic City,Mid,Secondary,Shop owner
+P01637,Anita Sharma,30,M,BLR South,Lower-mid,Primary,IT worker
+P01638,Nandini Das,52,M,Whitefield,Lower-mid,Postgraduate,Daily wage
+P01639,Anita Gupta,26,M,Electronic City,Mid,None,Driver
+P01640,Asha Kulkarni,69,M,Belagavi,Upper-mid,Primary,Unemployed
+P01641,Sahana Murthy,42,M,KR Puram,Upper-mid,None,Student
+P01642,Sandeep Kulkarni,42,F,Whitefield,Mid,Graduate,IT worker
+P01643,Ramesh Das,36,F,Rajajinagar,Lower-mid,Postgraduate,IT worker
+P01644,Yusuf Gupta,70,M,Belagavi,Low,None,Mechanic
+P01645,Manjunath Iyer,24,M,BTM,Lower-mid,None,Driver
+P01646,Rahul Sharma,23,M,Yelahanka,Lower-mid,Postgraduate,Shop owner
+P01647,Sahana Nayak,63,F,Yelahanka,Lower-mid,Secondary,Daily wage
+P01648,Sneha Bhat,62,F,Hubballi,Low,Secondary,Unknown
+P01649,Nandini Joshi,57,M,Whitefield,Lower-mid,Primary,Unknown
+P01650,Nandini Prasad,54,M,Electronic City,Low,Secondary,Driver
+P01651,Naveen Prasad,61,F,BLR South,Lower-mid,Primary,Driver
+P01652,Karthik Gowda,16,M,Rajajinagar,Low,None,Shop owner
+P01653,Meena Pai,22,M,Electronic City,Mid,None,Student
+P01654,Jyothi Patil,38,M,Rajajinagar,Low,Diploma,Unknown
+P01655,Divya Naidu,55,M,Whitefield,Lower-mid,Postgraduate,Vendor
+P01656,Manjunath Joshi,25,M,Rajajinagar,Low,Secondary,Unknown
+P01657,Anita Nayak,67,M,Hubballi,Mid,Secondary,Unknown
+P01658,Kavya Kulkarni,33,F,Belagavi,Upper-mid,Postgraduate,IT worker
+P01659,Shilpa Rao,16,F,Rajajinagar,Low,Graduate,Driver
+P01660,Vijay Rao,46,F,KR Puram,Low,None,Driver
+P01661,Yusuf Sharma,43,M,KR Puram,Lower-mid,None,Vendor
+P01662,Jyothi Iyer,40,M,Belagavi,Lower-mid,Secondary,Shop owner
+P01663,Ganesh Prasad,21,F,Rajajinagar,High,Postgraduate,Clerk
+P01664,Vijay Khan,51,M,Belagavi,Mid,Postgraduate,Daily wage
+P01665,Jyothi Khan,57,M,BLR South,Upper-mid,Diploma,Student
+P01666,Sneha Hegde,55,M,Rajajinagar,Lower-mid,Primary,Unemployed
+P01667,Rahul Sharma,39,M,BLR South,Mid,Secondary,Daily wage
+P01668,Nandini Murthy,48,F,Mangaluru,Low,Postgraduate,Clerk
+P01669,Karthik Iyer,18,F,Belagavi,Low,Postgraduate,Unemployed
+P01670,Sandeep Kumar,61,F,Mangaluru,Mid,Diploma,Driver
+P01671,Karthik Raju,57,M,Jayanagar,Low,None,Unknown
+P01672,Vijay Setty,63,M,BTM,Low,None,Unemployed
+P01673,Rajesh Desai,61,M,Jayanagar,Upper-mid,Secondary,Vendor
+P01674,Roopa Raju,17,M,Hubballi,Upper-mid,Secondary,Driver
+P01675,Kavya Raju,39,M,Hubballi,Lower-mid,Postgraduate,Unemployed
+P01676,Manjunath Hegde,68,M,BTM,Mid,None,Driver
+P01677,Rajesh Reddy,33,M,Belagavi,Lower-mid,Primary,Unemployed
+P01678,Divya Murthy,51,M,KR Puram,Lower-mid,Postgraduate,Daily wage
+P01679,Sandeep Sharma,21,M,Jayanagar,Low,None,Driver
+P01680,Ganesh Joshi,56,F,BTM,Mid,Primary,Student
+P01681,Meena Gowda,62,F,Whitefield,Upper-mid,Postgraduate,Vendor
+P01682,Lakshmi Bhat,19,M,Whitefield,Low,Primary,Unknown
+P01683,Ganesh Khan,30,F,Whitefield,Upper-mid,Primary,Clerk
+P01684,Mohan Setty,44,M,Electronic City,Lower-mid,Secondary,Student
+P01685,Bhavani Sharma,69,M,BTM,Low,Graduate,Mechanic
+P01686,Vijay Gupta,52,M,Belagavi,Lower-mid,Postgraduate,Clerk
+P01687,Shilpa Pai,60,F,Mysuru,Upper-mid,Secondary,Daily wage
+P01688,Yusuf Hegde,32,M,Whitefield,Low,None,Shop owner
+P01689,Priya Das,24,M,KR Puram,Lower-mid,Diploma,Unknown
+P01690,Imran Pai,60,M,KR Puram,Upper-mid,None,Driver
+P01691,Prakash Das,37,M,Jayanagar,Low,Secondary,Clerk
+P01692,Naveen Sharma,50,M,BLR South,Lower-mid,Graduate,IT worker
+P01693,Kavya Joshi,60,M,Yelahanka,Lower-mid,Primary,Clerk
+P01694,Nandini Kulkarni,37,M,Yelahanka,Lower-mid,Primary,Shop owner
+P01695,Anita Khan,43,M,Mangaluru,Lower-mid,None,Driver
+P01696,Yusuf Rao,35,F,Belagavi,High,Primary,Unknown
+P01697,Lakshmi Nayak,58,M,BLR South,High,Secondary,Driver
+P01698,Harish Sharma,41,M,BLR South,Mid,Primary,Driver
+P01699,Divya Bhat,21,M,Rajajinagar,Lower-mid,Postgraduate,Vendor
+P01700,Vijay Achar,51,F,KR Puram,Low,Primary,Student
+P01701,Anita Das,51,M,Belagavi,Low,Diploma,Mechanic
+P01702,Meena Setty,31,M,Jayanagar,Lower-mid,Secondary,Driver
+P01703,Asha Pai,34,F,Belagavi,Upper-mid,Graduate,Mechanic
+P01704,Ramesh Gowda,38,M,Belagavi,High,None,Vendor
+P01705,Mahesh Rao,65,M,KR Puram,Lower-mid,None,Unknown
+P01706,Mahesh Iyer,20,M,BTM,Lower-mid,None,Vendor
+P01707,Divya Khan,21,M,Hubballi,Low,Primary,Clerk
+P01708,Divya Iyer,59,F,BLR South,Low,Diploma,Driver
+P01709,Naveen Iyer,59,M,Jayanagar,Lower-mid,None,Student
+P01710,Anita Desai,41,F,BLR South,Low,Primary,Unknown
+P01711,Yusuf Iyer,59,M,Electronic City,Mid,Postgraduate,Mechanic
+P01712,Sneha Reddy,35,M,Belagavi,Mid,Graduate,IT worker
+P01713,Yusuf Naidu,65,M,KR Puram,Upper-mid,Secondary,Daily wage
+P01714,Priya Khan,50,M,Hubballi,Low,None,Student
+P01715,Kavya Murthy,28,M,Mangaluru,Mid,Diploma,Mechanic
+P01716,Deepa Sharma,34,M,Electronic City,Lower-mid,None,Unknown
+P01717,Nandini Murthy,43,M,Whitefield,Mid,None,Shop owner
+P01718,Reshma Rao,34,M,BLR South,Lower-mid,Secondary,Unemployed
+P01719,Mahesh Shetty,38,M,Mysuru,Mid,Primary,Driver
+P01720,Faisal Gupta,22,M,BTM,Mid,Diploma,Clerk
+P01721,Harish Sharma,60,M,Belagavi,Upper-mid,Graduate,IT worker
+P01722,Imran Gowda,36,M,BTM,Mid,Postgraduate,Daily wage
+P01723,Vinay Prasad,62,M,Hubballi,Mid,Diploma,Mechanic
+P01724,Ravi Rao,63,M,Hubballi,Mid,None,Mechanic
+P01725,Kiran Hegde,52,M,Whitefield,Mid,Graduate,Vendor
+P01726,Deepa Naidu,52,M,Yelahanka,Low,Postgraduate,Driver
+P01727,Reshma Prasad,58,M,Yelahanka,Upper-mid,Postgraduate,Clerk
+P01728,Reshma Kumar,42,M,Yelahanka,Mid,Secondary,Clerk
+P01729,Meena Kulkarni,66,F,KR Puram,Low,Primary,Unemployed
+P01730,Ganesh Patil,20,M,Belagavi,Mid,Diploma,Unknown
+P01731,Prakash Desai,54,M,Yelahanka,Lower-mid,Graduate,Unemployed
+P01732,Pooja Pai,36,M,Electronic City,Low,Postgraduate,IT worker
+P01733,Shilpa Gupta,60,M,Yelahanka,Low,None,Unknown
+P01734,Faisal Desai,47,M,KR Puram,Low,Postgraduate,Shop owner
+P01735,Nandini Bhat,34,M,Electronic City,Mid,None,Driver
+P01736,Roopa Joshi,26,M,Mangaluru,Lower-mid,None,Clerk
+P01737,Jyothi Raju,47,F,Yelahanka,Upper-mid,Primary,Mechanic
+P01738,Mahesh Shetty,22,M,Rajajinagar,High,Graduate,Clerk
+P01739,Priya Rao,65,M,Belagavi,High,Graduate,Mechanic
+P01740,Harish Hegde,42,F,Whitefield,Lower-mid,Secondary,Daily wage
+P01741,Ganesh Prasad,50,M,Rajajinagar,Upper-mid,Diploma,IT worker
+P01742,Santosh Sharma,26,F,BTM,Lower-mid,None,Shop owner
+P01743,Pooja Sharma,57,M,Jayanagar,Lower-mid,Postgraduate,Mechanic
+P01744,Prakash Khan,28,M,Mangaluru,Low,Graduate,Unknown
+P01745,Yusuf Gowda,54,M,Yelahanka,High,Secondary,Unknown
+P01746,Geetha Rao,52,M,Hubballi,Low,Secondary,Unemployed
+P01747,Mahesh Desai,40,M,Rajajinagar,Upper-mid,Primary,IT worker
+P01748,Nandini Raju,31,M,Belagavi,Upper-mid,Secondary,Driver
+P01749,Santosh Gowda,17,M,Electronic City,Lower-mid,Postgraduate,Unknown
+P01750,Rajesh Patil,66,M,Electronic City,Lower-mid,None,Unknown
+P01751,Pooja Rao,31,M,Jayanagar,Low,None,Mechanic
+P01752,Bhavani Das,40,M,Yelahanka,High,Postgraduate,Shop owner
+P01753,Kiran Setty,65,M,Mysuru,Mid,Diploma,IT worker
+P01754,Deepa Bhat,67,M,Belagavi,Mid,Secondary,Mechanic
+P01755,Yusuf Desai,57,M,Jayanagar,Low,Secondary,Unknown
+P01756,Kiran Raju,26,M,Hubballi,Lower-mid,Primary,IT worker
+P01757,Shilpa Murthy,22,M,Belagavi,Low,Postgraduate,IT worker
+P01758,Geetha Murthy,37,M,Electronic City,Lower-mid,Diploma,Clerk
+P01759,Sandeep Murthy,54,M,BTM,Low,Secondary,Unemployed
+P01760,Arun Naidu,52,M,Whitefield,Lower-mid,Postgraduate,Driver
+P01761,Sandeep Desai,35,M,Electronic City,Mid,Primary,Driver
+P01762,Vijay Kulkarni,34,F,Whitefield,Mid,None,Vendor
+P01763,Kavya Bhat,25,M,Whitefield,Lower-mid,Graduate,Shop owner
+P01764,Asha Das,55,F,KR Puram,Mid,Graduate,Shop owner
+P01765,Ganesh Prasad,39,M,Electronic City,Mid,Graduate,IT worker
+P01766,Priya Das,40,M,Jayanagar,Lower-mid,Secondary,Vendor
+P01767,Arun Nayak,33,M,Belagavi,Mid,Postgraduate,Vendor
+P01768,Harish Das,45,M,Hubballi,Upper-mid,Postgraduate,Shop owner
+P01769,Arun Raju,28,M,BLR South,Lower-mid,None,Student
+P01770,Yusuf Gowda,33,M,Mysuru,Upper-mid,Graduate,Daily wage
+P01771,Deepa Sharma,52,M,Rajajinagar,Low,Postgraduate,Driver
+P01772,Geetha Patil,60,M,BTM,Low,Graduate,Clerk
+P01773,Jyothi Murthy,21,M,Belagavi,Upper-mid,None,Driver
+P01774,Bhavani Bhat,19,M,Rajajinagar,Mid,Graduate,IT worker
+P01775,Meena Shetty,50,F,BLR South,Lower-mid,Postgraduate,Daily wage
+P01776,Rahul Das,23,M,Electronic City,Low,Graduate,Unknown
+P01777,Shilpa Kulkarni,47,M,BLR South,Mid,None,IT worker
+P01778,Rahul Joshi,67,M,Electronic City,High,Secondary,Mechanic
+P01779,Mahesh Murthy,47,M,KR Puram,Lower-mid,Graduate,Clerk
+P01780,Divya Murthy,50,M,Whitefield,Mid,Graduate,Clerk
+P01781,Rajesh Shetty,64,F,Electronic City,Low,Graduate,IT worker
+P01782,Sahana Rao,27,M,Yelahanka,Mid,None,IT worker
+P01783,Pooja Desai,59,M,BTM,Low,None,Vendor
+P01784,Shilpa Bhat,48,M,Mysuru,Lower-mid,Postgraduate,Clerk
+P01785,Roopa Hegde,52,M,KR Puram,Low,Diploma,Driver
+P01786,Naveen Kulkarni,58,M,Mysuru,High,Postgraduate,Unknown
+P01787,Prakash Raju,33,M,Whitefield,Lower-mid,Secondary,Student
+P01788,Vijay Bhat,37,M,Belagavi,Lower-mid,Secondary,Mechanic
+P01789,Sandeep Iyer,64,M,Yelahanka,Low,Diploma,Student
+P01790,Lakshmi Sharma,65,M,Belagavi,Low,Postgraduate,Clerk
+P01791,Santosh Naidu,17,M,Yelahanka,Lower-mid,Graduate,Vendor
+P01792,Shilpa Kulkarni,48,M,Whitefield,Low,Primary,Driver
+P01793,Ganesh Raju,46,F,Mangaluru,Lower-mid,None,Mechanic
+P01794,Sahana Patil,33,F,Mangaluru,Lower-mid,None,Unemployed
+P01795,Pooja Murthy,50,M,Whitefield,Low,Primary,Daily wage
+P01796,Ganesh Raju,42,F,BTM,Mid,Graduate,Vendor
+P01797,Jyothi Gowda,44,M,Mangaluru,Lower-mid,Postgraduate,Clerk
+P01798,Jyothi Prasad,68,M,BLR South,Low,None,Student
+P01799,Nandini Sharma,63,F,BTM,Lower-mid,Primary,IT worker
+P01800,Nandini Pai,28,M,Belagavi,Low,Graduate,Unemployed
+P01801,Lakshmi Shetty,57,M,Yelahanka,Upper-mid,None,Shop owner
+P01802,Deepa Prasad,39,M,Yelahanka,High,Graduate,Student
+P01803,Ramesh Das,34,M,Hubballi,Low,None,Unknown
+P01804,Faisal Gupta,65,M,BTM,Mid,None,Unknown
+P01805,Meena Kulkarni,57,F,Jayanagar,Mid,Diploma,Clerk
+P01806,Meena Sharma,63,M,KR Puram,Low,Postgraduate,Unknown
+P01807,Pooja Sharma,49,F,Belagavi,Upper-mid,Diploma,Unemployed
+P01808,Asha Joshi,34,M,Yelahanka,Low,Primary,Student
+P01809,Sneha Nayak,32,F,Mangaluru,Mid,Secondary,Shop owner
+P01810,Meena Desai,58,M,Mangaluru,Upper-mid,Postgraduate,Unknown
+P01811,Vijay Hegde,65,M,Whitefield,Low,None,Shop owner
+P01812,Mahesh Reddy,65,M,KR Puram,High,Secondary,Student
+P01813,Arun Achar,29,M,BTM,Lower-mid,Secondary,Vendor
+P01814,Shilpa Naidu,17,M,Electronic City,Low,Diploma,Unemployed
+P01815,Rajesh Raju,70,M,Yelahanka,Low,Diploma,Mechanic
+P01816,Rahul Hegde,65,M,Jayanagar,Low,Primary,Shop owner
+P01817,Kavya Raju,49,M,Rajajinagar,Low,Diploma,Unknown
+P01818,Harish Raju,36,M,Rajajinagar,High,Graduate,Student
+P01819,Karthik Murthy,48,M,Electronic City,Low,Diploma,Mechanic
+P01820,Asha Shetty,38,M,Whitefield,Upper-mid,Diploma,Clerk
+P01821,Arun Setty,21,M,Yelahanka,Upper-mid,None,Clerk
+P01822,Ganesh Reddy,25,F,BTM,Lower-mid,Primary,Shop owner
+P01823,Vijay Nayak,60,M,BLR South,Low,Primary,Clerk
+P01824,Nandini Kulkarni,42,F,Yelahanka,Low,Graduate,Driver
+P01825,Priya Naidu,23,F,BLR South,Lower-mid,Secondary,Mechanic
+P01826,Nandini Murthy,55,M,BLR South,Lower-mid,Diploma,Unemployed
+P01827,Vijay Khan,18,M,Mangaluru,Mid,Primary,Driver
+P01828,Anita Kumar,38,F,Jayanagar,Lower-mid,None,Daily wage
+P01829,Karthik Sharma,42,F,Mysuru,Lower-mid,Graduate,Unemployed
+P01830,Divya Das,46,F,Whitefield,Low,Postgraduate,Shop owner
+P01831,Nandini Kulkarni,58,M,Electronic City,Lower-mid,Graduate,Vendor
+P01832,Lakshmi Patil,48,M,BTM,Low,None,Daily wage
+P01833,Asha Bhat,55,M,Rajajinagar,Low,Postgraduate,Clerk
+P01834,Pooja Setty,45,M,Mysuru,Lower-mid,Secondary,Driver
+P01835,Ganesh Khan,39,M,Mangaluru,Mid,None,Mechanic
+P01836,Deepa Hegde,27,M,Hubballi,Low,Primary,Driver
+P01837,Asha Pai,16,M,Electronic City,Upper-mid,Primary,Unknown
+P01838,Asha Sharma,29,M,Whitefield,Lower-mid,None,Clerk
+P01839,Yusuf Pai,37,F,BTM,Low,Diploma,Shop owner
+P01840,Meena Achar,22,M,KR Puram,Mid,Secondary,Daily wage
+P01841,Nandini Khan,57,M,Mysuru,Low,Primary,IT worker
+P01842,Kiran Shetty,51,M,BTM,Upper-mid,Secondary,IT worker
+P01843,Sneha Gupta,21,F,Mysuru,Low,Graduate,Vendor
+P01844,Vijay Achar,30,M,Rajajinagar,Mid,Secondary,Shop owner
+P01845,Mahesh Nayak,52,F,Mysuru,Low,Graduate,Student
+P01846,Ramesh Patil,60,F,Mysuru,Low,Primary,Daily wage
+P01847,Naveen Desai,56,F,Rajajinagar,Upper-mid,Postgraduate,Driver
+P01848,Ramesh Kulkarni,43,F,Whitefield,Low,Diploma,Clerk
+P01849,Vinay Prasad,42,F,Electronic City,Lower-mid,Postgraduate,Clerk
+P01850,Suresh Gowda,32,M,Hubballi,Lower-mid,Postgraduate,Unknown
+P01851,Mahesh Gowda,19,M,BTM,Low,Primary,Vendor
+P01852,Asha Rao,57,M,Mangaluru,Low,Secondary,Daily wage
+P01853,Arun Murthy,24,F,Jayanagar,Mid,Graduate,Driver
+P01854,Shilpa Sharma,25,M,KR Puram,Low,None,Shop owner
+P01855,Divya Prasad,22,M,Mangaluru,Lower-mid,Postgraduate,IT worker
+P01856,Divya Shetty,50,M,Electronic City,Low,Postgraduate,Student
+P01857,Reshma Reddy,40,F,Whitefield,Low,Diploma,Mechanic
+P01858,Kavya Rao,61,M,Electronic City,Mid,Primary,Shop owner
+P01859,Anita Gowda,62,M,Mangaluru,Upper-mid,Primary,IT worker
+P01860,Sneha Khan,19,M,Whitefield,Upper-mid,Postgraduate,Clerk
+P01861,Mohan Desai,48,M,Hubballi,Upper-mid,Secondary,Daily wage
+P01862,Suresh Shetty,61,F,Rajajinagar,Mid,Primary,Unknown
+P01863,Sneha Achar,33,M,Belagavi,Lower-mid,Graduate,Unknown
+P01864,Vinay Kulkarni,49,F,Hubballi,Lower-mid,Graduate,Daily wage
+P01865,Kavya Desai,22,M,Jayanagar,High,Primary,Student
+P01866,Kavya Achar,61,F,Yelahanka,Upper-mid,Postgraduate,Unemployed
+P01867,Harish Desai,66,M,Electronic City,Lower-mid,Graduate,Unemployed
+P01868,Asha Desai,63,M,Hubballi,Upper-mid,Primary,Unknown
+P01869,Priya Kumar,56,F,Jayanagar,Low,Diploma,Unemployed
+P01870,Meena Murthy,38,F,KR Puram,Lower-mid,Primary,Clerk
+P01871,Rajesh Reddy,36,M,Hubballi,Low,Primary,Vendor
+P01872,Jyothi Gupta,57,M,Yelahanka,Mid,Primary,IT worker
+P01873,Faisal Pai,38,M,Belagavi,Upper-mid,Primary,Student
+P01874,Divya Shetty,62,M,Yelahanka,Lower-mid,Diploma,Driver
+P01875,Vinay Hegde,32,F,Electronic City,Lower-mid,Diploma,Student
+P01876,Naveen Rao,36,M,Rajajinagar,Mid,Graduate,Shop owner
+P01877,Santosh Gupta,50,M,Mangaluru,Mid,Primary,Daily wage
+P01878,Faisal Setty,54,F,Hubballi,Lower-mid,Secondary,Driver
+P01879,Pooja Gupta,38,M,Yelahanka,Low,Postgraduate,Clerk
+P01880,Roopa Joshi,21,M,Rajajinagar,Lower-mid,None,Vendor
+P01881,Jyothi Nayak,58,F,BLR South,Lower-mid,Postgraduate,Vendor
+P01882,Geetha Patil,44,M,Rajajinagar,Low,Secondary,Vendor
+P01883,Ravi Kulkarni,46,F,Yelahanka,Lower-mid,Graduate,Vendor
+P01884,Prakash Rao,70,M,Yelahanka,Mid,Diploma,Clerk
+P01885,Nandini Murthy,43,M,Rajajinagar,Lower-mid,Secondary,Daily wage
+P01886,Lakshmi Pai,68,F,Rajajinagar,Mid,Graduate,Driver
+P01887,Anita Prasad,61,M,KR Puram,Low,Graduate,Vendor
+P01888,Harish Setty,60,M,Mysuru,Upper-mid,Primary,IT worker
+P01889,Reshma Joshi,69,M,Mangaluru,Lower-mid,Graduate,Mechanic
+P01890,Manjunath Rao,17,M,Mysuru,Mid,Secondary,IT worker
+P01891,Vijay Gowda,59,M,Belagavi,Low,Secondary,Unemployed
+P01892,Mahesh Das,43,M,BTM,High,Primary,IT worker
+P01893,Divya Gupta,60,M,KR Puram,Low,Graduate,Mechanic
+P01894,Vijay Gupta,59,M,BLR South,High,None,Student
+P01895,Kavya Shetty,65,F,Mangaluru,Low,Diploma,Driver
+P01896,Rahul Patil,54,M,BTM,Upper-mid,None,IT worker
+P01897,Kiran Pai,21,M,Yelahanka,Lower-mid,Postgraduate,Mechanic
+P01898,Prakash Iyer,60,M,KR Puram,Low,Secondary,Student
+P01899,Priya Setty,43,F,Electronic City,Low,Secondary,Mechanic
+P01900,Rahul Patil,38,F,Hubballi,Low,Diploma,Daily wage
+P01901,Bhavani Murthy,17,F,BLR South,High,None,Student
+P01902,Anita Rao,16,F,Mysuru,Low,Secondary,Mechanic
+P01903,Divya Kumar,67,F,Mangaluru,Lower-mid,None,Driver
+P01904,Rahul Desai,55,M,Mysuru,Low,Secondary,Daily wage
+P01905,Vijay Kulkarni,39,M,Electronic City,Mid,Primary,Shop owner
+P01906,Vijay Sharma,17,M,Mysuru,Upper-mid,None,Clerk
+P01907,Santosh Shetty,38,M,Mangaluru,Lower-mid,None,IT worker
+P01908,Rahul Kulkarni,25,F,KR Puram,High,Postgraduate,Shop owner
+P01909,Vinay Sharma,23,M,Jayanagar,Lower-mid,Secondary,Driver
+P01910,Geetha Das,28,F,BLR South,Lower-mid,Diploma,Unknown
+P01911,Anita Prasad,21,M,KR Puram,Upper-mid,Graduate,Unknown
+P01912,Ramesh Prasad,41,M,Hubballi,Low,Secondary,Driver
+P01913,Rajesh Hegde,34,F,Yelahanka,Lower-mid,Diploma,Daily wage
+P01914,Sahana Kumar,47,M,Mysuru,Lower-mid,Diploma,Clerk
+P01915,Sahana Bhat,65,M,BLR South,Lower-mid,None,Vendor
+P01916,Faisal Bhat,53,M,Mangaluru,Lower-mid,Postgraduate,Student
+P01917,Deepa Gupta,17,M,Whitefield,Lower-mid,Secondary,Shop owner
+P01918,Deepa Achar,43,M,Mysuru,Upper-mid,Graduate,Student
+P01919,Imran Hegde,22,M,BTM,Upper-mid,Postgraduate,Student
+P01920,Manjunath Setty,29,M,Mangaluru,Mid,None,Unemployed
+P01921,Vinay Hegde,60,M,Whitefield,Low,Primary,Student
+P01922,Priya Iyer,68,M,Yelahanka,Low,Primary,Unknown
+P01923,Geetha Kulkarni,58,M,Yelahanka,Mid,Postgraduate,Clerk
+P01924,Shilpa Desai,63,F,Yelahanka,Mid,Diploma,Mechanic
+P01925,Vinay Murthy,69,F,Electronic City,Low,None,Mechanic
+P01926,Imran Setty,65,M,Hubballi,Mid,None,Daily wage
+P01927,Kiran Rao,66,M,BTM,Lower-mid,Primary,Clerk
+P01928,Asha Bhat,50,M,Mangaluru,Low,None,Mechanic
+P01929,Rahul Gowda,51,F,Rajajinagar,Low,None,IT worker
+P01930,Karthik Shetty,23,M,Yelahanka,Low,Postgraduate,Daily wage
+P01931,Geetha Khan,55,M,Belagavi,Low,Graduate,Unemployed
+P01932,Yusuf Hegde,65,M,KR Puram,Low,None,Driver
+P01933,Pooja Murthy,27,M,Rajajinagar,Upper-mid,None,Mechanic
+P01934,Vinay Nayak,34,M,Rajajinagar,Low,Primary,Student
+P01935,Rajesh Kumar,44,M,Rajajinagar,Mid,Secondary,Shop owner
+P01936,Naveen Nayak,51,F,BLR South,Low,None,Mechanic
+P01937,Bhavani Gupta,17,M,BTM,Mid,Secondary,Student
+P01938,Imran Nayak,22,M,BLR South,Lower-mid,Graduate,Unemployed
+P01939,Vinay Joshi,23,F,Hubballi,Low,Graduate,Daily wage
+P01940,Ravi Desai,68,F,Mangaluru,Mid,Secondary,Unknown
+P01941,Vinay Sharma,63,M,Electronic City,Mid,Secondary,IT worker
+P01942,Karthik Nayak,45,M,KR Puram,Low,Secondary,Driver
+P01943,Vinay Murthy,26,M,BLR South,Lower-mid,Secondary,Driver
+P01944,Imran Sharma,42,M,Mysuru,Upper-mid,Diploma,Driver
+P01945,Harish Hegde,41,M,Yelahanka,Lower-mid,Diploma,IT worker
+P01946,Vinay Sharma,39,M,Hubballi,Lower-mid,Postgraduate,Shop owner
+P01947,Shilpa Patil,29,M,Mangaluru,Low,Postgraduate,Unknown
+P01948,Nandini Sharma,51,F,Yelahanka,Lower-mid,Secondary,Vendor
+P01949,Asha Nayak,46,M,Hubballi,Lower-mid,Graduate,Mechanic
+P01950,Deepa Hegde,29,M,BTM,Mid,Graduate,Mechanic
+P01951,Priya Sharma,17,M,Yelahanka,Lower-mid,Primary,Clerk
+P01952,Sandeep Nayak,57,M,Rajajinagar,Low,Secondary,IT worker
+P01953,Geetha Raju,24,M,Electronic City,Lower-mid,Graduate,Shop owner
+P01954,Imran Achar,22,F,Jayanagar,Low,None,Student
+P01955,Faisal Pai,38,M,BTM,High,Secondary,Daily wage
+P01956,Nandini Kulkarni,36,M,Electronic City,Lower-mid,Postgraduate,Driver
+P01957,Santosh Bhat,22,F,BTM,Upper-mid,Primary,Driver
+P01958,Prakash Shetty,50,F,Yelahanka,Low,Graduate,IT worker
+P01959,Reshma Setty,70,F,Jayanagar,Mid,Primary,IT worker
+P01960,Anita Reddy,24,F,Electronic City,Lower-mid,Primary,Unemployed
+P01961,Kavya Setty,68,M,Electronic City,Mid,Primary,IT worker
+P01962,Ravi Das,58,M,KR Puram,High,Secondary,Daily wage
+P01963,Priya Nayak,55,M,Yelahanka,Upper-mid,None,Vendor
+P01964,Ganesh Bhat,61,F,Jayanagar,Lower-mid,Diploma,Unemployed
+P01965,Roopa Joshi,42,F,KR Puram,Upper-mid,Primary,Shop owner
+P01966,Reshma Prasad,17,M,BTM,Low,Primary,Clerk
+P01967,Mohan Sharma,43,M,Whitefield,Mid,Postgraduate,IT worker
+P01968,Faisal Pai,51,M,Mangaluru,Low,Graduate,Unemployed
+P01969,Divya Iyer,28,F,Yelahanka,Lower-mid,Postgraduate,Clerk
+P01970,Vinay Pai,39,F,Yelahanka,Lower-mid,Secondary,Driver
+P01971,Harish Raju,32,M,Electronic City,Low,None,IT worker
+P01972,Faisal Achar,36,F,Jayanagar,Low,Primary,Daily wage
+P01973,Geetha Gowda,27,M,BTM,Lower-mid,Primary,Daily wage
+P01974,Manjunath Kumar,62,M,KR Puram,Upper-mid,Graduate,Daily wage
+P01975,Vijay Joshi,56,F,Electronic City,Mid,Secondary,Daily wage
+P01976,Roopa Shetty,19,M,Rajajinagar,Upper-mid,None,Driver
+P01977,Faisal Setty,21,M,Hubballi,Low,None,Daily wage
+P01978,Vinay Pai,56,M,Electronic City,Upper-mid,Postgraduate,IT worker
+P01979,Mahesh Setty,27,M,Belagavi,Mid,None,IT worker
+P01980,Priya Prasad,16,M,Rajajinagar,Low,Graduate,Unknown
+P01981,Rahul Setty,23,M,Jayanagar,Low,Secondary,Vendor
+P01982,Naveen Iyer,56,F,Whitefield,Mid,Graduate,Clerk
+P01983,Shilpa Khan,32,F,Belagavi,Low,None,Clerk
+P01984,Santosh Rao,20,M,Electronic City,Lower-mid,Postgraduate,Unemployed
+P01985,Roopa Khan,21,M,Belagavi,Lower-mid,Postgraduate,Daily wage
+P01986,Ganesh Joshi,65,F,KR Puram,Mid,Graduate,Daily wage
+P01987,Sandeep Murthy,62,F,Electronic City,Lower-mid,Diploma,Student
+P01988,Sahana Bhat,64,M,Mysuru,High,Primary,Vendor
+P01989,Kavya Rao,18,M,Yelahanka,Lower-mid,Diploma,Student
+P01990,Asha Sharma,45,M,BTM,Mid,Diploma,Mechanic
+P01991,Ravi Nayak,66,M,Hubballi,Low,Secondary,Unemployed
+P01992,Sneha Achar,27,M,BTM,Low,None,Mechanic
+P01993,Karthik Nayak,33,M,BLR South,Lower-mid,Primary,Clerk
+P01994,Jyothi Murthy,30,M,Mangaluru,Mid,Diploma,Mechanic
+P01995,Naveen Das,58,M,Jayanagar,Low,Secondary,IT worker
+P01996,Mahesh Bhat,25,M,Electronic City,Upper-mid,Diploma,IT worker
+P01997,Suresh Bhat,56,M,Hubballi,Lower-mid,Graduate,Mechanic
+P01998,Roopa Shetty,54,M,Whitefield,Lower-mid,Secondary,Driver
+P01999,Nandini Joshi,46,M,Electronic City,Lower-mid,Primary,Vendor
+P02000,Ganesh Setty,30,F,KR Puram,Mid,Diploma,Clerk
+P02001,Jyothi Pai,52,F,Belagavi,Low,Primary,Student
+P02002,Sandeep Patil,61,M,Rajajinagar,Upper-mid,Primary,IT worker
+P02003,Sandeep Das,17,M,Jayanagar,Lower-mid,Primary,Unknown
+P02004,Ganesh Gowda,49,M,Mangaluru,Upper-mid,Postgraduate,Clerk
+P02005,Manjunath Sharma,40,M,Whitefield,Mid,Secondary,Unemployed
+P02006,Karthik Patil,30,M,KR Puram,Lower-mid,Graduate,IT worker
+P02007,Jyothi Nayak,66,M,KR Puram,Lower-mid,Secondary,Unknown
+P02008,Ramesh Hegde,68,F,Rajajinagar,High,Graduate,Unknown
+P02009,Kiran Bhat,62,M,Rajajinagar,Lower-mid,Graduate,Clerk
+P02010,Geetha Iyer,43,M,BLR South,Low,Primary,Driver
+P02011,Santosh Kumar,17,M,Yelahanka,Low,Diploma,Driver
+P02012,Rajesh Desai,40,M,Mangaluru,Lower-mid,Secondary,Daily wage
+P02013,Reshma Sharma,33,M,Mangaluru,Lower-mid,Primary,Unknown
+P02014,Lakshmi Pai,17,M,KR Puram,Lower-mid,Secondary,Driver
+P02015,Ganesh Raju,40,M,Hubballi,Lower-mid,Secondary,Mechanic
+P02016,Priya Pai,55,F,BLR South,Mid,Secondary,Unknown
+P02017,Sandeep Reddy,48,M,Belagavi,Mid,Diploma,Daily wage
+P02018,Manjunath Nayak,25,M,BTM,High,Primary,Daily wage
+P02019,Nandini Naidu,37,M,KR Puram,Mid,Diploma,Mechanic
+P02020,Ramesh Reddy,49,M,Yelahanka,Mid,Graduate,Daily wage
+P02021,Shilpa Sharma,26,M,Whitefield,Low,None,Shop owner
+P02022,Ravi Reddy,57,F,Rajajinagar,Lower-mid,None,Vendor
+P02023,Arun Nayak,24,M,KR Puram,Lower-mid,Postgraduate,Mechanic
+P02024,Ravi Prasad,64,M,BLR South,Mid,Postgraduate,Mechanic
+P02025,Jyothi Gowda,18,M,BLR South,Low,Graduate,IT worker
+P02026,Suresh Naidu,60,M,KR Puram,Lower-mid,Primary,Mechanic
+P02027,Shilpa Nayak,50,M,Hubballi,Mid,Secondary,Clerk
+P02028,Jyothi Naidu,48,M,Rajajinagar,Mid,Secondary,Student
+P02029,Rahul Pai,32,M,Hubballi,Low,None,IT worker
+P02030,Mahesh Desai,58,M,Yelahanka,Low,None,Unemployed
+P02031,Vinay Shetty,63,F,Rajajinagar,Low,Graduate,Clerk
+P02032,Shilpa Joshi,68,M,Electronic City,Low,Postgraduate,Vendor
+P02033,Sandeep Murthy,29,M,Whitefield,Low,Primary,Student
+P02034,Shilpa Das,62,M,KR Puram,Lower-mid,Diploma,Unknown
+P02035,Naveen Das,46,M,Whitefield,Mid,Postgraduate,Vendor
+P02036,Manjunath Kulkarni,22,F,BLR South,Mid,None,Clerk
+P02037,Suresh Bhat,44,M,Mangaluru,High,None,Unemployed
+P02038,Nandini Hegde,57,M,Yelahanka,Mid,Secondary,Daily wage
+P02039,Reshma Khan,57,M,BLR South,Upper-mid,Secondary,Driver
+P02040,Mohan Sharma,67,F,Jayanagar,Upper-mid,Postgraduate,Unemployed
+P02041,Karthik Rao,16,M,Belagavi,Low,Graduate,Shop owner
+P02042,Reshma Murthy,17,M,Electronic City,Low,Postgraduate,Driver
+P02043,Shilpa Gowda,41,M,BLR South,Low,Diploma,IT worker
+P02044,Prakash Rao,16,M,BLR South,Mid,Secondary,Clerk
+P02045,Karthik Hegde,67,M,Hubballi,Low,Primary,Vendor
+P02046,Rajesh Kumar,57,M,Mangaluru,Upper-mid,Diploma,Shop owner
+P02047,Sahana Patil,61,F,BLR South,Low,None,Unknown
+P02048,Nandini Sharma,68,M,BTM,Lower-mid,Secondary,Shop owner
+P02049,Ramesh Nayak,36,M,KR Puram,Lower-mid,Graduate,Mechanic
+P02050,Nandini Sharma,38,M,BTM,Upper-mid,Diploma,Shop owner
+P02051,Prakash Naidu,43,M,Whitefield,Upper-mid,Secondary,Student
+P02052,Meena Sharma,64,M,Hubballi,Low,None,Student
+P02053,Yusuf Desai,25,M,Mysuru,Mid,Postgraduate,Driver
+P02054,Sandeep Nayak,68,F,Belagavi,Lower-mid,Diploma,Daily wage
+P02055,Yusuf Gupta,18,M,Mangaluru,Low,Graduate,Driver
+P02056,Arun Achar,61,F,Electronic City,Low,Postgraduate,Student
+P02057,Jyothi Iyer,49,M,Yelahanka,Low,Secondary,Mechanic
+P02058,Anita Patil,56,M,BTM,Upper-mid,Primary,Unemployed
+P02059,Yusuf Shetty,47,M,Jayanagar,Mid,Secondary,Vendor
+P02060,Asha Bhat,68,M,Hubballi,Low,Primary,Unemployed
+P02061,Ravi Kumar,34,M,BTM,Upper-mid,Postgraduate,Daily wage
+P02062,Manjunath Murthy,44,F,Yelahanka,High,Postgraduate,Mechanic
+P02063,Suresh Setty,54,M,Yelahanka,Lower-mid,Secondary,Mechanic
+P02064,Roopa Joshi,46,M,Mangaluru,Low,Diploma,Unemployed
+P02065,Sahana Pai,38,M,Belagavi,Lower-mid,Diploma,Shop owner
+P02066,Anita Khan,60,M,KR Puram,High,Postgraduate,IT worker
+P02067,Ravi Iyer,18,F,Jayanagar,Lower-mid,Graduate,Daily wage
+P02068,Faisal Patil,62,F,Hubballi,Upper-mid,Diploma,Mechanic
+P02069,Pooja Patil,54,F,BLR South,Lower-mid,Graduate,IT worker
+P02070,Shilpa Kulkarni,42,M,Hubballi,Low,Postgraduate,Unemployed
+P02071,Yusuf Sharma,20,M,Electronic City,Low,Graduate,Mechanic
+P02072,Ramesh Desai,62,M,Mangaluru,Low,Graduate,IT worker
+P02073,Priya Sharma,34,F,BLR South,Low,Secondary,Mechanic
+P02074,Kiran Achar,25,F,Jayanagar,Low,Diploma,Vendor
+P02075,Suresh Iyer,65,M,Hubballi,Upper-mid,Diploma,Unemployed
+P02076,Divya Rao,30,M,Hubballi,Mid,Diploma,Vendor
+P02077,Rajesh Setty,23,M,BTM,Low,Graduate,Unknown
+P02078,Ravi Sharma,47,M,Belagavi,Lower-mid,Postgraduate,Shop owner
+P02079,Nandini Desai,50,M,Electronic City,Low,Diploma,Shop owner
+P02080,Sneha Gowda,20,M,Hubballi,Lower-mid,Diploma,Shop owner
+P02081,Geetha Nayak,23,M,Jayanagar,Lower-mid,Postgraduate,Vendor
+P02082,Rajesh Achar,50,M,Whitefield,Lower-mid,Postgraduate,Driver
+P02083,Kavya Khan,23,M,Rajajinagar,Low,Secondary,Driver
+P02084,Asha Kumar,39,M,BLR South,Low,Postgraduate,Clerk
+P02085,Kavya Prasad,16,M,BTM,Lower-mid,Primary,IT worker
+P02086,Shilpa Hegde,58,M,Electronic City,Low,Primary,Mechanic
+P02087,Jyothi Desai,56,M,Jayanagar,Low,Primary,Shop owner
+P02088,Vijay Gowda,46,M,Jayanagar,Lower-mid,Primary,Mechanic
+P02089,Nandini Patil,68,M,BLR South,Mid,None,Student
+P02090,Asha Kumar,28,M,KR Puram,Lower-mid,Graduate,Vendor
+P02091,Lakshmi Das,55,F,Mysuru,Upper-mid,Postgraduate,Driver
+P02092,Geetha Kulkarni,49,M,Jayanagar,Lower-mid,None,Mechanic
+P02093,Manjunath Gupta,21,M,BTM,Mid,None,Student
+P02094,Reshma Iyer,33,M,KR Puram,Lower-mid,Graduate,Unknown
+P02095,Ganesh Bhat,70,F,Mysuru,Lower-mid,Postgraduate,Unknown
+P02096,Jyothi Achar,54,M,Mangaluru,Low,Secondary,Daily wage
+P02097,Sahana Pai,50,M,Hubballi,Low,Postgraduate,Clerk
+P02098,Reshma Bhat,54,M,KR Puram,Upper-mid,Secondary,Vendor
+P02099,Sandeep Hegde,38,F,Rajajinagar,Upper-mid,Graduate,Mechanic
+P02100,Reshma Murthy,54,M,Hubballi,Low,Graduate,Driver
+P02101,Santosh Hegde,59,M,Belagavi,Lower-mid,Secondary,Vendor
+P02102,Meena Joshi,49,M,Belagavi,Mid,Secondary,Vendor
+P02103,Shilpa Kulkarni,66,M,KR Puram,Low,Postgraduate,IT worker
+P02104,Nandini Patil,41,M,Whitefield,High,Diploma,Shop owner
+P02105,Pooja Nayak,32,M,Whitefield,Low,Diploma,Shop owner
+P02106,Asha Kumar,20,M,Whitefield,Upper-mid,Diploma,Shop owner
+P02107,Kavya Murthy,48,M,Rajajinagar,Low,Diploma,IT worker
+P02108,Mahesh Shetty,46,M,KR Puram,Low,Primary,Daily wage
+P02109,Nandini Reddy,18,F,Whitefield,Low,Graduate,Clerk
+P02110,Lakshmi Shetty,63,M,Rajajinagar,Low,Postgraduate,Unknown
+P02111,Deepa Kumar,23,M,Mangaluru,Mid,Secondary,Mechanic
+P02112,Geetha Patil,30,M,Mangaluru,Mid,Graduate,Student
+P02113,Geetha Nayak,17,M,KR Puram,Mid,Primary,Mechanic
+P02114,Shilpa Gupta,55,M,BTM,Low,Postgraduate,Unknown
+P02115,Reshma Das,23,M,Yelahanka,Low,Diploma,Unknown
+P02116,Naveen Rao,30,M,BLR South,Low,Secondary,Mechanic
+P02117,Kavya Kulkarni,70,M,Rajajinagar,Low,None,Mechanic
+P02118,Rajesh Sharma,25,M,Yelahanka,Upper-mid,Diploma,Unemployed
+P02119,Ramesh Murthy,29,F,Electronic City,Lower-mid,Graduate,Student
+P02120,Ganesh Kumar,47,M,Yelahanka,Upper-mid,Graduate,Vendor
+P02121,Nandini Nayak,61,M,Belagavi,Mid,Primary,Mechanic
+P02122,Shilpa Hegde,36,M,Whitefield,Low,Secondary,Vendor
+P02123,Vinay Kulkarni,46,F,Hubballi,High,Primary,Daily wage
+P02124,Rajesh Setty,67,M,Mangaluru,Lower-mid,Diploma,Unemployed
+P02125,Sahana Khan,62,M,Yelahanka,Low,Secondary,Student
+P02126,Arun Murthy,39,F,Whitefield,Lower-mid,Primary,Vendor
+P02127,Kavya Desai,49,M,Rajajinagar,Upper-mid,Diploma,Student
+P02128,Deepa Patil,21,M,BTM,Low,Postgraduate,Shop owner
+P02129,Deepa Murthy,21,M,Whitefield,Lower-mid,Secondary,Driver
+P02130,Sneha Murthy,27,M,Whitefield,Low,None,Vendor
+P02131,Faisal Kulkarni,19,M,Belagavi,Low,Graduate,IT worker
+P02132,Sneha Rao,31,M,Rajajinagar,Mid,None,Daily wage
+P02133,Anita Murthy,68,F,Mysuru,Low,Diploma,Shop owner
+P02134,Nandini Raju,27,M,BTM,Low,None,Student
+P02135,Naveen Murthy,48,F,Mysuru,Lower-mid,None,Mechanic
+P02136,Lakshmi Rao,19,M,BTM,Low,Graduate,Student
+P02137,Sandeep Murthy,45,M,BTM,Mid,Postgraduate,Vendor
+P02138,Naveen Desai,54,M,Jayanagar,High,Primary,Unemployed
+P02139,Santosh Sharma,49,F,Hubballi,Mid,Graduate,Shop owner
+P02140,Asha Prasad,45,F,Mysuru,Lower-mid,Graduate,Unknown
+P02141,Asha Murthy,49,F,BTM,Lower-mid,Diploma,Driver
+P02142,Imran Hegde,20,M,KR Puram,Upper-mid,None,Unknown
+P02143,Prakash Iyer,40,M,BLR South,Lower-mid,Primary,Unemployed
+P02144,Shilpa Khan,65,M,BTM,Lower-mid,Graduate,Driver
+P02145,Divya Iyer,31,M,Rajajinagar,Upper-mid,Secondary,IT worker
+P02146,Asha Sharma,61,M,Rajajinagar,Lower-mid,Diploma,Unemployed
+P02147,Geetha Nayak,56,F,Whitefield,Lower-mid,Secondary,IT worker
+P02148,Vinay Desai,43,M,Whitefield,Lower-mid,Graduate,Shop owner
+P02149,Karthik Reddy,70,M,KR Puram,Lower-mid,Secondary,Shop owner
+P02150,Naveen Kumar,22,M,Belagavi,Lower-mid,None,Unemployed
+P02151,Yusuf Hegde,56,M,BLR South,Lower-mid,Secondary,Unknown
+P02152,Meena Naidu,55,M,KR Puram,Low,Graduate,Unknown
+P02153,Kiran Sharma,64,M,Mysuru,Low,Graduate,Unknown
+P02154,Yusuf Gowda,25,F,Yelahanka,Lower-mid,Postgraduate,IT worker
+P02155,Reshma Nayak,25,M,Rajajinagar,Low,Diploma,Clerk
+P02156,Asha Patil,18,M,BLR South,High,Primary,Mechanic
+P02157,Sandeep Hegde,42,F,BTM,Lower-mid,Graduate,Clerk
+P02158,Shilpa Kumar,20,M,BLR South,Low,Diploma,Daily wage
+P02159,Arun Sharma,26,F,Electronic City,Low,Postgraduate,IT worker
+P02160,Pooja Kulkarni,62,F,Electronic City,High,Secondary,Unknown
+P02161,Jyothi Gupta,68,M,Hubballi,Mid,Graduate,Driver
+P02162,Kavya Prasad,59,M,Mangaluru,Mid,Primary,Vendor
+P02163,Ravi Khan,46,M,Mysuru,Lower-mid,Postgraduate,Mechanic
+P02164,Deepa Joshi,35,F,Whitefield,Low,Primary,Shop owner
+P02165,Arun Patil,31,M,BTM,Upper-mid,Postgraduate,Shop owner
+P02166,Yusuf Naidu,42,M,Yelahanka,Lower-mid,Secondary,Daily wage
+P02167,Geetha Rao,55,M,Hubballi,Low,Secondary,Unemployed
+P02168,Sneha Iyer,68,M,Yelahanka,Lower-mid,None,Student
+P02169,Nandini Shetty,35,M,Electronic City,Upper-mid,Diploma,Unknown
+P02170,Shilpa Iyer,43,F,Whitefield,Low,Primary,Student
+P02171,Naveen Kulkarni,36,M,Jayanagar,Low,None,Unemployed
+P02172,Vijay Gupta,43,M,Jayanagar,High,Postgraduate,Driver
+P02173,Deepa Kumar,46,M,BTM,Low,Secondary,Student
+P02174,Sandeep Gowda,18,M,Whitefield,Lower-mid,None,Unknown
+P02175,Faisal Reddy,55,M,Rajajinagar,Mid,Diploma,IT worker
+P02176,Anita Murthy,53,M,Mysuru,Low,Graduate,Clerk
+P02177,Lakshmi Gowda,45,M,Whitefield,Low,Postgraduate,Shop owner
+P02178,Anita Das,54,M,Whitefield,Low,Secondary,Driver
+P02179,Karthik Sharma,38,F,Whitefield,Low,Postgraduate,Mechanic
+P02180,Prakash Patil,66,F,Whitefield,Mid,Primary,Vendor
+P02181,Meena Nayak,61,M,Jayanagar,Low,None,Driver
+P02182,Anita Sharma,24,M,Jayanagar,Low,Secondary,Student
+P02183,Kavya Patil,61,M,Yelahanka,Low,Postgraduate,Shop owner
+P02184,Kavya Bhat,61,M,Electronic City,Mid,Secondary,Driver
+P02185,Asha Hegde,38,M,BLR South,Upper-mid,Secondary,Mechanic
+P02186,Priya Das,45,M,Yelahanka,Mid,Secondary,IT worker
+P02187,Lakshmi Pai,63,F,Yelahanka,Mid,Graduate,Driver
+P02188,Suresh Rao,32,M,Electronic City,Upper-mid,Secondary,Driver
+P02189,Imran Nayak,31,M,Electronic City,High,Primary,Driver
+P02190,Prakash Reddy,65,M,KR Puram,Mid,Graduate,Student
+P02191,Pooja Kumar,22,M,Mysuru,Low,Primary,Student
+P02192,Yusuf Murthy,49,M,Mysuru,High,Graduate,Unknown
+P02193,Rahul Khan,65,F,BLR South,Lower-mid,Postgraduate,Unknown
+P02194,Jyothi Bhat,50,F,Electronic City,Low,Secondary,Unemployed
+P02195,Prakash Joshi,56,F,Jayanagar,Lower-mid,Diploma,IT worker
+P02196,Mahesh Joshi,30,F,Mangaluru,Low,Secondary,Clerk
+P02197,Imran Patil,58,F,Whitefield,Lower-mid,None,Shop owner
+P02198,Arun Reddy,30,F,Electronic City,Low,None,Mechanic
+P02199,Deepa Gowda,67,F,Mysuru,Upper-mid,Graduate,Mechanic
+P02200,Ravi Prasad,62,F,Hubballi,Mid,Graduate,Unemployed
+P02201,Sahana Joshi,29,M,Mysuru,Low,None,Vendor
+P02202,Vinay Gupta,62,M,Mysuru,Mid,None,Mechanic
+P02203,Faisal Pai,57,M,Electronic City,Low,Primary,Clerk
+P02204,Naveen Achar,34,M,Yelahanka,Low,Diploma,Vendor
+P02205,Naveen Naidu,22,M,Whitefield,Lower-mid,Graduate,Shop owner
+P02206,Manjunath Gowda,25,F,BLR South,High,None,Clerk
+P02207,Priya Shetty,64,M,Jayanagar,Lower-mid,Graduate,IT worker
+P02208,Yusuf Shetty,46,M,Whitefield,Mid,Secondary,Daily wage
+P02209,Harish Rao,40,F,Mysuru,High,Postgraduate,Unemployed
+P02210,Roopa Gowda,20,M,KR Puram,Low,Postgraduate,Shop owner
+P02211,Rahul Das,64,M,BLR South,Lower-mid,Diploma,Mechanic
+P02212,Anita Prasad,65,F,Rajajinagar,Low,Graduate,IT worker
+P02213,Kavya Raju,60,M,Belagavi,Low,Postgraduate,IT worker
+P02214,Jyothi Sharma,40,M,KR Puram,Low,None,Unemployed
+P02215,Rajesh Hegde,16,M,BLR South,High,Secondary,Student
+P02216,Prakash Raju,69,M,KR Puram,Upper-mid,None,Driver
+P02217,Anita Kulkarni,49,M,Jayanagar,Mid,Diploma,IT worker
+P02218,Jyothi Gupta,62,M,Jayanagar,Mid,None,Student
+P02219,Geetha Bhat,50,F,Whitefield,Low,None,Unemployed
+P02220,Divya Achar,24,M,Yelahanka,High,Secondary,Student
+P02221,Prakash Gowda,49,M,Electronic City,Lower-mid,Secondary,Mechanic
+P02222,Ravi Kumar,34,M,Belagavi,Low,Primary,Shop owner
+P02223,Mahesh Kulkarni,70,M,Jayanagar,Low,Secondary,Student
+P02224,Ganesh Shetty,27,M,Mangaluru,Upper-mid,Primary,Unemployed
+P02225,Reshma Bhat,69,M,Mysuru,Upper-mid,None,Shop owner
+P02226,Sandeep Setty,50,M,Mysuru,Mid,None,Mechanic
+P02227,Imran Bhat,42,M,KR Puram,Low,None,Driver
+P02228,Manjunath Shetty,53,M,Electronic City,Low,Secondary,Mechanic
+P02229,Ramesh Shetty,32,M,Mysuru,Upper-mid,Primary,Daily wage
+P02230,Pooja Rao,27,M,Mangaluru,Mid,None,Unemployed
+P02231,Karthik Hegde,62,M,BTM,Mid,Postgraduate,Shop owner
+P02232,Geetha Khan,16,M,Whitefield,Lower-mid,Postgraduate,Vendor
+P02233,Sahana Gupta,31,M,Rajajinagar,Mid,Diploma,Vendor
+P02234,Bhavani Bhat,38,M,Mangaluru,Lower-mid,Graduate,Clerk
+P02235,Reshma Patil,55,F,Jayanagar,Mid,Secondary,Unknown
+P02236,Sahana Kumar,23,M,Rajajinagar,Mid,Postgraduate,Driver
+P02237,Sandeep Rao,68,M,Jayanagar,High,Primary,Driver
+P02238,Imran Patil,31,M,Belagavi,Low,Diploma,Driver
+P02239,Shilpa Murthy,23,M,Hubballi,Low,None,Unemployed
+P02240,Prakash Shetty,37,M,BTM,Low,Postgraduate,Daily wage
+P02241,Nandini Pai,42,M,Mysuru,Mid,Diploma,Vendor
+P02242,Vijay Hegde,40,M,Hubballi,Upper-mid,Postgraduate,Vendor
+P02243,Sahana Das,33,M,Whitefield,Low,Diploma,Driver
+P02244,Deepa Reddy,63,M,Whitefield,Low,None,Clerk
+P02245,Vijay Bhat,33,M,BLR South,Lower-mid,Graduate,Daily wage
+P02246,Kavya Sharma,38,M,Rajajinagar,Lower-mid,Postgraduate,Clerk
+P02247,Karthik Iyer,33,M,Rajajinagar,Lower-mid,Primary,Unemployed
+P02248,Geetha Desai,47,M,Mysuru,Lower-mid,Primary,Daily wage
+P02249,Reshma Raju,39,M,Belagavi,Low,Postgraduate,Shop owner
+P02250,Divya Raju,41,M,Mangaluru,High,None,Vendor
+P02251,Santosh Murthy,67,M,Hubballi,High,Graduate,Unknown
+P02252,Bhavani Rao,56,M,Mysuru,Low,None,Student
+P02253,Jyothi Khan,52,M,Electronic City,Low,None,Clerk
+P02254,Sneha Murthy,60,F,Mangaluru,Low,Diploma,Unknown
+P02255,Sandeep Joshi,38,M,Electronic City,Mid,Primary,Student
+P02256,Imran Pai,38,M,Rajajinagar,Lower-mid,Diploma,Vendor
+P02257,Sneha Gupta,17,M,Jayanagar,Lower-mid,Primary,Vendor
+P02258,Prakash Reddy,29,M,Mysuru,High,None,Daily wage
+P02259,Jyothi Sharma,61,M,Belagavi,Low,Secondary,Daily wage
+P02260,Imran Murthy,16,F,Yelahanka,Low,Secondary,Unknown
+P02261,Rajesh Hegde,21,M,Rajajinagar,Mid,None,Clerk
+P02262,Mahesh Gupta,63,M,Rajajinagar,Low,Postgraduate,Clerk
+P02263,Ramesh Rao,58,M,Belagavi,Low,Diploma,Vendor
+P02264,Prakash Pai,22,M,Mangaluru,Low,Graduate,Clerk
+P02265,Suresh Khan,60,M,KR Puram,Mid,Graduate,Driver
+P02266,Ravi Raju,22,F,Mangaluru,Low,Secondary,Vendor
+P02267,Priya Rao,30,M,Belagavi,Low,Primary,Vendor
+P02268,Lakshmi Bhat,45,M,Electronic City,Low,Primary,Unemployed
+P02269,Kiran Raju,62,M,Hubballi,Mid,Secondary,Mechanic
+P02270,Vijay Setty,20,F,BTM,Lower-mid,None,Driver
+P02271,Nandini Reddy,50,M,Yelahanka,Low,Primary,Vendor
+P02272,Manjunath Nayak,42,M,Rajajinagar,Mid,Primary,Clerk
+P02273,Bhavani Setty,51,F,Mysuru,High,Graduate,Unknown
+P02274,Pooja Sharma,26,F,Mangaluru,Lower-mid,Graduate,Vendor
+P02275,Rajesh Khan,27,M,Electronic City,Low,Secondary,Unknown
+P02276,Shilpa Raju,67,M,BLR South,Low,Secondary,Mechanic
+P02277,Ramesh Sharma,21,F,Jayanagar,Mid,Primary,Unemployed
+P02278,Arun Raju,60,M,Jayanagar,Lower-mid,Diploma,Unknown
+P02279,Lakshmi Reddy,49,M,Rajajinagar,Mid,Primary,Unemployed
+P02280,Yusuf Kulkarni,50,F,Rajajinagar,Lower-mid,None,Student
+P02281,Bhavani Gupta,21,M,KR Puram,Lower-mid,Primary,Unemployed
+P02282,Sneha Das,70,F,BTM,Upper-mid,Primary,Daily wage
+P02283,Bhavani Nayak,55,M,Yelahanka,Mid,Graduate,Daily wage
+P02284,Ganesh Sharma,26,M,KR Puram,Low,None,Unemployed
+P02285,Ravi Raju,17,M,BTM,Mid,Postgraduate,Unknown
+P02286,Faisal Gowda,60,M,Jayanagar,Lower-mid,Graduate,Student
+P02287,Deepa Desai,63,F,BLR South,Mid,Secondary,Student
+P02288,Vinay Achar,23,F,Mysuru,Mid,Secondary,Clerk
+P02289,Naveen Gowda,50,F,Mangaluru,Mid,Graduate,IT worker
+P02290,Santosh Das,49,F,Jayanagar,Low,Secondary,Shop owner
+P02291,Roopa Reddy,36,M,BLR South,Lower-mid,Diploma,Unemployed
+P02292,Imran Kulkarni,19,M,Whitefield,Upper-mid,Diploma,Student
+P02293,Pooja Gowda,39,M,Whitefield,Lower-mid,Diploma,Mechanic
+P02294,Sandeep Shetty,31,M,Whitefield,Lower-mid,Secondary,Student
+P02295,Deepa Naidu,35,F,Mangaluru,Lower-mid,None,Shop owner
+P02296,Imran Desai,46,M,Rajajinagar,Low,Graduate,Unknown
+P02297,Jyothi Sharma,55,M,BLR South,Mid,Postgraduate,Shop owner
+P02298,Priya Nayak,20,M,BLR South,Upper-mid,Diploma,Clerk
+P02299,Bhavani Shetty,51,F,Belagavi,Low,Postgraduate,Clerk
+P02300,Priya Gupta,46,M,Rajajinagar,Lower-mid,Diploma,Vendor
+P02301,Bhavani Desai,20,M,Rajajinagar,Low,None,Driver
+P02302,Asha Kulkarni,59,M,BTM,Lower-mid,Postgraduate,Clerk
+P02303,Prakash Bhat,26,M,Yelahanka,Mid,Primary,Student
+P02304,Bhavani Khan,29,M,Whitefield,Low,None,Mechanic
+P02305,Santosh Desai,40,M,KR Puram,Mid,None,Driver
+P02306,Asha Patil,62,M,KR Puram,Lower-mid,Primary,Clerk
+P02307,Rahul Raju,17,M,Electronic City,Lower-mid,Diploma,Clerk
+P02308,Santosh Prasad,52,F,Mysuru,Lower-mid,None,Vendor
+P02309,Anita Naidu,31,M,Mysuru,Lower-mid,Secondary,Student
+P02310,Lakshmi Sharma,55,F,BLR South,Mid,Secondary,Unemployed
+P02311,Santosh Achar,56,M,Whitefield,Low,Primary,Vendor
+P02312,Harish Hegde,69,M,Mangaluru,Lower-mid,Postgraduate,Daily wage
+P02313,Asha Raju,30,F,Jayanagar,Low,Postgraduate,Unknown
+P02314,Meena Prasad,45,M,Jayanagar,Lower-mid,Graduate,Vendor
+P02315,Geetha Joshi,21,M,Rajajinagar,Lower-mid,Primary,Mechanic
+P02316,Ganesh Patil,18,F,BLR South,Mid,None,Unknown
+P02317,Yusuf Das,64,F,Yelahanka,Low,Graduate,Mechanic
+P02318,Jyothi Raju,49,F,BLR South,Upper-mid,Primary,Unemployed
+P02319,Ravi Joshi,22,M,Yelahanka,Low,Primary,Unknown
+P02320,Bhavani Kumar,31,M,KR Puram,Lower-mid,Postgraduate,IT worker
+P02321,Mohan Raju,34,F,Mangaluru,Low,Postgraduate,Mechanic
+P02322,Suresh Kulkarni,59,M,KR Puram,Mid,Secondary,Driver
+P02323,Deepa Gowda,35,M,Jayanagar,Upper-mid,Postgraduate,Unknown
+P02324,Santosh Shetty,50,M,Rajajinagar,Lower-mid,Diploma,Student
+P02325,Ravi Joshi,24,M,Yelahanka,Low,Postgraduate,Driver
+P02326,Shilpa Kulkarni,54,M,Jayanagar,Low,Secondary,Student
+P02327,Pooja Khan,20,M,BLR South,Mid,Postgraduate,Clerk
+P02328,Lakshmi Prasad,50,M,Belagavi,Low,Secondary,Unemployed
+P02329,Pooja Patil,47,F,Yelahanka,Lower-mid,Postgraduate,Unemployed
+P02330,Bhavani Setty,22,M,BTM,Lower-mid,None,Unemployed
+P02331,Rahul Reddy,49,F,KR Puram,Lower-mid,Graduate,Daily wage
+P02332,Ravi Iyer,25,M,Jayanagar,Lower-mid,Postgraduate,Vendor
+P02333,Anita Rao,65,M,KR Puram,Lower-mid,Diploma,Shop owner
+P02334,Jyothi Rao,43,M,Electronic City,Mid,Diploma,Mechanic
+P02335,Jyothi Desai,25,M,Mysuru,Upper-mid,Secondary,Unemployed
+P02336,Kiran Patil,35,F,BLR South,Mid,Diploma,Vendor
+P02337,Pooja Bhat,31,M,Hubballi,Upper-mid,Postgraduate,Shop owner
+P02338,Lakshmi Khan,18,M,Hubballi,Lower-mid,Postgraduate,Daily wage
+P02339,Deepa Shetty,58,M,Belagavi,Mid,Graduate,Unemployed
+P02340,Yusuf Naidu,52,M,Jayanagar,Upper-mid,Secondary,Unknown
+P02341,Priya Kumar,61,F,Whitefield,Mid,Primary,Mechanic
+P02342,Mahesh Setty,52,M,Hubballi,Lower-mid,Graduate,Unknown
+P02343,Vinay Achar,34,F,Hubballi,Mid,Graduate,IT worker
+P02344,Faisal Prasad,34,M,KR Puram,Lower-mid,Postgraduate,Unknown
+P02345,Geetha Nayak,37,M,Whitefield,Low,Graduate,Clerk
+P02346,Sandeep Kulkarni,66,F,Rajajinagar,High,Primary,Daily wage
+P02347,Priya Patil,34,F,Yelahanka,Lower-mid,Graduate,Unemployed
+P02348,Prakash Kulkarni,60,M,Mysuru,Lower-mid,Diploma,Daily wage
+P02349,Meena Khan,17,M,BTM,Mid,Secondary,Shop owner
+P02350,Arun Prasad,54,M,Hubballi,Mid,Secondary,Vendor
+P02351,Bhavani Nayak,58,F,BLR South,Upper-mid,Secondary,Unemployed
+P02352,Harish Khan,58,M,BTM,Upper-mid,Graduate,Unknown
+P02353,Sneha Pai,17,M,BTM,Lower-mid,Secondary,Shop owner
+P02354,Vijay Khan,58,M,Mysuru,Lower-mid,Diploma,Student
+P02355,Prakash Desai,20,F,Rajajinagar,Low,Diploma,Mechanic
+P02356,Anita Achar,69,M,BTM,Mid,Graduate,Student
+P02357,Sandeep Pai,64,M,Rajajinagar,Mid,Diploma,Shop owner
+P02358,Vijay Patil,53,F,Whitefield,Upper-mid,Secondary,Unemployed
+P02359,Ravi Rao,46,M,BLR South,Low,Graduate,Mechanic
+P02360,Mahesh Iyer,40,M,BLR South,Low,Diploma,Shop owner
+P02361,Rahul Gowda,21,M,Mangaluru,Lower-mid,None,Unemployed
+P02362,Manjunath Iyer,49,M,Hubballi,Low,Secondary,Unknown
+P02363,Manjunath Raju,36,M,Yelahanka,Mid,Postgraduate,Shop owner
+P02364,Rahul Joshi,44,M,Hubballi,Low,Postgraduate,Student
+P02365,Arun Desai,33,M,Electronic City,Lower-mid,Graduate,Clerk
+P02366,Asha Rao,19,M,Electronic City,Upper-mid,Postgraduate,Mechanic
+P02367,Prakash Achar,24,M,KR Puram,Low,None,IT worker
+P02368,Karthik Iyer,19,F,Mangaluru,Mid,Graduate,Daily wage
+P02369,Mohan Kumar,41,F,Hubballi,Lower-mid,None,Vendor
+P02370,Rahul Hegde,45,M,BTM,High,Secondary,Student
+P02371,Naveen Hegde,38,F,Yelahanka,Low,Graduate,Daily wage
+P02372,Meena Kumar,29,F,BTM,Mid,None,Unknown
+P02373,Naveen Kumar,40,M,Yelahanka,Low,Graduate,Student
+P02374,Lakshmi Sharma,47,M,KR Puram,Lower-mid,Primary,Vendor
+P02375,Rajesh Gowda,58,M,Whitefield,Low,None,Driver
+P02376,Kavya Pai,19,M,Yelahanka,Low,None,Daily wage
+P02377,Sneha Murthy,34,F,Rajajinagar,Lower-mid,Postgraduate,Clerk
+P02378,Anita Iyer,46,M,BTM,Upper-mid,Postgraduate,IT worker
+P02379,Yusuf Rao,27,M,BTM,Mid,Diploma,Unknown
+P02380,Ramesh Rao,22,M,Whitefield,Lower-mid,Diploma,Driver
+P02381,Sandeep Gupta,37,M,Electronic City,Mid,Postgraduate,Unknown
+P02382,Rajesh Patil,64,M,Rajajinagar,Upper-mid,Graduate,Vendor
+P02383,Kiran Prasad,27,M,KR Puram,Lower-mid,Secondary,Vendor
+P02384,Sandeep Sharma,63,M,Belagavi,Mid,Postgraduate,Mechanic
+P02385,Asha Achar,23,M,Belagavi,Low,Diploma,Vendor
+P02386,Asha Prasad,65,F,BLR South,Lower-mid,None,Mechanic
+P02387,Ramesh Nayak,21,M,BTM,Low,Postgraduate,Student
+P02388,Ganesh Achar,26,M,Yelahanka,Mid,Postgraduate,Student
+P02389,Suresh Pai,50,F,Jayanagar,Mid,Diploma,Unknown
+P02390,Vijay Raju,20,M,BTM,Low,Graduate,Driver
+P02391,Ganesh Joshi,41,F,Mangaluru,High,Graduate,Unknown
+P02392,Ramesh Achar,33,M,Mangaluru,Mid,Secondary,Shop owner
+P02393,Ravi Rao,24,F,BLR South,Upper-mid,None,Unknown
+P02394,Arun Achar,69,M,Belagavi,Mid,Postgraduate,Clerk
+P02395,Yusuf Bhat,57,M,Mangaluru,Lower-mid,Postgraduate,Unknown
+P02396,Yusuf Gupta,56,M,Jayanagar,Low,Diploma,Shop owner
+P02397,Yusuf Sharma,67,M,BLR South,Mid,Diploma,Daily wage
+P02398,Harish Rao,31,F,Yelahanka,Lower-mid,Diploma,Vendor
+P02399,Ramesh Achar,27,M,Mangaluru,Lower-mid,Diploma,Daily wage
+P02400,Roopa Gowda,62,M,Electronic City,Lower-mid,Graduate,IT worker
+P02401,Vinay Gupta,25,F,Mangaluru,Upper-mid,Graduate,IT worker
+P02402,Vijay Nayak,36,M,Rajajinagar,Lower-mid,Postgraduate,Unemployed
+P02403,Ramesh Pai,59,M,Yelahanka,Mid,Postgraduate,Vendor
+P02404,Nandini Reddy,60,M,BLR South,Mid,Secondary,Mechanic
+P02405,Vinay Raju,55,M,Electronic City,Lower-mid,None,Daily wage
+P02406,Naveen Murthy,50,M,Belagavi,Lower-mid,Secondary,Clerk
+P02407,Mohan Rao,49,M,Mangaluru,Lower-mid,Primary,Student
+P02408,Roopa Bhat,27,M,Hubballi,High,Postgraduate,Shop owner
+P02409,Sandeep Murthy,66,M,Rajajinagar,Upper-mid,Primary,Shop owner
+P02410,Sandeep Shetty,37,M,Whitefield,Low,Postgraduate,Student
+P02411,Priya Gupta,64,M,Electronic City,Low,Secondary,Mechanic
+P02412,Naveen Joshi,26,M,Mangaluru,Low,Postgraduate,Vendor
+P02413,Pooja Prasad,54,F,KR Puram,Low,Graduate,Daily wage
+P02414,Jyothi Setty,41,M,BLR South,High,Diploma,Shop owner
+P02415,Mohan Iyer,70,M,BLR South,Mid,Diploma,Clerk
+P02416,Mohan Patil,16,M,Hubballi,Mid,Postgraduate,Shop owner
+P02417,Sandeep Gowda,69,M,Electronic City,Mid,Primary,Unemployed
+P02418,Rahul Prasad,69,M,Mangaluru,Low,None,Daily wage
+P02419,Nandini Hegde,41,M,KR Puram,Low,None,Student
+P02420,Ganesh Hegde,22,M,BTM,Lower-mid,Primary,Mechanic
+P02421,Karthik Raju,70,F,Jayanagar,Low,Diploma,IT worker
+P02422,Ganesh Reddy,17,F,Whitefield,High,Primary,Daily wage
+P02423,Santosh Gowda,18,M,BTM,Lower-mid,Graduate,Shop owner
+P02424,Kiran Setty,53,M,Mysuru,Low,Postgraduate,Driver
+P02425,Karthik Kumar,33,M,Rajajinagar,Upper-mid,Graduate,Shop owner
+P02426,Harish Iyer,26,F,KR Puram,Lower-mid,Diploma,Mechanic
+P02427,Deepa Pai,65,M,Yelahanka,Mid,Diploma,Shop owner
+P02428,Rajesh Murthy,35,F,BTM,Lower-mid,Secondary,Shop owner
+P02429,Pooja Raju,58,M,Hubballi,Lower-mid,Graduate,Mechanic
+P02430,Nandini Pai,66,M,Mangaluru,Low,Graduate,Driver
+P02431,Divya Kulkarni,23,F,Belagavi,Lower-mid,Secondary,Unemployed
+P02432,Lakshmi Kumar,18,M,Whitefield,Lower-mid,Primary,Unknown
+P02433,Arun Gowda,31,M,Jayanagar,Mid,Secondary,Daily wage
+P02434,Shilpa Kumar,36,M,BLR South,Lower-mid,Postgraduate,Mechanic
+P02435,Jyothi Raju,27,M,Whitefield,Lower-mid,Graduate,Shop owner
+P02436,Roopa Iyer,40,M,Belagavi,Lower-mid,Diploma,Vendor
+P02437,Sneha Sharma,56,F,Belagavi,High,Postgraduate,Mechanic
+P02438,Vijay Raju,16,M,Mysuru,High,Postgraduate,Driver
+P02439,Nandini Bhat,29,F,Jayanagar,Lower-mid,Primary,Shop owner
+P02440,Anita Raju,24,M,Jayanagar,Low,Graduate,Driver
+P02441,Suresh Desai,35,M,BLR South,Lower-mid,None,Daily wage
+P02442,Bhavani Patil,42,M,BTM,Low,Graduate,IT worker
+P02443,Harish Kumar,50,M,Electronic City,Lower-mid,Postgraduate,Daily wage
+P02444,Meena Rao,66,M,KR Puram,Lower-mid,Secondary,Clerk
+P02445,Nandini Gupta,56,M,BTM,Lower-mid,Graduate,Unemployed
+P02446,Ganesh Nayak,55,M,Hubballi,Mid,Diploma,Shop owner
+P02447,Geetha Raju,22,M,Mysuru,Upper-mid,Postgraduate,IT worker
+P02448,Kiran Desai,46,M,Electronic City,Mid,Primary,IT worker
+P02449,Shilpa Joshi,57,M,BTM,High,None,Student
+P02450,Priya Rao,25,M,Mangaluru,Upper-mid,Primary,Mechanic
+P02451,Naveen Shetty,62,M,KR Puram,Mid,Graduate,Daily wage
+P02452,Divya Patil,51,M,Rajajinagar,Upper-mid,Secondary,Student
+P02453,Geetha Joshi,70,F,Rajajinagar,Lower-mid,Secondary,Clerk
+P02454,Prakash Shetty,47,M,Electronic City,Mid,Diploma,Vendor
+P02455,Naveen Iyer,34,M,BLR South,Lower-mid,Secondary,Clerk
+P02456,Sandeep Das,55,M,Jayanagar,Low,Diploma,Unknown
+P02457,Kavya Sharma,16,M,BTM,Lower-mid,Primary,Unemployed
+P02458,Pooja Patil,58,F,Electronic City,Mid,Diploma,Daily wage
+P02459,Shilpa Das,61,F,KR Puram,Low,Graduate,Shop owner
+P02460,Geetha Nayak,25,M,Hubballi,Mid,None,Driver
+P02461,Nandini Iyer,62,F,BLR South,Lower-mid,Primary,Unemployed
+P02462,Imran Murthy,64,M,Mangaluru,Upper-mid,Postgraduate,IT worker
+P02463,Bhavani Prasad,48,F,Electronic City,Lower-mid,Primary,Student
+P02464,Yusuf Naidu,27,M,Mysuru,Lower-mid,None,Unemployed
+P02465,Rahul Kumar,33,F,Rajajinagar,Upper-mid,Postgraduate,Daily wage
+P02466,Sandeep Joshi,36,M,Jayanagar,Lower-mid,Primary,Vendor
+P02467,Sandeep Gowda,17,M,Hubballi,Lower-mid,Postgraduate,Unknown
+P02468,Harish Achar,17,M,Rajajinagar,Lower-mid,Postgraduate,Shop owner
+P02469,Rahul Reddy,55,F,BLR South,Lower-mid,Diploma,Daily wage
+P02470,Shilpa Achar,53,M,Mangaluru,High,Primary,Mechanic
+P02471,Deepa Desai,25,M,Jayanagar,Low,None,IT worker
+P02472,Prakash Sharma,64,M,BLR South,Low,Postgraduate,Daily wage
+P02473,Kiran Shetty,40,M,BTM,Upper-mid,None,Daily wage
+P02474,Roopa Raju,18,M,Belagavi,Lower-mid,Postgraduate,Shop owner
+P02475,Rajesh Patil,28,F,Belagavi,Mid,None,Clerk
+P02476,Sandeep Hegde,43,M,Rajajinagar,Lower-mid,Postgraduate,Driver
+P02477,Meena Desai,58,F,Mysuru,Low,Secondary,Driver
+P02478,Anita Gowda,34,M,Mysuru,Mid,Postgraduate,Shop owner
+P02479,Lakshmi Pai,16,M,KR Puram,High,Primary,Unknown
+P02480,Santosh Iyer,24,M,Mangaluru,Low,Secondary,Student
+P02481,Vinay Gowda,67,M,Hubballi,Low,Primary,Unknown
+P02482,Mahesh Naidu,24,M,Mangaluru,Lower-mid,None,Daily wage
+P02483,Arun Sharma,23,M,Rajajinagar,Lower-mid,Secondary,Shop owner
+P02484,Ganesh Gupta,39,M,BTM,Low,None,Clerk
+P02485,Manjunath Raju,65,M,BTM,High,None,Mechanic
+P02486,Kiran Naidu,55,M,Rajajinagar,Lower-mid,Secondary,Unemployed
+P02487,Naveen Kulkarni,55,M,Belagavi,Mid,None,Mechanic
+P02488,Sneha Joshi,17,M,BTM,Low,Secondary,Shop owner
+P02489,Anita Pai,36,M,BTM,Upper-mid,Postgraduate,Unemployed
+P02490,Arun Setty,61,F,BLR South,Low,None,Unemployed
+P02491,Roopa Naidu,41,F,Mangaluru,Upper-mid,Postgraduate,IT worker
+P02492,Nandini Khan,66,M,Jayanagar,Lower-mid,Graduate,Student
+P02493,Nandini Bhat,43,F,Rajajinagar,Low,None,Driver
+P02494,Mohan Sharma,43,M,BLR South,Lower-mid,None,Shop owner
+P02495,Kiran Reddy,29,M,Belagavi,Mid,Graduate,Vendor
+P02496,Anita Sharma,41,M,Jayanagar,Lower-mid,Diploma,Shop owner
+P02497,Imran Gupta,16,M,Belagavi,Mid,Diploma,Daily wage
+P02498,Vijay Joshi,17,F,Jayanagar,High,Postgraduate,Unemployed
+P02499,Meena Gowda,28,M,Yelahanka,Lower-mid,Primary,Unemployed
+P02500,Meena Setty,30,M,BLR South,Upper-mid,Secondary,Student
+P02501,Bhavani Murthy,47,M,Yelahanka,Low,Postgraduate,Vendor
+P02502,Ravi Kumar,52,M,KR Puram,Lower-mid,Graduate,Student
+P02503,Rajesh Khan,61,M,Whitefield,Lower-mid,Primary,Daily wage
+P02504,Jyothi Kumar,37,M,Hubballi,Upper-mid,Primary,Unknown
+P02505,Asha Rao,68,F,Electronic City,Upper-mid,Diploma,Mechanic
+P02506,Sneha Nayak,21,M,Jayanagar,Lower-mid,Primary,IT worker
+P02507,Ravi Reddy,19,F,Yelahanka,Lower-mid,None,Clerk
+P02508,Pooja Desai,53,M,Jayanagar,Mid,None,IT worker
+P02509,Kavya Das,58,M,Whitefield,Low,Postgraduate,Clerk
+P02510,Kavya Patil,50,M,Mysuru,Low,Postgraduate,Unknown
+P02511,Reshma Joshi,16,M,Hubballi,High,None,Student
+P02512,Priya Reddy,32,M,Mysuru,Low,Graduate,Clerk
+P02513,Mahesh Das,41,F,Mysuru,High,Postgraduate,Vendor
+P02514,Manjunath Hegde,45,M,Hubballi,Low,Diploma,Mechanic
+P02515,Mahesh Gupta,63,M,Yelahanka,Upper-mid,None,Driver
+P02516,Shilpa Das,34,F,Electronic City,Lower-mid,Secondary,Vendor
+P02517,Arun Rao,64,M,BTM,Low,Postgraduate,Shop owner
+P02518,Kavya Kulkarni,34,M,Jayanagar,High,Diploma,Unemployed
+P02519,Manjunath Setty,68,F,BTM,Upper-mid,Postgraduate,Driver
+P02520,Ravi Hegde,45,M,Electronic City,Upper-mid,Graduate,Driver
+P02521,Anita Gowda,42,M,BTM,Mid,Postgraduate,Unemployed
+P02522,Mohan Shetty,70,F,Mysuru,High,None,Vendor
+P02523,Nandini Achar,60,M,Mangaluru,Lower-mid,Graduate,Unknown
+P02524,Rajesh Nayak,23,M,Electronic City,High,Postgraduate,Shop owner
+P02525,Yusuf Desai,53,F,Hubballi,Lower-mid,None,Shop owner
+P02526,Asha Murthy,35,M,BTM,Mid,Diploma,Student
+P02527,Bhavani Prasad,63,F,Mangaluru,High,Graduate,Student
+P02528,Rajesh Kumar,50,M,BLR South,Low,None,Mechanic
+P02529,Karthik Pai,46,M,BTM,Upper-mid,Diploma,Unknown
+P02530,Faisal Bhat,54,M,Hubballi,Mid,Primary,Shop owner
+P02531,Sahana Achar,68,M,BTM,Mid,Diploma,Shop owner
+P02532,Yusuf Nayak,45,M,Yelahanka,Lower-mid,Postgraduate,IT worker
+P02533,Deepa Murthy,18,M,Rajajinagar,Mid,Secondary,Daily wage
+P02534,Kavya Khan,23,M,BLR South,Lower-mid,Graduate,Vendor
+P02535,Priya Das,34,M,Belagavi,Lower-mid,Primary,Student
+P02536,Vinay Naidu,22,M,Electronic City,Mid,Postgraduate,Mechanic
+P02537,Priya Bhat,56,M,Mangaluru,Upper-mid,Postgraduate,Clerk
+P02538,Roopa Iyer,40,M,Belagavi,Low,Graduate,Mechanic
+P02539,Ravi Murthy,44,M,BTM,Low,None,Driver
+P02540,Jyothi Pai,22,M,BTM,High,Secondary,Unknown
+P02541,Geetha Desai,42,M,Mysuru,Low,Graduate,Unknown
+P02542,Arun Murthy,50,M,Belagavi,Lower-mid,Graduate,Unemployed
+P02543,Sneha Nayak,32,M,BTM,High,Graduate,IT worker
+P02544,Mahesh Joshi,20,M,Mangaluru,Upper-mid,None,Clerk
+P02545,Manjunath Hegde,69,M,Belagavi,Low,Postgraduate,Unknown
+P02546,Naveen Hegde,61,M,Rajajinagar,Low,Postgraduate,Mechanic
+P02547,Suresh Pai,27,F,BLR South,Upper-mid,Secondary,Shop owner
+P02548,Yusuf Shetty,41,M,Belagavi,Low,Primary,Student
+P02549,Reshma Bhat,47,M,Jayanagar,Mid,Diploma,Student
+P02550,Imran Hegde,60,M,BLR South,Mid,Diploma,Mechanic
+P02551,Manjunath Das,64,M,Belagavi,Low,Graduate,Driver
+P02552,Mohan Kulkarni,50,M,Mysuru,Mid,Graduate,Shop owner
+P02553,Suresh Iyer,45,F,BTM,Low,None,IT worker
+P02554,Reshma Khan,49,F,Jayanagar,Mid,Secondary,Unknown
+P02555,Priya Iyer,56,M,Whitefield,Lower-mid,Graduate,Shop owner
+P02556,Roopa Patil,60,F,Yelahanka,Mid,Graduate,IT worker
+P02557,Divya Prasad,40,M,Belagavi,Upper-mid,None,Student
+P02558,Pooja Joshi,32,F,Hubballi,Low,None,Unknown
+P02559,Lakshmi Raju,54,M,BLR South,Upper-mid,Diploma,Student
+P02560,Geetha Setty,40,F,BLR South,Lower-mid,None,IT worker
+P02561,Faisal Khan,59,M,Rajajinagar,Upper-mid,Graduate,Shop owner
+P02562,Asha Hegde,42,M,Yelahanka,High,Postgraduate,Driver
+P02563,Anita Prasad,53,M,KR Puram,Mid,Diploma,IT worker
+P02564,Suresh Reddy,17,M,Hubballi,Lower-mid,Primary,Clerk
+P02565,Bhavani Joshi,32,M,Whitefield,Upper-mid,Diploma,Clerk
+P02566,Jyothi Kulkarni,43,M,Yelahanka,Low,Diploma,Clerk
+P02567,Naveen Kumar,68,F,Whitefield,Lower-mid,Secondary,IT worker
+P02568,Rajesh Pai,50,F,Mangaluru,Lower-mid,Secondary,Student
+P02569,Arun Hegde,66,M,Mangaluru,Low,Primary,Vendor
+P02570,Nandini Murthy,67,M,Yelahanka,Mid,Postgraduate,Driver
+P02571,Prakash Pai,60,M,Jayanagar,Lower-mid,Secondary,Unknown
+P02572,Mahesh Naidu,30,F,BLR South,Mid,Postgraduate,Mechanic
+P02573,Naveen Rao,23,M,Whitefield,Low,Diploma,Mechanic
+P02574,Karthik Setty,58,M,Yelahanka,Low,Secondary,Unknown
+P02575,Manjunath Iyer,17,M,BTM,Low,None,Daily wage
+P02576,Nandini Prasad,68,F,Mysuru,Mid,Postgraduate,Mechanic
+P02577,Deepa Kumar,64,F,Mysuru,Low,Diploma,Unknown
+P02578,Bhavani Iyer,46,M,Mysuru,Low,None,Driver
+P02579,Sandeep Kulkarni,38,M,BLR South,High,Secondary,IT worker
+P02580,Lakshmi Setty,42,F,BTM,Mid,Diploma,Daily wage
+P02581,Vijay Raju,23,F,BLR South,Low,Secondary,Vendor
+P02582,Karthik Pai,30,M,Belagavi,Mid,Diploma,Shop owner
+P02583,Deepa Sharma,51,M,Hubballi,Low,Secondary,Shop owner
+P02584,Priya Bhat,24,M,Mysuru,Mid,Primary,Shop owner
+P02585,Ganesh Murthy,39,F,Whitefield,Low,Postgraduate,Mechanic
+P02586,Mohan Bhat,57,M,Hubballi,Lower-mid,Postgraduate,Driver
+P02587,Rahul Gowda,23,M,Rajajinagar,Low,Postgraduate,IT worker
+P02588,Santosh Gupta,55,M,Belagavi,High,Postgraduate,Unknown
+P02589,Faisal Sharma,44,F,Yelahanka,Mid,Primary,Clerk
+P02590,Naveen Das,26,M,Mysuru,Lower-mid,Postgraduate,Driver
+P02591,Manjunath Das,38,M,Hubballi,Lower-mid,None,Unknown
+P02592,Vinay Patil,68,M,KR Puram,Mid,Primary,Unemployed
+P02593,Vinay Kulkarni,66,F,KR Puram,Mid,Graduate,Driver
+P02594,Reshma Kulkarni,30,M,Rajajinagar,Upper-mid,None,Unemployed
+P02595,Anita Prasad,20,M,Yelahanka,Lower-mid,Graduate,Clerk
+P02596,Yusuf Gowda,69,M,BTM,Low,Secondary,Student
+P02597,Mohan Murthy,43,M,Mysuru,Low,Graduate,Student
+P02598,Manjunath Das,54,M,Electronic City,Mid,Graduate,Daily wage
+P02599,Suresh Desai,59,M,Belagavi,Mid,Primary,Unknown
+P02600,Kiran Nayak,50,M,Mysuru,Lower-mid,Secondary,Shop owner
+P02601,Vinay Kulkarni,52,M,Mangaluru,Lower-mid,Primary,Unknown
+P02602,Deepa Bhat,36,M,Belagavi,Low,Diploma,Daily wage
+P02603,Reshma Sharma,59,M,Yelahanka,Low,None,Unknown
+P02604,Ramesh Raju,40,M,BTM,Low,Primary,Shop owner
+P02605,Arun Joshi,44,M,Rajajinagar,Low,None,Driver
+P02606,Kiran Desai,58,M,BLR South,Lower-mid,Primary,Unknown
+P02607,Shilpa Rao,49,F,BLR South,Mid,Graduate,Vendor
+P02608,Naveen Nayak,23,M,Jayanagar,Low,Primary,Driver
+P02609,Suresh Kumar,20,M,Yelahanka,Lower-mid,Diploma,Daily wage
+P02610,Imran Kumar,48,F,Mangaluru,Mid,Graduate,IT worker
+P02611,Vinay Shetty,16,M,Whitefield,Low,Diploma,Daily wage
+P02612,Santosh Reddy,62,M,Mysuru,Low,Secondary,Vendor
+P02613,Faisal Joshi,48,M,Electronic City,Low,Graduate,Driver
+P02614,Rahul Pai,35,M,Mangaluru,Lower-mid,Postgraduate,Daily wage
+P02615,Imran Kumar,28,M,BLR South,Lower-mid,Diploma,Driver
+P02616,Suresh Naidu,68,F,KR Puram,High,Graduate,Mechanic
+P02617,Rajesh Gowda,37,M,Belagavi,Low,Diploma,Mechanic
+P02618,Sneha Murthy,21,M,Hubballi,Lower-mid,Secondary,Clerk
+P02619,Faisal Setty,21,M,Rajajinagar,High,None,IT worker
+P02620,Ramesh Pai,22,M,Mangaluru,Low,Graduate,IT worker
+P02621,Imran Prasad,55,M,Mysuru,Mid,Diploma,Mechanic
+P02622,Jyothi Hegde,34,M,Yelahanka,Lower-mid,Graduate,Unknown
+P02623,Roopa Iyer,26,M,Electronic City,Mid,Graduate,Vendor
+P02624,Ramesh Khan,51,M,Hubballi,Lower-mid,Diploma,Shop owner
+P02625,Sahana Kulkarni,20,M,KR Puram,Upper-mid,Diploma,Driver
+P02626,Nandini Sharma,70,M,Electronic City,Upper-mid,None,Unknown
+P02627,Geetha Nayak,17,F,BTM,Lower-mid,Postgraduate,Student
+P02628,Meena Desai,49,M,BTM,Lower-mid,Secondary,Daily wage
+P02629,Jyothi Kumar,64,F,Mangaluru,Lower-mid,Primary,Daily wage
+P02630,Meena Naidu,37,M,Jayanagar,Lower-mid,Diploma,Clerk
+P02631,Faisal Achar,63,M,Whitefield,Lower-mid,Primary,Daily wage
+P02632,Anita Gupta,59,F,Hubballi,Lower-mid,Secondary,Daily wage
+P02633,Mahesh Setty,53,M,BTM,Lower-mid,Primary,Driver
+P02634,Vijay Kulkarni,46,M,Mangaluru,Low,None,Clerk
+P02635,Nandini Murthy,24,M,Mysuru,Lower-mid,Secondary,Student
+P02636,Sahana Reddy,36,M,Mysuru,Low,Graduate,Driver
+P02637,Lakshmi Naidu,47,F,Belagavi,Lower-mid,Postgraduate,Unemployed
+P02638,Manjunath Desai,41,M,Belagavi,Upper-mid,Diploma,Clerk
+P02639,Deepa Sharma,26,M,BTM,Low,Diploma,Driver
+P02640,Yusuf Rao,51,M,Belagavi,Upper-mid,Secondary,Unemployed
+P02641,Deepa Gowda,47,M,Mysuru,Low,Postgraduate,Clerk
+P02642,Rajesh Patil,21,M,Yelahanka,Low,Graduate,Student
+P02643,Suresh Das,20,M,KR Puram,High,Postgraduate,Unemployed
+P02644,Faisal Shetty,52,M,BLR South,Mid,Diploma,Daily wage
+P02645,Faisal Pai,27,M,Belagavi,Upper-mid,Postgraduate,Student
+P02646,Arun Sharma,19,F,BTM,Low,None,IT worker
+P02647,Manjunath Khan,53,M,BLR South,Low,Diploma,Clerk
+P02648,Faisal Prasad,52,F,Mysuru,Mid,Postgraduate,Clerk
+P02649,Arun Desai,25,F,Mysuru,Lower-mid,Graduate,Shop owner
+P02650,Sandeep Hegde,70,M,BTM,Mid,Secondary,IT worker
+P02651,Kiran Khan,69,M,Mangaluru,Mid,Graduate,Driver
+P02652,Karthik Hegde,67,M,Mysuru,Low,Postgraduate,Daily wage
+P02653,Imran Murthy,37,M,KR Puram,Mid,Postgraduate,Unknown
+P02654,Asha Patil,59,M,Electronic City,Upper-mid,Primary,Student
+P02655,Rajesh Murthy,49,M,Rajajinagar,Lower-mid,Primary,Mechanic
+P02656,Bhavani Reddy,41,F,Mysuru,Lower-mid,Postgraduate,Mechanic
+P02657,Rajesh Hegde,53,M,Belagavi,High,Secondary,Shop owner
+P02658,Yusuf Hegde,51,M,BTM,Lower-mid,Primary,Mechanic
+P02659,Divya Iyer,24,M,KR Puram,Lower-mid,Diploma,IT worker
+P02660,Reshma Setty,19,M,Electronic City,Mid,Secondary,Daily wage
+P02661,Nandini Iyer,26,M,BTM,Mid,None,Unknown
+P02662,Imran Gupta,37,F,KR Puram,Low,Diploma,Clerk
+P02663,Ravi Achar,54,M,Rajajinagar,Low,None,Daily wage
+P02664,Meena Prasad,40,M,Hubballi,Low,Secondary,Clerk
+P02665,Rajesh Achar,40,M,Belagavi,Low,Postgraduate,Unemployed
+P02666,Asha Setty,55,M,Rajajinagar,Lower-mid,Secondary,Daily wage
+P02667,Priya Kumar,21,M,BTM,Lower-mid,Secondary,Unknown
+P02668,Harish Reddy,16,M,Yelahanka,Mid,Postgraduate,Unemployed
+P02669,Faisal Pai,23,M,Belagavi,High,Secondary,Unknown
+P02670,Mohan Sharma,56,F,KR Puram,Low,Secondary,Unemployed
+P02671,Sahana Shetty,64,M,Rajajinagar,Upper-mid,Diploma,Unknown
+P02672,Jyothi Reddy,38,M,Mangaluru,Mid,Postgraduate,Unemployed
+P02673,Arun Achar,64,F,BLR South,Low,Diploma,Clerk
+P02674,Roopa Hegde,35,M,BLR South,Low,Graduate,Daily wage
+P02675,Suresh Murthy,38,M,BLR South,Upper-mid,Diploma,Unemployed
+P02676,Yusuf Kulkarni,60,F,Whitefield,Low,Graduate,Clerk
+P02677,Roopa Shetty,30,F,KR Puram,Upper-mid,Graduate,Driver
+P02678,Ramesh Naidu,38,M,Rajajinagar,Upper-mid,Postgraduate,Unknown
+P02679,Pooja Nayak,18,M,Jayanagar,Low,Diploma,IT worker
+P02680,Sandeep Joshi,16,M,Yelahanka,Lower-mid,Graduate,Unemployed
+P02681,Manjunath Gupta,40,M,Electronic City,Low,Postgraduate,Vendor
+P02682,Karthik Prasad,33,M,BTM,Mid,Primary,Vendor
+P02683,Sandeep Bhat,35,M,KR Puram,Upper-mid,None,Unemployed
+P02684,Asha Das,45,M,BTM,Lower-mid,None,Vendor
+P02685,Naveen Desai,38,F,Jayanagar,Lower-mid,Diploma,Student
+P02686,Mohan Nayak,41,M,Jayanagar,Lower-mid,Secondary,Driver
+P02687,Kavya Reddy,56,M,Mangaluru,Mid,Primary,Vendor
+P02688,Arun Bhat,37,F,Jayanagar,Low,None,Unknown
+P02689,Imran Desai,42,F,BLR South,Lower-mid,None,Shop owner
+P02690,Jyothi Khan,48,M,BLR South,Low,None,Daily wage
+P02691,Vinay Iyer,44,M,BTM,Mid,None,Clerk
+P02692,Pooja Sharma,37,M,Mangaluru,Lower-mid,Graduate,IT worker
+P02693,Ganesh Joshi,27,M,Mangaluru,Mid,Diploma,Clerk
+P02694,Naveen Iyer,18,M,Rajajinagar,Lower-mid,Primary,Unemployed
+P02695,Vijay Sharma,39,M,BTM,Low,Diploma,IT worker
+P02696,Ravi Setty,54,M,Electronic City,Low,Secondary,Driver
+P02697,Arun Setty,64,M,BTM,Low,Postgraduate,Driver
+P02698,Anita Desai,66,M,Hubballi,Low,Secondary,Shop owner
+P02699,Kiran Prasad,52,F,Belagavi,Low,Secondary,Unknown
+P02700,Anita Khan,22,M,Mysuru,Lower-mid,Graduate,Student
+P02701,Pooja Gupta,51,M,Mangaluru,Upper-mid,Graduate,IT worker
+P02702,Karthik Rao,61,M,Yelahanka,Lower-mid,None,Unemployed
+P02703,Pooja Patil,46,M,Belagavi,Mid,Primary,Daily wage
+P02704,Jyothi Iyer,54,F,Mysuru,Upper-mid,Diploma,Driver
+P02705,Yusuf Murthy,37,F,Whitefield,Upper-mid,Postgraduate,Daily wage
+P02706,Yusuf Nayak,26,M,Electronic City,Low,None,Driver
+P02707,Jyothi Hegde,55,M,BTM,Mid,Primary,Driver
+P02708,Vijay Reddy,32,M,Whitefield,Lower-mid,Secondary,Vendor
+P02709,Lakshmi Raju,49,M,Jayanagar,Lower-mid,Secondary,Unknown
+P02710,Mahesh Setty,28,M,Hubballi,Low,Postgraduate,Unemployed
+P02711,Lakshmi Reddy,56,M,BLR South,Low,Postgraduate,Driver
+P02712,Arun Nayak,24,M,Electronic City,Lower-mid,Primary,Daily wage
+P02713,Geetha Naidu,61,M,BTM,Lower-mid,Diploma,Student
+P02714,Deepa Khan,32,M,BLR South,Mid,None,Student
+P02715,Mahesh Patil,69,M,Electronic City,Lower-mid,Graduate,Daily wage
+P02716,Roopa Gupta,30,M,Jayanagar,Mid,Postgraduate,Driver
+P02717,Mahesh Gowda,42,M,Hubballi,High,None,IT worker
+P02718,Divya Iyer,54,M,BTM,Mid,Graduate,Vendor
+P02719,Kiran Kumar,32,M,Belagavi,Lower-mid,Secondary,Daily wage
+P02720,Roopa Iyer,41,M,Mangaluru,Low,Primary,Daily wage
+P02721,Prakash Das,16,M,KR Puram,Lower-mid,Secondary,Mechanic
+P02722,Asha Sharma,64,F,BLR South,Lower-mid,Postgraduate,Mechanic
+P02723,Vijay Gowda,52,M,Yelahanka,Lower-mid,None,Clerk
+P02724,Kavya Bhat,65,M,Whitefield,Lower-mid,None,IT worker
+P02725,Sneha Iyer,28,M,Mangaluru,Mid,Postgraduate,Vendor
+P02726,Sandeep Khan,38,M,Hubballi,Mid,Primary,IT worker
+P02727,Rahul Nayak,70,M,BTM,Lower-mid,None,Daily wage
+P02728,Santosh Nayak,32,M,Yelahanka,Mid,Postgraduate,Student
+P02729,Jyothi Setty,36,M,BTM,Low,Graduate,Shop owner
+P02730,Imran Gupta,63,M,Mangaluru,High,Graduate,Daily wage
+P02731,Roopa Khan,25,M,Belagavi,Lower-mid,Postgraduate,Daily wage
+P02732,Mahesh Joshi,59,M,Rajajinagar,Low,Secondary,Vendor
+P02733,Lakshmi Raju,34,F,BTM,Upper-mid,Postgraduate,Unemployed
+P02734,Nandini Gupta,31,M,Whitefield,High,None,Vendor
+P02735,Manjunath Gowda,61,F,Hubballi,Lower-mid,Diploma,Unemployed
+P02736,Nandini Raju,33,M,Electronic City,Mid,Diploma,Unknown
+P02737,Reshma Das,37,F,Yelahanka,Mid,Postgraduate,Clerk
+P02738,Pooja Hegde,39,F,Yelahanka,Lower-mid,Diploma,Clerk
+P02739,Asha Iyer,62,M,Mysuru,Lower-mid,None,Mechanic
+P02740,Shilpa Murthy,24,M,KR Puram,Low,None,Shop owner
+P02741,Suresh Joshi,37,F,Mangaluru,Upper-mid,Secondary,Shop owner
+P02742,Faisal Pai,27,M,Mangaluru,Low,Secondary,Unknown
+P02743,Vinay Iyer,35,F,BTM,Low,Primary,Unemployed
+P02744,Meena Murthy,24,M,Belagavi,Mid,None,Clerk
+P02745,Priya Iyer,23,F,Whitefield,Low,Postgraduate,Clerk
+P02746,Ramesh Joshi,28,M,BTM,High,None,Clerk
+P02747,Ganesh Bhat,29,M,BLR South,Lower-mid,Diploma,Vendor
+P02748,Meena Patil,22,F,Hubballi,Upper-mid,None,Shop owner
+P02749,Kiran Das,49,F,BTM,Low,None,Daily wage
+P02750,Nandini Raju,51,M,Mysuru,Low,Primary,Vendor
+P02751,Nandini Achar,33,M,BTM,Lower-mid,Graduate,IT worker
+P02752,Mohan Murthy,70,M,Hubballi,Lower-mid,None,IT worker
+P02753,Rahul Desai,26,F,Hubballi,Low,Graduate,Mechanic
+P02754,Pooja Raju,68,M,Electronic City,Lower-mid,Primary,Unknown
+P02755,Sneha Iyer,59,M,Rajajinagar,Low,None,Daily wage
+P02756,Reshma Reddy,57,F,Hubballi,Mid,Primary,IT worker
+P02757,Ramesh Gowda,17,F,KR Puram,Lower-mid,Graduate,Unemployed
+P02758,Imran Kumar,25,M,Hubballi,Low,Primary,Daily wage
+P02759,Divya Rao,36,M,Rajajinagar,Low,None,Unknown
+P02760,Divya Patil,52,M,Jayanagar,Mid,Primary,Mechanic
+P02761,Bhavani Desai,60,M,BTM,Upper-mid,Primary,Daily wage
+P02762,Rahul Iyer,55,M,Belagavi,Low,Diploma,Driver
+P02763,Ravi Kulkarni,57,M,Belagavi,Mid,Diploma,Vendor
+P02764,Harish Nayak,62,M,Mangaluru,Lower-mid,Postgraduate,Vendor
+P02765,Geetha Nayak,26,M,Belagavi,Mid,Diploma,Vendor
+P02766,Roopa Hegde,49,M,BTM,Low,Secondary,IT worker
+P02767,Arun Naidu,30,M,Yelahanka,Lower-mid,Graduate,Student
+P02768,Imran Das,41,M,BLR South,Lower-mid,Diploma,Unemployed
+P02769,Yusuf Rao,40,M,Jayanagar,Mid,Primary,Vendor
+P02770,Vinay Reddy,22,M,Jayanagar,Low,None,Student
+P02771,Jyothi Patil,51,M,Hubballi,High,Postgraduate,Daily wage
+P02772,Sahana Achar,66,F,Yelahanka,Upper-mid,Secondary,Shop owner
+P02773,Mohan Iyer,46,M,Electronic City,Mid,Primary,Driver
+P02774,Shilpa Hegde,60,F,BTM,High,Postgraduate,Shop owner
+P02775,Ravi Desai,22,M,Whitefield,Low,Primary,Student
+P02776,Jyothi Achar,70,M,BTM,Mid,Postgraduate,Driver
+P02777,Priya Raju,38,M,Yelahanka,Low,Graduate,Student
+P02778,Shilpa Naidu,57,M,Yelahanka,Low,Postgraduate,IT worker
+P02779,Geetha Gowda,70,M,Mysuru,Low,Diploma,IT worker
+P02780,Reshma Shetty,68,M,Electronic City,Mid,Primary,Shop owner
+P02781,Divya Shetty,57,M,BTM,Low,Postgraduate,Daily wage
+P02782,Arun Iyer,27,M,BLR South,Lower-mid,Secondary,Mechanic
+P02783,Arun Joshi,69,M,Hubballi,Lower-mid,None,Student
+P02784,Reshma Das,18,M,Whitefield,Lower-mid,Primary,Daily wage
+P02785,Nandini Gowda,43,F,Whitefield,Low,Graduate,Student
+P02786,Pooja Khan,33,M,Hubballi,Low,Postgraduate,Mechanic
+P02787,Kavya Hegde,53,M,Mysuru,Lower-mid,Primary,Unemployed
+P02788,Karthik Kumar,67,M,Whitefield,Low,Primary,Unemployed
+P02789,Manjunath Kulkarni,57,M,BTM,Mid,None,Driver
+P02790,Divya Gowda,28,M,Belagavi,Lower-mid,Graduate,Mechanic
+P02791,Meena Gupta,52,M,Yelahanka,Low,Graduate,IT worker
+P02792,Shilpa Gowda,26,M,Electronic City,Low,Graduate,Driver
+P02793,Lakshmi Sharma,57,M,BLR South,Lower-mid,Secondary,Unknown
+P02794,Bhavani Gupta,55,M,Mysuru,Lower-mid,Primary,Vendor
+P02795,Sandeep Setty,60,M,Jayanagar,Mid,Postgraduate,Mechanic
+P02796,Pooja Bhat,28,M,Mysuru,Mid,Graduate,Student
+P02797,Priya Patil,23,M,BTM,Low,None,Student
+P02798,Ravi Naidu,47,F,Whitefield,High,Graduate,IT worker
+P02799,Santosh Das,16,M,BLR South,Low,Graduate,IT worker
+P02800,Asha Bhat,35,M,Yelahanka,Lower-mid,Secondary,Unknown
+P02801,Rajesh Joshi,44,F,Jayanagar,Lower-mid,Primary,Mechanic
+P02802,Harish Khan,60,F,Whitefield,Upper-mid,None,Unemployed
+P02803,Prakash Patil,38,M,Rajajinagar,Lower-mid,None,Unknown
+P02804,Vinay Murthy,52,M,BTM,High,Diploma,Daily wage
+P02805,Kiran Desai,52,M,BTM,Lower-mid,Diploma,Vendor
+P02806,Ganesh Hegde,19,M,Mangaluru,Lower-mid,None,Driver
+P02807,Nandini Naidu,23,M,BTM,Lower-mid,Postgraduate,Vendor
+P02808,Sneha Bhat,31,F,KR Puram,Mid,Graduate,Unknown
+P02809,Jyothi Joshi,64,M,Yelahanka,Lower-mid,Secondary,Mechanic
+P02810,Sneha Patil,35,F,Whitefield,Upper-mid,Secondary,Vendor
+P02811,Divya Setty,32,F,Whitefield,Mid,Diploma,Unknown
+P02812,Mahesh Joshi,31,M,Rajajinagar,Upper-mid,Secondary,Clerk
+P02813,Kavya Sharma,34,M,Whitefield,Upper-mid,Secondary,Unemployed
+P02814,Bhavani Achar,69,M,Mysuru,Low,Primary,Unemployed
+P02815,Kavya Pai,48,M,Mangaluru,Mid,Postgraduate,Vendor
+P02816,Sandeep Achar,68,M,Mysuru,Mid,Secondary,Daily wage
+P02817,Geetha Rao,22,F,Mangaluru,Lower-mid,None,Driver
+P02818,Kiran Das,64,M,KR Puram,Lower-mid,Graduate,Student
+P02819,Rahul Bhat,56,M,Yelahanka,Lower-mid,Diploma,Unknown
+P02820,Lakshmi Nayak,18,M,BLR South,Lower-mid,Graduate,Mechanic
+P02821,Divya Iyer,20,M,Mangaluru,Low,None,Unemployed
+P02822,Vijay Raju,38,M,Jayanagar,Low,Diploma,Student
+P02823,Asha Naidu,49,M,Yelahanka,Low,Graduate,Student
+P02824,Karthik Kumar,51,F,Jayanagar,Upper-mid,Graduate,Vendor
+P02825,Manjunath Murthy,61,M,Whitefield,Low,Postgraduate,Student
+P02826,Asha Iyer,30,M,Rajajinagar,High,Graduate,Student
+P02827,Deepa Hegde,34,F,Rajajinagar,Upper-mid,Primary,Driver
+P02828,Imran Patil,28,M,Whitefield,Low,Diploma,Vendor
+P02829,Anita Kumar,35,M,Electronic City,Mid,Diploma,Shop owner
+P02830,Asha Gupta,69,M,Mysuru,Mid,Postgraduate,Student
+P02831,Vijay Joshi,33,M,Mangaluru,High,Primary,Daily wage
+P02832,Sahana Sharma,34,M,Whitefield,Low,None,Clerk
+P02833,Shilpa Pai,19,M,Mysuru,Mid,Secondary,Unemployed
+P02834,Naveen Rao,68,M,Whitefield,Lower-mid,Secondary,Driver
+P02835,Rajesh Pai,62,F,BTM,Low,Primary,Shop owner
+P02836,Vijay Kulkarni,66,M,BTM,Low,Secondary,Mechanic
+P02837,Sandeep Shetty,29,M,BLR South,Low,Primary,Vendor
+P02838,Mohan Khan,45,M,Belagavi,Mid,Postgraduate,Mechanic
+P02839,Meena Naidu,68,M,Yelahanka,Low,Diploma,Unknown
+P02840,Roopa Naidu,64,F,Rajajinagar,Upper-mid,None,Driver
+P02841,Reshma Desai,39,M,Jayanagar,High,Primary,Vendor
+P02842,Kavya Gupta,65,M,Electronic City,Low,None,Vendor
+P02843,Reshma Setty,66,M,BTM,Lower-mid,Diploma,Daily wage
+P02844,Kavya Raju,67,F,BLR South,Low,Postgraduate,Driver
+P02845,Naveen Achar,67,M,BLR South,Upper-mid,None,IT worker
+P02846,Prakash Murthy,58,F,Electronic City,Mid,None,IT worker
+P02847,Sahana Pai,68,M,Jayanagar,Mid,Graduate,Driver
+P02848,Mohan Reddy,40,M,Mysuru,Low,Diploma,Driver
+P02849,Karthik Desai,25,M,Jayanagar,Low,Secondary,Unknown
+P02850,Imran Joshi,66,M,Yelahanka,Lower-mid,Graduate,Clerk
+P02851,Mohan Prasad,62,M,Rajajinagar,Lower-mid,Postgraduate,Vendor
+P02852,Rajesh Joshi,65,F,BTM,Low,None,Daily wage
+P02853,Deepa Shetty,49,M,Mysuru,Low,Postgraduate,Student
+P02854,Jyothi Khan,67,F,Mangaluru,Low,None,IT worker
+P02855,Deepa Das,34,M,Hubballi,High,Graduate,Driver
+P02856,Harish Shetty,53,F,Mangaluru,Low,Secondary,Driver
+P02857,Mahesh Pai,63,F,Jayanagar,Lower-mid,Primary,Driver
+P02858,Vijay Das,40,M,Rajajinagar,Low,Diploma,Driver
+P02859,Naveen Kumar,39,F,BTM,Low,Diploma,Driver
+P02860,Vinay Achar,36,M,Whitefield,Mid,Postgraduate,Mechanic
+P02861,Rahul Hegde,63,M,Belagavi,Lower-mid,Primary,Vendor
+P02862,Santosh Bhat,35,M,BLR South,Lower-mid,Graduate,IT worker
+P02863,Yusuf Kulkarni,53,F,BLR South,Low,None,Driver
+P02864,Suresh Naidu,55,M,Mysuru,Mid,None,Unknown
+P02865,Ganesh Hegde,66,M,Electronic City,Low,Postgraduate,Driver
+P02866,Asha Khan,56,M,BTM,High,Graduate,Student
+P02867,Prakash Patil,33,M,Electronic City,Lower-mid,Primary,Driver
+P02868,Harish Joshi,25,M,Jayanagar,Upper-mid,Secondary,Shop owner
+P02869,Faisal Nayak,67,M,BLR South,Mid,Graduate,Driver
+P02870,Vijay Joshi,34,M,KR Puram,Upper-mid,Diploma,Vendor
+P02871,Imran Nayak,53,M,Hubballi,Mid,Diploma,Vendor
+P02872,Sneha Patil,45,M,BTM,Mid,Primary,Unknown
+P02873,Santosh Achar,64,F,BLR South,Lower-mid,None,Student
+P02874,Mohan Kulkarni,48,M,Hubballi,Lower-mid,None,Vendor
+P02875,Shilpa Raju,22,M,Mysuru,Mid,None,Unemployed
+P02876,Reshma Joshi,50,F,Rajajinagar,Mid,Primary,Daily wage
+P02877,Faisal Rao,70,M,BTM,Mid,Secondary,Clerk
+P02878,Yusuf Achar,23,M,Mysuru,Low,Diploma,Shop owner
+P02879,Prakash Gupta,47,F,Whitefield,Upper-mid,None,Unknown
+P02880,Kiran Prasad,36,M,Mysuru,Low,Secondary,Clerk
+P02881,Lakshmi Achar,16,M,Yelahanka,Low,Graduate,IT worker
+P02882,Rajesh Desai,49,M,KR Puram,Lower-mid,Postgraduate,Mechanic
+P02883,Asha Bhat,41,M,Belagavi,Low,Diploma,Driver
+P02884,Shilpa Bhat,58,M,Mangaluru,Low,Diploma,Driver
+P02885,Priya Gowda,28,M,Whitefield,Mid,None,Clerk
+P02886,Naveen Kulkarni,32,M,Jayanagar,Low,Diploma,Shop owner
+P02887,Sandeep Setty,23,M,Mangaluru,Lower-mid,Diploma,Unknown
+P02888,Roopa Kulkarni,55,M,Belagavi,Lower-mid,Postgraduate,Driver
+P02889,Yusuf Setty,28,M,Mysuru,Low,Primary,Mechanic
+P02890,Sneha Khan,17,M,Belagavi,Low,None,Unemployed
+P02891,Suresh Naidu,28,M,Mysuru,Lower-mid,Graduate,Mechanic
+P02892,Rahul Shetty,16,M,BLR South,Lower-mid,Primary,Clerk
+P02893,Geetha Prasad,31,M,BLR South,High,Graduate,Driver
+P02894,Prakash Kulkarni,26,M,Mangaluru,Mid,None,Unemployed
+P02895,Rajesh Iyer,50,M,BTM,Upper-mid,Diploma,Vendor
+P02896,Arun Rao,70,M,Rajajinagar,Upper-mid,Graduate,Unknown
+P02897,Vinay Achar,66,F,Rajajinagar,Low,Diploma,Mechanic
+P02898,Faisal Prasad,37,M,Hubballi,High,Diploma,Driver
+P02899,Asha Sharma,22,M,Mysuru,Lower-mid,None,Unemployed
+P02900,Manjunath Hegde,25,M,BTM,Low,Primary,Unknown
+P02901,Vijay Shetty,59,M,Mysuru,Mid,Primary,Student
+P02902,Priya Sharma,63,M,Jayanagar,Lower-mid,Secondary,Unemployed
+P02903,Asha Das,47,M,Hubballi,Low,Postgraduate,Student
+P02904,Kavya Rao,16,M,Mysuru,Lower-mid,Postgraduate,Clerk
+P02905,Geetha Gowda,55,M,Mangaluru,Lower-mid,Diploma,Daily wage
+P02906,Meena Prasad,60,M,Mangaluru,Lower-mid,Graduate,Vendor
+P02907,Ramesh Setty,35,M,Electronic City,Low,Postgraduate,Unemployed
+P02908,Vijay Setty,41,M,Belagavi,High,Diploma,Shop owner
+P02909,Vinay Rao,55,F,Mangaluru,Upper-mid,Primary,Student
+P02910,Rajesh Hegde,35,M,Mangaluru,Lower-mid,Primary,Student
+P02911,Ganesh Patil,54,M,Yelahanka,Mid,None,IT worker
+P02912,Divya Nayak,53,F,BLR South,Lower-mid,Postgraduate,IT worker
+P02913,Vijay Kulkarni,42,M,Whitefield,Low,Diploma,Unknown
+P02914,Roopa Iyer,47,M,BLR South,Lower-mid,Graduate,IT worker
+P02915,Divya Achar,59,M,Mysuru,Lower-mid,Graduate,Unknown
+P02916,Santosh Iyer,33,M,Mysuru,Low,Graduate,Shop owner
+P02917,Divya Shetty,42,M,Whitefield,Upper-mid,Graduate,Student
+P02918,Shilpa Iyer,62,M,Mysuru,Low,Diploma,Clerk
+P02919,Kavya Gupta,17,M,KR Puram,Low,Graduate,Driver
+P02920,Yusuf Iyer,16,M,BTM,Low,None,Driver
+P02921,Asha Nayak,45,M,Yelahanka,Low,Graduate,Unemployed
+P02922,Ravi Gupta,27,M,Whitefield,Lower-mid,None,Vendor
+P02923,Suresh Gupta,50,M,Rajajinagar,Upper-mid,None,Student
+P02924,Karthik Bhat,58,F,Mysuru,Low,Graduate,IT worker
+P02925,Mohan Raju,22,M,Yelahanka,High,Primary,Unemployed
+P02926,Vijay Sharma,66,M,BLR South,Low,Primary,Unemployed
+P02927,Harish Raju,40,M,Yelahanka,Low,Graduate,Student
+P02928,Shilpa Kumar,38,M,Jayanagar,Lower-mid,Graduate,Vendor
+P02929,Rajesh Gupta,58,F,Whitefield,Lower-mid,Graduate,Unemployed
+P02930,Yusuf Das,62,F,Hubballi,Low,Diploma,Driver
+P02931,Prakash Desai,67,M,Jayanagar,Mid,Primary,Mechanic
+P02932,Nandini Setty,23,M,Whitefield,Upper-mid,Secondary,Clerk
+P02933,Lakshmi Kulkarni,54,F,Yelahanka,Lower-mid,Postgraduate,Student
+P02934,Sneha Gupta,41,F,KR Puram,Low,None,Mechanic
+P02935,Vijay Nayak,23,M,KR Puram,Mid,Diploma,IT worker
+P02936,Lakshmi Pai,43,M,BTM,High,Primary,Daily wage
+P02937,Mahesh Kumar,37,M,Hubballi,Mid,Secondary,IT worker
+P02938,Ravi Murthy,47,M,Yelahanka,Lower-mid,Secondary,Student
+P02939,Nandini Kulkarni,30,M,KR Puram,Low,Primary,Shop owner
+P02940,Arun Pai,16,M,Jayanagar,High,Secondary,Student
+P02941,Harish Hegde,22,M,Mangaluru,Low,Postgraduate,Vendor
+P02942,Asha Nayak,58,M,Jayanagar,High,None,IT worker
+P02943,Geetha Desai,25,M,Electronic City,Lower-mid,Diploma,Clerk
+P02944,Ramesh Desai,50,M,Mangaluru,Lower-mid,Secondary,Student
+P02945,Jyothi Pai,26,M,Hubballi,Lower-mid,Postgraduate,Student
+P02946,Lakshmi Setty,70,M,Yelahanka,Low,Graduate,Student
+P02947,Sahana Naidu,55,M,Jayanagar,Low,None,Shop owner
+P02948,Deepa Naidu,35,M,Whitefield,Lower-mid,Secondary,Clerk
+P02949,Karthik Patil,64,M,Rajajinagar,Lower-mid,Primary,Clerk
+P02950,Rajesh Prasad,62,M,Belagavi,Low,Diploma,Daily wage
+P02951,Harish Joshi,35,M,Mangaluru,Lower-mid,Secondary,Clerk
+P02952,Mahesh Hegde,18,M,Electronic City,Lower-mid,None,Vendor
+P02953,Rahul Shetty,49,M,Jayanagar,Upper-mid,None,Vendor
+P02954,Geetha Desai,49,F,BTM,Lower-mid,None,Shop owner
+P02955,Karthik Prasad,50,F,Mysuru,Low,Primary,IT worker
+P02956,Ramesh Das,28,M,Mysuru,Lower-mid,Secondary,Daily wage
+P02957,Ganesh Rao,23,M,Whitefield,Lower-mid,Postgraduate,Vendor
+P02958,Ganesh Raju,30,M,Mysuru,Low,Graduate,Unknown
+P02959,Anita Naidu,43,M,Rajajinagar,Low,Diploma,IT worker
+P02960,Faisal Raju,46,M,Yelahanka,High,Graduate,Mechanic
+P02961,Kavya Gowda,35,M,Yelahanka,Low,Graduate,Unknown
+P02962,Mohan Iyer,56,F,Whitefield,High,Secondary,Unemployed
+P02963,Roopa Joshi,52,M,BLR South,Mid,None,Unemployed
+P02964,Ramesh Kulkarni,51,M,Rajajinagar,Lower-mid,Graduate,Vendor
+P02965,Pooja Rao,22,M,Mysuru,Mid,Postgraduate,Shop owner
+P02966,Santosh Bhat,26,M,Yelahanka,Low,Graduate,Shop owner
+P02967,Divya Kulkarni,64,F,Hubballi,Mid,Diploma,Unknown
+P02968,Nandini Sharma,26,M,KR Puram,Upper-mid,Diploma,Student
+P02969,Sandeep Naidu,64,M,Mysuru,Mid,Graduate,Unemployed
+P02970,Priya Nayak,20,M,Mangaluru,Lower-mid,Graduate,Unknown
+P02971,Manjunath Nayak,35,M,Rajajinagar,Mid,Diploma,Daily wage
+P02972,Meena Kumar,37,M,Mysuru,Low,Secondary,Student
+P02973,Anita Murthy,66,F,Yelahanka,Lower-mid,Primary,Shop owner
+P02974,Asha Prasad,22,M,Belagavi,Low,None,Vendor
+P02975,Bhavani Prasad,37,M,Mysuru,Low,None,Unknown
+P02976,Geetha Kulkarni,47,F,Jayanagar,Low,Secondary,Unknown
+P02977,Suresh Kumar,63,F,Hubballi,Upper-mid,Postgraduate,Unknown
+P02978,Naveen Shetty,44,M,BLR South,Lower-mid,Primary,Shop owner
+P02979,Sneha Khan,53,M,KR Puram,Low,Postgraduate,Student
+P02980,Yusuf Gupta,64,M,Belagavi,Lower-mid,Postgraduate,Unemployed
+P02981,Ganesh Hegde,24,M,BLR South,Mid,None,Daily wage
+P02982,Sandeep Patil,66,M,BLR South,Low,Graduate,Driver
+P02983,Sandeep Das,35,M,KR Puram,Lower-mid,Primary,Mechanic
+P02984,Imran Joshi,19,M,KR Puram,Upper-mid,None,Shop owner
+P02985,Kiran Reddy,34,M,BTM,Low,Postgraduate,IT worker
+P02986,Shilpa Iyer,20,F,Belagavi,Mid,Graduate,IT worker
+P02987,Shilpa Iyer,64,M,Electronic City,Low,Postgraduate,Student
+P02988,Yusuf Raju,54,M,Rajajinagar,Low,Primary,Unknown
+P02989,Deepa Setty,16,M,Mysuru,Lower-mid,Diploma,Daily wage
+P02990,Nandini Desai,34,M,Rajajinagar,Low,Secondary,Mechanic
+P02991,Vinay Patil,53,M,BTM,Lower-mid,None,Daily wage
+P02992,Vinay Bhat,31,M,Hubballi,Mid,Postgraduate,Driver
+P02993,Yusuf Patil,46,M,Electronic City,Low,Primary,Shop owner
+P02994,Mahesh Khan,65,M,Yelahanka,Low,Primary,Clerk
+P02995,Priya Prasad,21,M,Whitefield,Low,Postgraduate,Mechanic
+P02996,Manjunath Reddy,22,M,Belagavi,Lower-mid,Secondary,Vendor
+P02997,Pooja Gupta,68,M,Whitefield,Lower-mid,Secondary,Unemployed
+P02998,Nandini Shetty,18,M,Mysuru,Lower-mid,Primary,IT worker
+P02999,Shilpa Kumar,32,M,Yelahanka,Low,Primary,Shop owner
+P03000,Anita Murthy,56,M,Whitefield,Lower-mid,Graduate,Unknown
+P05001,Suresh M.,44,M,BLR South,Lower-mid,Secondary,Driver
+P05002,Ravi K.,20,M,Jayanagar,Low,Secondary,Daily wage
+P05003,Anbu T.,37,M,Jayanagar,Low,Primary,Daily wage
+P05010,Manjunath G.,37,M,Whitefield,Lower-mid,Secondary,Unemployed
+P05011,Nagaraj P.,29,M,Whitefield,Low,Primary,Daily wage
+P05017,Deepa N.,37,M,BLR South,Low,Primary,Unemployed
+P05018,Imran S.,37,M,BLR South,Low,Primary,Daily wage

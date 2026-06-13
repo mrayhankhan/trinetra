@@ -1,0 +1,1204 @@
+person_id,priors,linked_fir_count,jurisdictions_count,mo_primary,network_centrality,recency_days,risk_score
+P02835,0,1,1,duplicate-key theft,22,174,29
+P01859,1,2,2,2-wheeler snatch,44,42,47
+P00095,0,1,1,2-wheeler snatch,22,120,35
+P00764,1,2,2,2-wheeler snatch,44,100,40
+P01845,0,1,1,crowd pickpocket,22,137,33
+P00244,1,2,2,2-wheeler snatch,44,155,44
+P02353,0,1,1,OTP scam,22,17,47
+P01667,0,1,1,OTP scam,22,17,47
+P00212,0,1,1,evening market snatch,22,143,33
+P02320,1,2,2,lock-break theft,44,122,38
+P00455,2,3,2,godown break-in,56,12,54
+P02333,0,1,1,bar brawl,22,53,43
+P01944,0,1,1,evening market snatch,22,29,45
+P00099,0,1,1,crowd pickpocket,22,7,48
+P00373,1,2,2,lock-break theft,44,2,51
+P00449,1,2,2,daytime recce break,44,45,46
+P02343,0,1,1,evening market snatch,22,45,44
+P02926,0,1,1,OTP scam,22,176,29
+P02935,0,1,1,street altercation,22,19,46
+P02415,0,1,1,bus snatch,22,103,37
+P02844,0,1,1,OTP scam,22,149,32
+P00571,0,1,1,UPI request fraud,22,31,45
+P02587,0,1,1,pillion-rider grab,22,21,46
+P00048,1,2,2,2-wheeler snatch,44,135,36
+P01675,0,1,1,bus snatch,22,80,40
+P02236,0,1,1,bus snatch,22,80,40
+P00415,0,1,1,fake KYC call,22,138,33
+P02060,0,1,1,fake KYC call,22,44,44
+P00180,0,1,1,fake KYC call,22,109,36
+P00412,1,2,2,lock-break theft,44,19,49
+P00430,1,2,2,2-wheeler snatch,44,103,40
+P01818,4,5,4,evening market snatch,100,27,79
+P02141,0,1,1,evening market snatch,22,127,34
+P00634,0,1,1,crowd pickpocket,22,165,30
+P02760,1,2,2,pillion-rider grab,44,15,50
+P00665,2,3,3,daytime recce break,67,29,58
+P00498,1,2,2,crowd pickpocket,44,51,46
+P01590,1,2,2,pillion-rider grab,44,148,35
+P02019,0,1,1,lock-break theft,22,50,43
+P01350,0,1,1,lock-break theft,22,50,43
+P00931,1,2,2,2-wheeler snatch,44,35,47
+P00251,0,1,1,pillion-rider grab,22,68,41
+P00761,1,2,2,domestic dispute,44,19,49
+P01847,1,2,2,lock-break theft,44,49,46
+P00762,2,3,3,lock-break theft,67,51,55
+P01386,1,2,2,bar brawl,44,73,43
+P01079,0,1,1,shop-counter lift,22,88,39
+P01943,0,1,1,shutter-break,22,6,48
+P01898,1,2,2,ATM tamper,44,64,54
+P00534,1,2,2,parking-lot lift,44,68,44
+P00495,0,1,1,2-wheeler snatch,22,135,34
+P00022,0,1,1,bar brawl,22,108,37
+P02212,0,1,1,bar brawl,22,108,37
+P01854,2,3,3,pillion-rider grab,67,33,57
+P00003,0,1,1,parking-lot lift,22,137,33
+P00704,0,1,1,rear-window entry,22,72,41
+P00371,1,2,2,domestic dispute,44,76,43
+P02409,0,1,1,fake job offer,22,99,38
+P00582,3,4,4,parking-lot lift,89,25,69
+P02873,0,1,1,shop-counter lift,22,147,32
+P02422,0,1,1,domestic dispute,22,98,38
+P00697,0,1,1,investment scam,22,178,29
+P02413,0,1,1,investment scam,22,178,29
+P00036,0,1,1,crowd pickpocket,22,136,33
+P00436,0,1,1,crowd pickpocket,22,136,33
+P01007,1,2,2,parking-lot lift,44,119,38
+P00216,0,1,1,evening market snatch,22,135,34
+P01160,1,2,1,fake KYC call,33,65,39
+P01591,0,1,1,godown break-in,22,128,34
+P01515,1,2,1,investment scam,33,111,34
+P00319,0,1,1,parking-lot lift,22,111,36
+P00357,1,2,2,lock tampering,44,22,49
+P02128,1,2,2,lock tampering,44,73,43
+P02662,0,1,1,crowd pickpocket,22,171,30
+P00333,0,1,1,OTP scam,22,174,29
+P00838,1,2,2,bar brawl,44,14,50
+P02609,0,1,1,fake job offer,22,2,48
+P02010,2,3,3,OTP scam,67,6,60
+P00492,0,1,1,shop-counter lift,22,6,48
+P01715,0,1,1,daytime recce break,22,157,31
+P01111,1,2,2,fake KYC call,44,105,40
+P02717,1,2,1,crowd pickpocket,33,21,44
+P00469,0,1,1,domestic dispute,22,166,30
+P00269,0,1,1,ATM tamper,22,18,47
+P01861,2,3,3,ATM tamper,67,18,59
+P02374,1,2,2,lock-break theft,44,-1,51
+P00703,0,1,1,godown break-in,22,18,47
+P01935,0,1,1,godown break-in,22,18,47
+P02755,0,1,1,pillion-rider grab,22,44,44
+P02335,0,1,1,lock-break theft,22,124,35
+P01849,0,1,1,lock-break theft,22,124,35
+P00946,0,1,1,bus snatch,22,89,39
+P01753,0,1,1,bus snatch,22,89,39
+P01848,0,1,1,fake KYC call,22,11,47
+P00624,0,1,1,advance-fee fraud,22,13,47
+P01070,0,1,1,lock-break theft,22,141,33
+P01674,0,1,1,OTP scam,22,40,44
+P01303,1,2,2,shop-counter lift,44,94,41
+P01292,1,2,1,evening market snatch,33,106,34
+P00368,2,3,3,parking-lot lift,67,17,59
+P01980,1,2,2,godown break-in,44,45,46
+P02229,0,1,1,OTP scam,22,159,31
+P02272,0,1,1,OTP scam,22,159,31
+P02078,0,1,1,OTP scam,22,119,35
+P00380,0,1,1,fake job offer,22,169,30
+P02298,1,2,2,OTP scam,44,31,58
+P02624,0,1,1,UPI request fraud,22,110,36
+P00542,1,2,2,pillion-rider grab,44,80,42
+P01669,1,2,2,parking-lot lift,44,80,42
+P01763,0,1,1,2-wheeler snatch,22,85,39
+P02810,0,1,1,fake KYC call,22,90,39
+P00505,1,2,2,pillion-rider grab,44,57,45
+P02028,0,1,1,fake KYC call,22,68,41
+P00872,2,3,3,fake job offer,67,35,57
+P01885,0,1,1,pillion-rider grab,22,105,37
+P01541,0,1,1,pillion-rider grab,22,105,37
+P00612,1,2,2,daytime recce break,44,68,44
+P01788,1,2,2,street altercation,44,41,47
+P01772,0,1,1,fake KYC call,22,38,44
+P01646,2,3,2,OTP scam,56,42,51
+P01224,0,1,1,OTP scam,22,53,43
+P00565,2,3,3,lock-break theft,67,103,49
+P01687,0,1,1,ATM tamper,22,176,29
+P02901,0,1,1,lock-break theft,22,99,38
+P02711,0,1,1,ATM tamper,22,26,46
+P00564,0,1,1,2-wheeler snatch,22,36,45
+P00791,0,1,1,2-wheeler snatch,22,36,45
+P02156,1,2,2,ATM tamper,44,52,45
+P01585,1,2,2,2-wheeler snatch,44,26,48
+P01222,0,1,1,daytime recce break,22,48,43
+P01097,0,1,1,daytime recce break,22,48,43
+P00913,1,2,2,2-wheeler snatch,44,132,37
+P00956,1,2,2,domestic dispute,44,19,49
+P00369,0,1,1,UPI request fraud,22,19,46
+P01171,1,2,2,crowd pickpocket,44,44,46
+P02307,0,1,1,street altercation,22,84,39
+P02791,1,2,2,rear-window entry,44,39,47
+P00109,0,1,1,fake KYC call,22,39,44
+P00947,0,1,1,crowd pickpocket,22,27,46
+P00783,1,2,2,fake KYC call,44,93,51
+P01276,0,1,1,lock tampering,22,7,48
+P00262,0,1,1,lock tampering,22,7,48
+P00154,0,1,1,shop-counter lift,22,140,33
+P02073,1,2,2,rear-window entry,44,120,38
+P00560,0,1,1,street altercation,22,52,43
+P01042,1,2,2,daytime recce break,44,-1,51
+P02232,0,1,1,daytime recce break,22,60,42
+P01046,0,1,1,bus snatch,22,14,47
+P01740,0,1,1,pillion-rider grab,22,106,37
+P01477,0,1,1,OTP scam,22,17,47
+P01779,0,1,1,OTP scam,22,17,47
+P00937,1,2,2,advance-fee fraud,44,151,34
+P02346,0,1,1,advance-fee fraud,22,163,30
+P01741,0,1,1,crowd pickpocket,22,29,45
+P00079,2,3,3,bar brawl,67,56,54
+P01490,0,1,1,fake KYC call,22,22,46
+P01754,1,2,2,fake job offer,44,6,51
+P01940,0,1,1,evening market snatch,22,69,41
+P01656,0,1,1,street altercation,22,10,47
+P01520,2,3,3,pillion-rider grab,67,1,60
+P01514,0,1,1,daytime recce break,22,55,42
+P02362,0,1,1,evening market snatch,22,79,40
+P02259,2,3,2,lock-break theft,56,79,47
+P02859,0,1,1,fake job offer,22,128,34
+P01714,0,1,1,fake job offer,22,128,34
+P01122,2,3,2,parking-lot lift,56,2,55
+P02197,3,4,3,fake job offer,78,2,66
+P01811,0,1,1,fake job offer,22,37,44
+P02397,0,1,1,duplicate-key theft,22,31,45
+P02944,0,1,1,daytime recce break,22,124,35
+P01197,0,1,1,daytime recce break,22,124,35
+P02340,0,1,1,2-wheeler snatch,22,7,48
+P01121,0,1,1,rear-window entry,22,159,31
+P02186,0,1,1,rear-window entry,22,159,31
+P00374,0,1,1,duplicate-key theft,22,3,48
+P00425,0,1,1,duplicate-key theft,22,3,48
+P01709,0,1,1,ATM tamper,22,10,47
+P00018,1,2,2,godown break-in,44,150,35
+P02090,0,1,1,duplicate-key theft,22,43,44
+P02712,0,1,1,lock-break theft,22,149,32
+P01911,1,2,2,pillion-rider grab,44,87,42
+P02392,0,1,1,rear-window entry,22,137,33
+P01396,1,2,2,pillion-rider grab,44,56,45
+P01725,0,1,1,shop-counter lift,22,82,39
+P00032,1,2,2,pillion-rider grab,44,91,41
+P01789,0,1,1,pillion-rider grab,22,91,38
+P00932,0,1,1,bar brawl,22,170,30
+P01411,0,1,1,rear-window entry,22,142,33
+P00201,0,1,1,fake job offer,22,101,37
+P02098,1,2,2,pillion-rider grab,44,66,44
+P02767,0,1,1,bus snatch,22,22,46
+P00136,0,1,1,godown break-in,22,88,39
+P01410,0,1,1,duplicate-key theft,22,48,43
+P01819,0,1,1,ATM tamper,22,158,31
+P02560,1,2,2,domestic dispute,44,100,40
+P00789,0,1,1,lock tampering,22,83,39
+P01557,0,1,1,crowd pickpocket,22,34,45
+P00572,0,1,1,pillion-rider grab,22,113,36
+P00169,0,1,1,pillion-rider grab,22,113,36
+P00450,0,1,1,lock tampering,22,149,32
+P00586,0,1,1,lock tampering,22,149,32
+P02865,1,2,2,street altercation,44,32,48
+P02737,0,1,1,street altercation,22,32,45
+P02170,1,2,2,street altercation,44,34,47
+P02990,1,2,2,daytime recce break,44,5,51
+P02950,0,1,1,crowd pickpocket,22,123,35
+P02769,1,2,2,crowd pickpocket,44,123,48
+P02456,0,1,1,lock tampering,22,16,47
+P00546,2,3,3,2-wheeler snatch,67,16,59
+P00004,1,2,2,lock-break theft,44,52,55
+P00318,2,3,2,lock-break theft,56,44,51
+P01125,0,1,1,evening market snatch,22,110,36
+P02289,1,2,1,bus snatch,33,6,45
+P01579,1,2,2,pillion-rider grab,44,7,50
+P01536,1,2,2,pillion-rider grab,44,128,37
+P02193,1,2,2,fake KYC call,44,98,40
+P00167,0,1,1,godown break-in,22,149,32
+P01556,2,3,3,bar brawl,67,58,54
+P02795,0,1,1,UPI request fraud,22,119,35
+P01959,1,2,2,pillion-rider grab,44,95,41
+P00621,0,1,1,bus snatch,22,53,43
+P01693,0,1,1,shop-counter lift,22,88,39
+P02852,0,1,1,fake job offer,22,29,45
+P02972,1,2,2,fake job offer,44,25,48
+P00271,0,1,1,street altercation,22,82,39
+P00903,2,3,3,fake KYC call,67,46,56
+P00302,0,1,1,evening market snatch,22,46,43
+P01961,0,1,1,2-wheeler snatch,22,120,35
+P02467,0,1,1,crowd pickpocket,22,177,29
+P01777,2,3,3,daytime recce break,67,61,54
+P01192,0,1,1,UPI request fraud,22,104,37
+P00512,0,1,1,UPI request fraud,22,104,37
+P00864,0,1,1,domestic dispute,22,109,36
+P01250,0,1,1,lock tampering,22,59,42
+P01216,0,1,1,parking-lot lift,22,108,37
+P00034,0,1,1,bar brawl,22,173,29
+P01415,0,1,1,evening market snatch,22,34,45
+P00611,0,1,1,pillion-rider grab,22,154,31
+P01712,1,2,2,pillion-rider grab,44,30,48
+P00684,2,3,3,pillion-rider grab,67,41,56
+P00959,0,1,1,parking-lot lift,22,71,41
+P02884,0,1,1,2-wheeler snatch,22,161,31
+P02964,0,1,1,2-wheeler snatch,22,161,31
+P02136,0,1,1,investment scam,22,60,42
+P02897,0,1,1,investment scam,22,60,42
+P02799,0,1,1,shop-counter lift,22,122,35
+P00984,0,1,1,evening market snatch,22,110,36
+P02753,0,1,1,2-wheeler snatch,22,42,44
+P02459,0,1,1,UPI request fraud,22,123,35
+P01871,0,1,1,fake KYC call,22,132,34
+P00468,0,1,1,fake KYC call,22,132,34
+P02549,2,3,3,lock-break theft,67,12,59
+P00968,1,2,2,fake KYC call,44,86,42
+P01805,0,1,1,OTP scam,22,7,48
+P02228,0,1,1,OTP scam,22,7,48
+P01183,0,1,1,crowd pickpocket,22,154,31
+P00397,1,2,2,duplicate-key theft,44,79,42
+P01963,0,1,1,pillion-rider grab,22,84,39
+P02709,0,1,1,shutter-break,22,121,35
+P00730,1,2,2,street altercation,44,75,43
+P02656,0,1,1,advance-fee fraud,22,27,46
+P00471,0,1,1,rear-window entry,22,137,33
+P00994,0,1,1,advance-fee fraud,22,72,41
+P00507,0,1,1,evening market snatch,22,84,39
+P01467,0,1,1,godown break-in,22,72,41
+P01384,0,1,1,street altercation,22,115,36
+P00721,0,1,1,UPI request fraud,22,1,48
+P02957,0,1,1,2-wheeler snatch,22,-1,49
+P02265,2,3,3,fake KYC call,67,90,51
+P01311,0,1,1,bus snatch,22,93,38
+P00710,0,1,1,duplicate-key theft,22,28,45
+P00945,2,3,3,2-wheeler snatch,67,42,56
+P00976,0,1,1,lock-break theft,22,104,37
+P00724,0,1,1,shop-counter lift,22,45,44
+P01529,0,1,1,OTP scam,22,95,38
+P02115,0,1,1,2-wheeler snatch,22,92,38
+P00349,0,1,1,crowd pickpocket,22,23,46
+P02982,1,2,2,duplicate-key theft,44,78,43
+P01508,0,1,1,fake KYC call,22,50,43
+P00940,0,1,1,OTP scam,22,47,43
+P01354,0,1,1,parking-lot lift,22,134,34
+P01668,0,1,1,lock-break theft,22,70,41
+P01587,2,3,3,ATM tamper,67,16,59
+P01342,0,1,1,ATM tamper,22,179,29
+P01534,0,1,1,shop-counter lift,22,42,44
+P02512,1,2,2,lock-break theft,44,42,47
+P01951,0,1,1,duplicate-key theft,22,51,43
+P01686,1,2,1,pillion-rider grab,33,59,39
+P01134,0,1,1,fake job offer,22,28,45
+P00278,0,1,1,fake KYC call,22,142,33
+P00716,0,1,1,pillion-rider grab,22,179,29
+P01038,1,2,2,2-wheeler snatch,44,148,35
+P02754,0,1,1,investment scam,22,113,36
+P00313,0,1,1,bus snatch,22,158,31
+P02071,1,2,2,duplicate-key theft,44,107,39
+P02842,0,1,1,2-wheeler snatch,22,84,39
+P00454,0,1,1,domestic dispute,22,32,45
+P01544,0,1,1,domestic dispute,22,32,45
+P00267,0,1,1,advance-fee fraud,22,42,44
+P01058,0,1,1,advance-fee fraud,22,42,44
+P02407,0,1,1,pillion-rider grab,22,135,34
+P01460,0,1,1,2-wheeler snatch,22,99,38
+P01485,0,1,1,2-wheeler snatch,22,99,38
+P00403,0,1,1,fake KYC call,22,63,42
+P02664,0,1,1,2-wheeler snatch,22,148,32
+P02598,1,2,2,domestic dispute,44,20,49
+P01095,2,3,3,shutter-break,67,2,60
+P01231,1,2,2,street altercation,44,-1,51
+P01561,0,1,1,2-wheeler snatch,22,95,38
+P02978,0,1,1,OTP scam,22,119,35
+P00793,0,1,1,OTP scam,22,119,35
+P02135,1,2,2,duplicate-key theft,44,29,48
+P01482,0,1,1,ATM tamper,22,36,45
+P02792,0,1,1,2-wheeler snatch,22,179,29
+P00601,1,2,2,domestic dispute,44,49,46
+P00847,0,1,1,bus snatch,22,88,39
+P00197,0,1,1,duplicate-key theft,22,91,38
+P00629,2,3,3,fake job offer,67,69,53
+P02054,2,3,3,fake job offer,67,66,53
+P01583,0,1,1,2-wheeler snatch,22,97,38
+P00748,0,1,1,2-wheeler snatch,22,97,38
+P00337,0,1,1,pillion-rider grab,22,78,40
+P02475,1,2,2,bar brawl,44,154,34
+P01803,0,1,1,parking-lot lift,22,70,41
+P02198,0,1,1,UPI request fraud,22,55,42
+P01503,0,1,1,UPI request fraud,22,55,42
+P02175,0,1,1,duplicate-key theft,22,91,38
+P01031,1,2,2,lock-break theft,44,130,37
+P00171,1,2,2,daytime recce break,44,114,39
+P00162,0,1,1,pillion-rider grab,22,76,40
+P00922,0,1,1,pillion-rider grab,22,160,31
+P01285,1,2,2,ATM tamper,44,34,47
+P02759,0,1,1,fake job offer,22,66,41
+P02953,0,1,1,fake job offer,22,66,41
+P02899,0,1,1,domestic dispute,22,80,40
+P00280,0,1,1,domestic dispute,22,80,40
+P00339,0,1,1,crowd pickpocket,22,157,31
+P00741,0,1,1,lock tampering,22,94,38
+P00592,1,2,2,godown break-in,44,160,33
+P00583,0,1,1,lock-break theft,22,-1,49
+P00015,0,1,1,ATM tamper,22,135,34
+P00787,0,1,1,daytime recce break,22,49,43
+P00501,0,1,1,fake KYC call,22,75,40
+P01654,0,1,1,lock-break theft,22,41,44
+P01082,0,1,1,fake KYC call,22,168,30
+P01394,0,1,1,fake KYC call,22,168,30
+P01483,0,1,1,crowd pickpocket,22,31,45
+P01188,1,2,2,crowd pickpocket,44,31,48
+P02941,1,2,2,duplicate-key theft,44,44,46
+P01671,0,1,1,duplicate-key theft,22,44,44
+P01665,0,1,1,godown break-in,22,171,30
+P01969,0,1,1,crowd pickpocket,22,44,44
+P00141,1,2,2,parking-lot lift,44,44,46
+P00832,0,1,1,pillion-rider grab,22,36,45
+P00961,1,2,2,lock tampering,44,42,47
+P00540,0,1,1,fake KYC call,22,103,37
+P01400,1,2,1,lock-break theft,33,120,32
+P00361,0,1,1,rear-window entry,22,176,29
+P01912,1,2,2,parking-lot lift,44,56,45
+P01370,1,2,2,parking-lot lift,44,15,50
+P00974,0,1,1,shop-counter lift,22,100,37
+P02839,0,1,1,shop-counter lift,22,100,37
+P00675,0,1,1,fake KYC call,22,61,42
+P01255,2,3,3,parking-lot lift,67,70,53
+P01164,1,2,1,shop-counter lift,33,69,38
+P00089,1,2,2,pillion-rider grab,44,18,49
+P02595,0,1,1,duplicate-key theft,22,18,47
+P01607,0,1,1,fake KYC call,22,162,31
+P01771,1,2,2,fake KYC call,44,17,49
+P02934,0,1,1,pillion-rider grab,22,108,37
+P01721,1,2,2,lock-break theft,44,25,48
+P01711,0,1,1,shop-counter lift,22,131,34
+P00394,0,1,1,shop-counter lift,22,131,34
+P02273,0,1,1,UPI request fraud,22,55,42
+P02143,1,2,2,street altercation,44,41,47
+P02281,0,1,1,OTP scam,22,157,31
+P02590,0,1,1,crowd pickpocket,22,171,30
+P02334,0,1,1,bus snatch,22,47,43
+P00849,0,1,1,bus snatch,22,36,45
+P00877,1,2,2,lock-break theft,44,72,43
+P02758,1,2,2,2-wheeler snatch,44,6,51
+P02728,1,2,2,parking-lot lift,44,7,50
+P02638,0,1,1,2-wheeler snatch,22,122,35
+P02589,0,1,1,ATM tamper,22,140,33
+P02125,0,1,1,evening market snatch,22,170,30
+P00891,1,2,1,lock-break theft,33,5,45
+P02260,1,2,2,bus snatch,44,20,49
+P02476,0,1,1,crowd pickpocket,22,169,30
+P02522,0,1,1,OTP scam,22,81,40
+P01269,0,1,1,shop-counter lift,22,17,47
+P02519,0,1,1,ATM tamper,22,21,46
+P02280,0,1,1,pillion-rider grab,22,103,37
+P01270,1,2,2,pillion-rider grab,44,37,47
+P01533,0,1,1,evening market snatch,22,28,45
+P00663,0,1,1,evening market snatch,22,28,45
+P01119,2,3,3,godown break-in,67,22,58
+P02075,0,1,1,pillion-rider grab,22,57,42
+P01957,0,1,1,godown break-in,22,32,45
+P01611,1,2,2,street altercation,44,147,35
+P00973,0,1,1,evening market snatch,22,2,48
+P01596,0,1,1,2-wheeler snatch,22,41,44
+P00220,0,1,1,2-wheeler snatch,22,41,44
+P02568,1,2,2,pillion-rider grab,44,94,41
+P02787,0,1,1,2-wheeler snatch,22,179,29
+P01004,0,1,1,bar brawl,22,76,40
+P02573,1,2,2,bar brawl,44,76,43
+P01629,1,2,2,domestic dispute,44,72,43
+P00776,0,1,1,pillion-rider grab,22,16,47
+P01407,0,1,1,OTP scam,22,74,40
+P00965,1,2,2,bus snatch,44,44,46
+P01917,0,1,1,bus snatch,22,44,44
+P02326,1,2,2,lock-break theft,44,64,44
+P01766,0,1,1,UPI request fraud,22,57,42
+P02574,0,1,1,godown break-in,22,127,34
+P01036,0,1,1,godown break-in,22,127,34
+P02287,0,1,1,lock-break theft,22,68,41
+P00126,1,2,2,OTP scam,44,32,48
+P01212,1,2,2,parking-lot lift,44,3,51
+P00362,0,1,1,domestic dispute,22,2,48
+P02956,0,1,1,fake job offer,22,48,43
+P00866,0,1,1,shop-counter lift,22,150,32
+P02237,0,1,1,shop-counter lift,22,6,48
+P00698,0,1,1,duplicate-key theft,22,61,42
+P01746,0,1,1,duplicate-key theft,22,61,42
+P02262,0,1,1,duplicate-key theft,22,61,42
+P01589,0,1,1,duplicate-key theft,22,6,48
+P02910,0,1,1,lock-break theft,22,131,34
+P01926,0,1,1,bus snatch,22,169,30
+P01545,0,1,1,duplicate-key theft,22,75,40
+P02481,0,1,1,ATM tamper,22,35,45
+P00470,1,2,2,street altercation,44,6,51
+P01567,0,1,1,street altercation,22,6,48
+P00106,3,4,4,bar brawl,89,56,66
+P00054,1,2,1,godown break-in,33,32,42
+P00217,0,1,1,UPI request fraud,22,39,44
+P02815,0,1,1,pillion-rider grab,22,51,43
+P02948,1,2,2,pillion-rider grab,44,51,46
+P02372,0,1,1,crowd pickpocket,22,136,33
+P01528,0,1,1,crowd pickpocket,22,136,33
+P01368,1,2,2,evening market snatch,44,7,50
+P02622,0,1,1,evening market snatch,22,7,48
+P01620,0,1,1,lock-break theft,22,67,41
+P00448,1,2,2,fake KYC call,44,35,47
+P02245,0,1,1,bar brawl,22,112,36
+P00418,0,1,1,bar brawl,22,112,36
+P01974,0,1,1,pillion-rider grab,22,59,42
+P02954,0,1,1,pillion-rider grab,22,59,42
+P00742,1,2,2,parking-lot lift,44,152,34
+P00284,0,1,1,bar brawl,22,51,43
+P02382,1,2,2,bar brawl,44,2,51
+P00856,0,1,1,bar brawl,22,2,48
+P00287,0,1,1,bar brawl,22,173,29
+P00951,0,1,1,bus snatch,22,-1,49
+P00419,1,2,2,godown break-in,44,-1,51
+P01215,0,1,1,shop-counter lift,22,73,40
+P02513,0,1,1,UPI request fraud,22,134,34
+P00613,1,2,2,pillion-rider grab,44,40,47
+P01968,0,1,1,rear-window entry,22,159,31
+P01894,0,1,1,2-wheeler snatch,22,64,41
+P00904,0,1,1,2-wheeler snatch,22,64,41
+P01767,0,1,1,fake KYC call,22,14,47
+P01734,0,1,1,duplicate-key theft,22,20,46
+P02740,1,2,2,street altercation,44,36,47
+P01074,0,1,1,OTP scam,22,102,37
+P02058,0,1,1,OTP scam,22,102,37
+P02850,0,1,1,parking-lot lift,22,155,31
+P00094,0,1,1,UPI request fraud,22,3,48
+P00056,0,1,1,UPI request fraud,22,3,48
+P02837,0,1,1,shop-counter lift,22,20,46
+P00580,0,1,1,shop-counter lift,22,20,46
+P00677,0,1,1,rear-window entry,22,88,39
+P00312,0,1,1,lock tampering,22,125,35
+P00366,0,1,1,lock tampering,22,125,35
+P01451,1,2,2,ATM tamper,44,64,44
+P01542,0,1,1,investment scam,22,120,35
+P02405,0,1,1,investment scam,22,120,35
+P01449,0,1,1,lock tampering,22,107,37
+P01831,0,1,1,evening market snatch,22,51,43
+P01993,1,2,2,daytime recce break,44,0,51
+P00307,0,1,1,OTP scam,22,166,30
+P02220,1,2,2,parking-lot lift,44,11,50
+P02913,1,2,2,2-wheeler snatch,44,71,43
+P02068,0,1,1,pillion-rider grab,22,149,32
+P00988,0,1,1,pillion-rider grab,22,149,32
+P01198,0,1,1,investment scam,22,54,43
+P00005,0,1,1,bar brawl,22,33,45
+P02888,0,1,1,2-wheeler snatch,22,177,29
+P01781,0,1,1,2-wheeler snatch,22,177,29
+P02015,0,1,1,ATM tamper,22,170,30
+P00990,0,1,1,2-wheeler snatch,22,132,34
+P02341,0,1,1,domestic dispute,22,111,36
+P02699,1,2,2,domestic dispute,44,20,49
+P00151,0,1,1,fake KYC call,22,159,31
+P00934,0,1,1,pillion-rider grab,22,82,39
+P02444,0,1,1,pillion-rider grab,22,82,39
+P01890,0,1,1,pillion-rider grab,22,175,29
+P01239,0,1,1,shutter-break,22,50,43
+P00810,0,1,1,bus snatch,22,174,29
+P01045,1,2,2,fake KYC call,44,16,49
+P02757,0,1,1,lock-break theft,22,49,43
+P01593,0,1,1,bus snatch,22,112,36
+P01283,0,1,1,crowd pickpocket,22,30,45
+P00881,0,1,1,daytime recce break,22,51,43
+P02449,0,1,1,evening market snatch,22,132,34
+P00912,0,1,1,lock tampering,22,131,34
+P00836,1,2,2,fake KYC call,44,31,48
+P00669,1,2,2,evening market snatch,44,52,45
+P02425,0,1,1,parking-lot lift,22,77,40
+P01518,1,2,2,parking-lot lift,44,77,43
+P02911,0,1,1,shop-counter lift,22,136,33
+P02643,0,1,1,shop-counter lift,22,136,33
+P01658,0,1,1,lock-break theft,22,26,46
+P00423,0,1,1,2-wheeler snatch,22,172,29
+P02766,0,1,1,2-wheeler snatch,22,77,40
+P01692,2,3,2,fake job offer,56,40,51
+P00737,0,1,1,pillion-rider grab,22,92,38
+P00308,0,1,1,parking-lot lift,22,178,29
+P00667,0,1,1,shutter-break,22,156,31
+P01673,0,1,1,shutter-break,22,156,31
+P02784,0,1,1,rear-window entry,22,19,46
+P02282,0,1,1,rear-window entry,22,19,46
+P01937,0,1,1,daytime recce break,22,116,36
+P01284,0,1,1,domestic dispute,22,43,44
+P01915,0,1,1,2-wheeler snatch,22,57,42
+P02012,1,2,2,fake KYC call,44,76,43
+P01447,0,1,1,pillion-rider grab,22,61,42
+P01648,0,1,1,pillion-rider grab,22,61,42
+P02713,2,3,2,lock-break theft,56,6,55
+P01916,0,1,1,fake job offer,22,151,32
+P02263,0,1,1,evening market snatch,22,101,37
+P02562,0,1,1,evening market snatch,22,101,37
+P02003,0,1,1,rear-window entry,22,161,31
+P00299,0,1,1,bus snatch,22,55,42
+P02396,1,2,2,investment scam,44,55,45
+P01664,2,3,3,street altercation,67,39,56
+P00641,1,2,1,pillion-rider grab,33,23,43
+P00076,1,2,2,lock-break theft,44,63,44
+P01488,0,1,1,2-wheeler snatch,22,62,42
+P02542,0,1,1,2-wheeler snatch,22,62,42
+P01683,0,1,1,parking-lot lift,22,128,34
+P02937,0,1,1,parking-lot lift,22,66,41
+P01060,1,2,2,lock-break theft,44,66,44
+P00765,0,1,1,pillion-rider grab,22,108,37
+P01126,1,2,2,pillion-rider grab,44,82,42
+P00358,1,2,2,lock-break theft,44,5,51
+P00806,0,1,1,pillion-rider grab,22,60,42
+P02337,0,1,1,pillion-rider grab,22,60,42
+P01750,0,1,1,pillion-rider grab,22,150,32
+P02457,0,1,1,UPI request fraud,22,94,38
+P00747,0,1,1,UPI request fraud,22,94,38
+P01018,0,1,1,domestic dispute,22,147,32
+P02041,0,1,1,domestic dispute,22,147,32
+P01346,0,1,1,rear-window entry,22,67,41
+P02704,0,1,1,rear-window entry,22,67,41
+P02700,0,1,1,advance-fee fraud,22,158,31
+P00222,1,2,2,parking-lot lift,44,68,44
+P00482,1,2,2,duplicate-key theft,44,127,37
+P00518,0,1,1,evening market snatch,22,174,29
+P00228,0,1,1,evening market snatch,22,174,29
+P00325,0,1,1,pillion-rider grab,22,29,45
+P01387,0,1,1,parking-lot lift,22,166,30
+P01830,2,3,3,lock tampering,67,89,51
+P01182,0,1,1,lock-break theft,22,19,46
+P01272,0,1,1,advance-fee fraud,22,27,46
+P02291,2,3,3,fake KYC call,67,17,66
+P01722,0,1,1,2-wheeler snatch,22,30,45
+P00199,0,1,1,rear-window entry,22,157,31
+P02252,0,1,1,bar brawl,22,14,47
+P02276,0,1,1,OTP scam,22,156,31
+P01334,2,3,3,shop-counter lift,67,45,56
+P02610,1,2,2,bar brawl,44,9,50
+P01962,0,1,1,shop-counter lift,22,9,48
+P00728,0,1,1,duplicate-key theft,22,125,35
+P02907,0,1,1,evening market snatch,22,84,39
+P01211,1,2,2,fake job offer,44,22,49
+P00883,0,1,1,fake job offer,22,26,46
+P00628,0,1,1,ATM tamper,22,100,37
+P00739,0,1,1,rear-window entry,22,31,45
+P01938,1,2,2,shutter-break,44,1,51
+P00404,0,1,1,parking-lot lift,22,173,29
+P01397,0,1,1,street altercation,22,112,36
+P00177,0,1,1,investment scam,22,13,47
+P00528,1,2,2,evening market snatch,44,42,57
+P01786,0,1,1,street altercation,22,163,30
+P02161,1,2,2,godown break-in,44,6,51
+P02688,0,1,1,bus snatch,22,167,30
+P02618,1,2,2,2-wheeler snatch,44,31,48
+P02516,0,1,1,bus snatch,22,146,32
+P02552,1,2,2,godown break-in,44,86,42
+P02506,0,1,1,ATM tamper,22,124,35
+P02722,0,1,1,bus snatch,22,145,32
+P02069,2,3,3,investment scam,67,58,61
+P02166,0,1,1,pillion-rider grab,22,105,37
+P00276,0,1,1,domestic dispute,22,130,34
+P01246,1,2,2,evening market snatch,44,137,36
+P02831,0,1,1,evening market snatch,22,14,47
+P00966,1,2,2,parking-lot lift,44,36,47
+P02928,0,1,1,duplicate-key theft,22,174,29
+P00850,0,1,1,godown break-in,22,61,42
+P02747,0,1,1,shop-counter lift,22,120,35
+P01306,0,1,1,fake job offer,22,46,43
+P01471,0,1,1,crowd pickpocket,22,73,40
+P00041,1,2,2,2-wheeler snatch,44,126,37
+P01910,0,1,1,duplicate-key theft,22,163,30
+P02336,0,1,1,ATM tamper,22,6,48
+P00289,0,1,1,lock-break theft,22,5,48
+P00108,0,1,1,godown break-in,22,43,44
+P02385,0,1,1,fake KYC call,22,27,46
+P00345,1,2,1,2-wheeler snatch,33,71,38
+P00165,0,1,1,ATM tamper,22,63,42
+P02462,0,1,1,street altercation,22,95,38
+P00148,0,1,1,bus snatch,22,132,34
+P01844,0,1,1,bus snatch,22,132,34
+P01209,0,1,1,evening market snatch,22,63,42
+P02057,1,2,2,parking-lot lift,44,55,45
+P02172,0,1,1,2-wheeler snatch,22,96,38
+P02049,0,1,1,OTP scam,22,26,46
+P02417,1,2,2,evening market snatch,44,26,48
+P00811,0,1,1,fake KYC call,22,49,43
+P01057,0,1,1,pillion-rider grab,22,59,42
+P01298,0,1,1,OTP scam,22,23,46
+P01977,0,1,1,pillion-rider grab,22,157,31
+P01599,2,3,3,lock-break theft,67,106,49
+P01220,1,2,2,fake job offer,44,64,44
+P02676,1,2,2,evening market snatch,44,9,60
+P02895,2,3,3,bus snatch,67,18,59
+P02083,0,1,1,2-wheeler snatch,22,165,30
+P02974,1,2,2,lock-break theft,44,62,44
+P01949,0,1,1,crowd pickpocket,22,121,35
+P01588,0,1,1,crowd pickpocket,22,121,35
+P01435,0,1,1,OTP scam,22,169,30
+P00027,0,1,1,OTP scam,22,169,30
+P01812,0,1,1,fake KYC call,22,25,46
+P02131,1,2,2,fake job offer,44,20,49
+P02567,0,1,1,OTP scam,22,132,34
+P01030,0,1,1,OTP scam,22,132,34
+P00790,0,1,1,rear-window entry,22,9,48
+P01423,0,1,1,2-wheeler snatch,22,141,33
+P00738,1,2,1,2-wheeler snatch,33,87,36
+P00193,1,2,2,fake KYC call,44,33,48
+P00825,0,1,1,2-wheeler snatch,22,10,47
+P01475,1,2,1,fake KYC call,33,83,37
+P02183,0,1,1,domestic dispute,22,83,39
+P02204,0,1,1,duplicate-key theft,22,166,30
+P01012,0,1,1,lock-break theft,22,166,30
+P01260,1,2,2,domestic dispute,44,102,40
+P00559,1,2,2,fake job offer,44,82,42
+P02095,0,1,1,street altercation,22,99,38
+P01226,0,1,1,ATM tamper,22,86,39
+P00865,1,2,2,2-wheeler snatch,44,25,48
+P01300,1,2,2,bar brawl,44,63,44
+P02223,0,1,1,pillion-rider grab,22,157,31
+P02458,0,1,1,daytime recce break,22,42,44
+P00563,0,1,1,lock tampering,22,69,41
+P02486,1,2,2,parking-lot lift,44,25,48
+P02344,0,1,1,UPI request fraud,22,6,48
+P02778,0,1,1,OTP scam,22,101,37
+P00434,2,3,2,bus snatch,56,14,54
+P01939,0,1,1,domestic dispute,22,34,45
+P00359,0,1,1,fake KYC call,22,123,35
+P00246,1,2,2,2-wheeler snatch,44,98,40
+P01266,0,1,1,pillion-rider grab,22,48,43
+P02047,0,1,1,pillion-rider grab,22,128,34
+P02951,0,1,1,crowd pickpocket,22,157,31
+P00636,0,1,1,crowd pickpocket,22,110,36
+P02803,0,1,1,bus snatch,22,167,30
+P01705,0,1,1,domestic dispute,22,58,42
+P01630,0,1,1,domestic dispute,22,58,42
+P02524,1,2,2,parking-lot lift,44,157,34
+P00694,0,1,1,ATM tamper,22,157,31
+P00834,0,1,1,ATM tamper,22,154,31
+P00727,1,2,2,duplicate-key theft,44,131,37
+P01312,0,1,1,2-wheeler snatch,22,27,46
+P00871,0,1,1,daytime recce break,22,178,29
+P02909,1,2,2,evening market snatch,44,25,48
+P00880,0,1,1,OTP scam,22,128,34
+P02311,1,2,2,parking-lot lift,44,92,41
+P01919,0,1,1,lock-break theft,22,137,33
+P02200,1,2,2,lock-break theft,44,137,46
+P00800,0,1,1,pillion-rider grab,22,58,42
+P02366,0,1,1,pillion-rider grab,22,65,41
+P02640,0,1,1,lock-break theft,22,64,41
+P02165,0,1,1,UPI request fraud,22,138,33
+P00797,0,1,1,crowd pickpocket,22,116,36
+P00746,0,1,1,duplicate-key theft,22,84,39
+P01551,1,2,2,ATM tamper,44,34,47
+P00711,1,2,2,lock-break theft,44,148,35
+P02967,0,1,1,bar brawl,22,134,34
+P00055,1,2,2,pillion-rider grab,44,118,38
+P01172,0,1,1,daytime recce break,22,170,30
+P01320,1,2,2,lock-break theft,44,118,38
+P02454,0,1,1,lock-break theft,22,122,35
+P00424,0,1,1,daytime recce break,22,80,40
+P00062,0,1,1,advance-fee fraud,22,119,35
+P02485,0,1,1,OTP scam,22,12,47
+P02594,0,1,1,OTP scam,22,12,47
+P01322,0,1,1,duplicate-key theft,22,15,47
+P01761,0,1,1,fake KYC call,22,81,40
+P02963,0,1,1,OTP scam,22,123,35
+P01003,1,2,1,evening market snatch,33,45,51
+P00347,0,1,1,2-wheeler snatch,22,50,43
+P01539,0,1,1,UPI request fraud,22,69,41
+P00332,0,1,1,evening market snatch,22,71,41
+P00294,0,1,1,bus snatch,22,168,30
+P01760,0,1,1,godown break-in,22,113,36
+P00350,0,1,1,shop-counter lift,22,37,44
+P02998,0,1,1,godown break-in,22,138,33
+P00999,0,1,1,duplicate-key theft,22,56,42
+P00890,0,1,1,crowd pickpocket,22,21,46
+P00857,0,1,1,crowd pickpocket,22,36,45
+P01403,0,1,1,UPI request fraud,22,128,34
+P02051,0,1,1,bus snatch,22,37,44
+P02690,0,1,1,shop-counter lift,22,74,40
+P01677,1,2,2,godown break-in,44,146,35
+P02112,3,4,3,OTP scam,78,27,63
+P01679,0,1,1,ATM tamper,22,81,40
+P01302,1,2,2,shutter-break,44,18,49
+P02029,0,1,1,advance-fee fraud,22,160,31
+P01731,0,1,1,lock-break theft,22,89,39
+P02905,0,1,1,fake job offer,22,169,30
+P00950,1,2,2,fake job offer,44,62,44
+P00805,0,1,1,evening market snatch,22,104,37
+P02145,0,1,1,investment scam,22,37,44
+P02092,0,1,1,parking-lot lift,22,100,37
+P00328,0,1,1,fake KYC call,22,17,47
+P02724,0,1,1,pillion-rider grab,22,160,31
+P02123,3,4,4,2-wheeler snatch,89,57,65
+P01389,0,1,1,parking-lot lift,22,83,39
+P01558,0,1,1,evening market snatch,22,141,33
+P00726,0,1,1,parking-lot lift,22,103,37
+P01487,1,2,2,domestic dispute,44,5,51
+P01375,0,1,1,2-wheeler snatch,22,168,30
+P00387,0,1,1,OTP scam,22,47,43
+P01199,0,1,1,duplicate-key theft,22,148,32
+P01608,0,1,1,daytime recce break,22,133,34
+P00194,1,2,2,bar brawl,44,3,51
+P01116,0,1,1,crowd pickpocket,22,106,37
+P02065,0,1,1,daytime recce break,22,2,48
+P00544,0,1,1,fake job offer,22,153,32
+P01807,0,1,1,OTP scam,22,178,29
+P01466,0,1,1,daytime recce break,22,117,36
+P01578,0,1,1,duplicate-key theft,22,162,31
+P01343,0,1,1,duplicate-key theft,22,162,31
+P01252,0,1,1,pillion-rider grab,22,100,37
+P01318,0,1,1,parking-lot lift,22,32,45
+P01054,0,1,1,pillion-rider grab,22,53,43
+P02358,0,1,1,bus snatch,22,104,37
+P02817,0,1,1,bus snatch,22,125,35
+P01205,0,1,1,bus snatch,22,125,35
+P01305,0,1,1,shop-counter lift,22,61,42
+P00088,0,1,1,godown break-in,22,147,32
+P00467,0,1,1,2-wheeler snatch,22,81,40
+P02833,0,1,1,2-wheeler snatch,22,81,40
+P02846,0,1,1,lock tampering,22,99,38
+P00688,0,1,1,domestic dispute,22,141,33
+P02081,0,1,1,shop-counter lift,22,177,29
+P00172,0,1,1,shop-counter lift,22,177,29
+P01713,0,1,1,OTP scam,22,11,47
+P01064,0,1,1,fake KYC call,22,30,45
+P02309,1,2,2,lock-break theft,44,119,38
+P00892,0,1,1,evening market snatch,22,122,35
+P00149,1,2,2,rear-window entry,44,115,38
+P01699,0,1,1,domestic dispute,22,48,43
+P02883,0,1,1,bus snatch,22,118,35
+P01723,1,2,1,lock-break theft,33,36,42
+P00533,0,1,1,lock-break theft,22,36,45
+P02361,0,1,1,evening market snatch,22,61,42
+P02874,0,1,1,evening market snatch,22,61,42
+P02426,0,1,1,bar brawl,22,45,44
+P02352,1,2,2,shutter-break,44,45,46
+P02022,0,1,1,shop-counter lift,22,33,45
+P02782,1,2,2,lock-break theft,44,33,48
+P00637,0,1,1,street altercation,22,71,41
+P00207,0,1,1,crowd pickpocket,22,58,42
+P00227,1,2,2,investment scam,44,68,44
+P01952,0,1,1,bus snatch,22,103,37
+P01921,0,1,1,shutter-break,22,25,46
+P01177,2,3,3,lock tampering,67,64,54
+P01494,0,1,1,evening market snatch,22,162,31
+P01377,0,1,1,evening market snatch,22,162,31
+P00642,0,1,1,advance-fee fraud,22,40,44
+P01448,0,1,1,UPI request fraud,22,111,36
+P00814,1,2,2,lock-break theft,44,17,49
+P01965,0,1,1,crowd pickpocket,22,17,47
+P00206,0,1,1,street altercation,22,136,33
+P01324,1,2,2,street altercation,44,68,44
+P01105,0,1,1,pillion-rider grab,22,98,38
+P02952,0,1,1,lock tampering,22,75,40
+P00905,0,1,1,shop-counter lift,22,81,40
+P02295,0,1,1,OTP scam,22,30,45
+P01867,0,1,1,fake KYC call,22,50,43
+P00900,0,1,1,fake KYC call,22,50,43
+P02508,0,1,1,parking-lot lift,22,66,41
+P00948,1,2,2,parking-lot lift,44,66,44
+P00496,0,1,1,fake KYC call,22,88,39
+P02114,1,2,2,bar brawl,44,78,43
+P01340,0,1,1,bus snatch,22,42,44
+P02661,0,1,1,bus snatch,22,5,48
+P02074,0,1,1,bus snatch,22,5,48
+P02185,0,1,1,OTP scam,22,31,45
+P00367,0,1,1,advance-fee fraud,22,54,43
+P02992,0,1,1,duplicate-key theft,22,17,47
+P01947,0,1,1,rear-window entry,22,70,41
+P02745,0,1,1,rear-window entry,22,70,41
+P01441,0,1,1,bus snatch,22,143,33
+P02856,0,1,1,evening market snatch,22,143,33
+P02623,0,1,1,evening market snatch,22,67,41
+P02894,0,1,1,evening market snatch,22,67,41
+P01652,0,1,1,lock-break theft,22,32,45
+P00910,0,1,1,shutter-break,22,48,43
+P02052,0,1,1,shutter-break,22,48,43
+P01681,0,1,1,rear-window entry,22,7,48
+P02675,0,1,1,rear-window entry,22,7,48
+P02469,0,1,1,pillion-rider grab,22,122,35
+P00992,0,1,1,bus snatch,22,40,44
+P00223,0,1,1,duplicate-key theft,22,14,47
+P02379,1,2,2,evening market snatch,44,18,49
+P01570,0,1,1,2-wheeler snatch,22,100,37
+P02908,0,1,1,OTP scam,22,98,38
+P00305,0,1,1,pillion-rider grab,22,112,36
+P00021,0,1,1,bus snatch,22,156,31
+P02727,0,1,1,lock tampering,22,63,42
+P00843,0,1,1,fake KYC call,22,105,37
+P00520,0,1,1,evening market snatch,22,148,32
+P02226,0,1,1,evening market snatch,22,58,42
+P02452,0,1,1,evening market snatch,22,58,42
+P01770,0,1,1,parking-lot lift,22,54,43
+P02505,0,1,1,evening market snatch,22,156,31
+P00476,0,1,1,pillion-rider grab,22,52,43
+P02802,0,1,1,parking-lot lift,22,10,47
+P02790,0,1,1,shop-counter lift,22,122,35
+P01801,0,1,1,rear-window entry,22,-1,49
+P01829,0,1,1,pillion-rider grab,22,148,32
+P00063,0,1,1,pillion-rider grab,22,164,30
+P00064,0,1,1,pillion-rider grab,22,164,30
+P02313,0,1,1,parking-lot lift,22,13,47
+P00874,0,1,1,investment scam,22,119,35
+P01832,0,1,1,lock tampering,22,73,40
+P02380,1,2,2,advance-fee fraud,44,20,49
+P00499,0,1,1,lock-break theft,22,4,48
+P01143,0,1,1,lock-break theft,22,132,34
+P02357,1,2,2,duplicate-key theft,44,31,48
+P01253,0,1,1,shutter-break,22,31,45
+P01953,0,1,1,bus snatch,22,76,40
+P02410,0,1,1,bar brawl,22,71,41
+P01833,1,2,2,pillion-rider grab,44,29,48
+P01113,0,1,1,evening market snatch,22,12,47
+P02681,0,1,1,duplicate-key theft,22,85,39
+P00884,0,1,1,shutter-break,22,126,35
+P01117,0,1,1,pillion-rider grab,22,146,32
+P01913,0,1,1,evening market snatch,22,129,34
+P00712,0,1,1,duplicate-key theft,22,152,32
+P00087,0,1,1,evening market snatch,22,80,40
+P00401,0,1,1,2-wheeler snatch,22,31,45
+P01464,0,1,1,UPI request fraud,22,5,48
+P00040,0,1,1,fake KYC call,22,44,44
+P02529,0,1,1,OTP scam,22,145,32
+P00577,0,1,1,shop-counter lift,22,27,46
+P00409,0,1,1,evening market snatch,22,153,32
+P01700,1,2,2,domestic dispute,44,57,45
+P00024,0,1,1,fake job offer,22,132,34
+P01651,0,1,1,crowd pickpocket,22,22,46
+P02879,0,1,1,evening market snatch,22,162,31
+P00653,0,1,1,2-wheeler snatch,22,165,30
+P01068,0,1,1,daytime recce break,22,39,44
+P00594,0,1,1,daytime recce break,22,39,44
+P01033,0,1,1,crowd pickpocket,22,44,44
+P00322,0,1,1,ATM tamper,22,104,37
+P00188,0,1,1,pillion-rider grab,22,38,44
+P00619,1,2,2,UPI request fraud,44,14,50
+P00250,1,2,2,daytime recce break,44,3,51
+P02535,0,1,1,bar brawl,22,78,40
+P00485,0,1,1,2-wheeler snatch,22,139,33
+P02602,0,1,1,duplicate-key theft,22,67,41
+P01217,0,1,1,OTP scam,22,86,39
+P00442,0,1,1,domestic dispute,22,108,37
+P02152,0,1,1,fake KYC call,22,74,40
+P01555,0,1,1,duplicate-key theft,22,178,29
+P01757,1,2,2,duplicate-key theft,44,66,44
+P02809,1,2,2,investment scam,44,144,35
+P00713,0,1,1,shop-counter lift,22,144,33
+P01417,0,1,1,OTP scam,22,25,46
+P02599,0,1,1,bar brawl,22,33,45
+P02801,1,2,1,pillion-rider grab,33,0,46
+P02155,0,1,1,UPI request fraud,22,37,44
+P01206,0,1,1,shop-counter lift,22,171,30
+P00097,0,1,1,fake job offer,22,135,34
+P00823,0,1,1,fake KYC call,22,132,34
+P01169,0,1,1,pillion-rider grab,22,74,40
+P00382,1,2,2,parking-lot lift,44,110,39
+P02751,0,1,1,fake KYC call,22,174,29
+P02044,0,1,1,evening market snatch,22,-1,49
+P01015,0,1,1,evening market snatch,22,64,41
+P00914,0,1,1,shop-counter lift,22,34,45
+P02043,1,2,2,daytime recce break,44,16,49
+P02027,0,1,1,evening market snatch,22,45,44
+P02234,0,1,1,2-wheeler snatch,22,21,46
+P00178,0,1,1,pillion-rider grab,22,95,38
+P00549,0,1,1,OTP scam,22,134,34
+P01649,0,1,1,ATM tamper,22,43,44
+P01883,0,1,1,shutter-break,22,151,32
+P02209,0,1,1,UPI request fraud,22,141,33
+P00768,0,1,1,shop-counter lift,22,63,42
+P02851,0,1,1,shop-counter lift,22,63,42
+P00360,0,1,1,2-wheeler snatch,22,55,42
+P00488,0,1,1,crowd pickpocket,22,163,30
+P00379,0,1,1,crowd pickpocket,22,29,45
+P01419,0,1,1,lock tampering,22,141,33
+P01815,0,1,1,pillion-rider grab,22,26,46
+P01992,0,1,1,pillion-rider grab,22,26,46
+P01310,0,1,1,advance-fee fraud,22,116,36
+P00700,0,1,1,daytime recce break,22,122,35
+P00096,1,2,2,parking-lot lift,44,46,46
+P01170,0,1,1,ATM tamper,22,174,29
+P02691,0,1,1,shop-counter lift,22,80,40
+P00842,0,1,1,shop-counter lift,22,80,40
+P02428,0,1,1,fake job offer,22,146,32
+P02993,0,1,1,evening market snatch,22,92,38
+P00007,0,1,1,fake job offer,22,19,46
+P00463,0,1,1,duplicate-key theft,22,172,29
+P00135,0,1,1,bus snatch,22,168,30
+P00226,0,1,1,lock tampering,22,55,42
+P01517,0,1,1,bus snatch,22,100,37
+P00662,0,1,1,fake KYC call,22,178,29
+P02761,0,1,1,domestic dispute,22,174,29
+P01381,0,1,1,fake job offer,22,107,37
+P01218,0,1,1,rear-window entry,22,18,47
+P00329,1,2,2,pillion-rider grab,44,54,45
+P01457,0,1,1,fake KYC call,22,152,32
+P01321,0,1,1,domestic dispute,22,48,43
+P02800,0,1,1,domestic dispute,22,48,43
+P01987,0,1,1,bus snatch,22,143,33
+P00936,0,1,1,crowd pickpocket,22,99,38
+P02004,0,1,1,crowd pickpocket,22,99,38
+P02389,1,2,2,bus snatch,44,32,48
+P01077,0,1,1,OTP scam,22,70,41
+P02097,0,1,1,bus snatch,22,100,37
+P02543,1,2,2,shutter-break,44,76,43
+P00321,1,2,2,lock-break theft,44,8,50
+P02274,0,1,1,fake KYC call,22,109,36
+P00393,1,2,1,parking-lot lift,33,109,34
+P01021,0,1,1,fake KYC call,22,17,47
+P00306,0,1,1,rear-window entry,22,139,33
+P00395,1,2,2,pillion-rider grab,44,25,48
+P02279,0,1,1,bus snatch,22,36,45
+P00958,0,1,1,investment scam,22,89,39
+P02100,0,1,1,investment scam,22,179,29
+P02995,0,1,1,investment scam,22,179,29
+P00963,0,1,1,lock-break theft,22,45,44
+P01543,0,1,1,2-wheeler snatch,22,82,39
+P02414,1,2,2,ATM tamper,44,13,50
+P02134,0,1,1,lock tampering,22,144,33
+P01564,0,1,1,2-wheeler snatch,22,62,42
+P00030,0,1,1,2-wheeler snatch,22,62,42
+P02507,1,2,2,parking-lot lift,44,32,48
+P01242,0,1,1,crowd pickpocket,22,36,45
+P02762,0,1,1,shop-counter lift,22,13,47
+P02670,0,1,1,parking-lot lift,22,110,36
+P01834,0,1,1,shop-counter lift,22,129,34
+P01995,0,1,1,bus snatch,22,8,48
+P02465,0,1,1,rear-window entry,22,63,42
+P02649,0,1,1,fake KYC call,22,93,38
+P00446,0,1,1,bar brawl,22,166,30
+P00524,1,2,2,evening market snatch,44,27,48
+P02241,0,1,1,evening market snatch,22,95,38
+P02384,0,1,1,OTP scam,22,137,33
+P00605,0,1,1,investment scam,22,132,34
+P00073,0,1,1,evening market snatch,22,36,45
+P01461,0,1,1,fake job offer,22,139,33
+P01896,0,1,1,domestic dispute,22,38,44
+P01178,0,1,1,domestic dispute,22,38,44
+P02582,0,1,1,bar brawl,22,149,32
+P00554,0,1,1,2-wheeler snatch,22,16,47
+P00608,0,1,1,ATM tamper,22,104,37
+P00252,0,1,1,UPI request fraud,22,54,43
+P00085,0,1,1,bus snatch,22,122,35
+P01430,0,1,1,fake job offer,22,157,31
+P01903,0,1,1,bus snatch,22,159,31
+P00955,1,2,2,evening market snatch,44,66,44
+P01717,0,1,1,pillion-rider grab,22,72,41
+P00124,0,1,1,bar brawl,22,56,42
+P01380,0,1,1,UPI request fraud,22,14,47
+P02140,0,1,1,daytime recce break,22,16,47
+P00191,0,1,1,parking-lot lift,22,168,30
+P02718,0,1,1,investment scam,22,24,46
+P00775,0,1,1,investment scam,22,24,46
+P01200,0,1,1,investment scam,22,55,42
+P00691,0,1,1,lock tampering,22,140,33
+P00234,0,1,1,UPI request fraud,22,97,38
+P02284,0,1,1,street altercation,22,72,41
+P01353,0,1,1,evening market snatch,22,159,31
+P02182,0,1,1,bus snatch,22,2,48
+P01431,0,1,1,bus snatch,22,168,30
+P01372,0,1,1,duplicate-key theft,22,106,37
+P01546,0,1,1,fake KYC call,22,106,37
+P00915,0,1,1,fake job offer,22,82,39
+P02804,0,1,1,fake job offer,22,82,39
+P00372,0,1,1,advance-fee fraud,22,25,46
+P02178,0,1,1,fake KYC call,22,130,34
+P01237,0,1,1,fake KYC call,22,130,34
+P01184,0,1,1,parking-lot lift,22,152,32
+P02427,0,1,1,lock-break theft,22,5,48
+P00391,0,1,1,OTP scam,22,136,33
+P01945,0,1,1,OTP scam,22,136,33
+P02580,0,1,1,rear-window entry,22,91,38
+P02606,0,1,1,shutter-break,22,140,33
+P01560,0,1,1,lock tampering,22,112,36
+P01864,0,1,1,street altercation,22,162,31
+P02816,1,2,2,parking-lot lift,44,124,37
+P01401,0,1,1,domestic dispute,22,90,39
+P02373,0,1,1,OTP scam,22,46,43
+P00058,0,1,1,lock-break theft,22,87,39
+P00851,0,1,1,investment scam,22,173,29
+P01190,0,1,1,pillion-rider grab,22,86,39
+P02146,0,1,1,shop-counter lift,22,170,30
+P02962,0,1,1,shop-counter lift,22,147,32
+P02750,0,1,1,fake KYC call,22,34,45
+P00766,0,1,1,investment scam,22,112,36
+P01301,0,1,1,investment scam,22,112,36
+P02386,0,1,1,2-wheeler snatch,22,47,43
+P01851,1,2,2,fake KYC call,44,8,50
+P02898,0,1,1,UPI request fraud,22,28,45
+P02989,0,1,1,fake KYC call,22,43,44
+P00552,0,1,1,investment scam,22,70,41
+P01956,0,1,1,domestic dispute,22,71,41
+P02021,0,1,1,shop-counter lift,22,44,44
+P01478,0,1,1,fake job offer,22,174,29
+P02443,0,1,1,lock-break theft,22,104,37
+P01505,0,1,1,fake KYC call,22,170,30
+P01659,0,1,1,2-wheeler snatch,22,157,31
+P00155,0,1,1,fake KYC call,22,143,33
+P01642,0,1,1,advance-fee fraud,22,13,47
+P01682,0,1,1,domestic dispute,22,124,35
+P02493,0,1,1,shutter-break,22,128,34
+P01040,0,1,1,lock-break theft,22,19,46
+P00751,0,1,1,godown break-in,22,174,29
+P02033,1,2,2,domestic dispute,44,10,50
+P02470,0,1,1,shutter-break,22,164,30
+P01933,0,1,1,godown break-in,22,16,47
+P01151,0,1,1,godown break-in,22,16,47
+P02773,0,1,1,parking-lot lift,22,83,39
+P01352,0,1,1,parking-lot lift,22,83,39
+P01357,0,1,1,UPI request fraud,22,162,31
+P02578,0,1,1,bus snatch,22,46,43
+P01472,0,1,1,pillion-rider grab,22,13,47
+P02318,0,1,1,duplicate-key theft,22,106,37
+P01281,0,1,1,shop-counter lift,22,64,41
+P00575,0,1,1,ATM tamper,22,65,41
+P00551,1,2,2,evening market snatch,44,65,54
+P02776,0,1,1,evening market snatch,22,49,43
+P00803,0,1,1,fake KYC call,22,72,41
+P02820,0,1,1,investment scam,22,123,35
+P00668,0,1,1,lock tampering,22,168,30
+P01329,0,1,1,evening market snatch,22,24,46
+P01678,0,1,1,fake job offer,22,168,30
+P02321,1,2,2,pillion-rider grab,44,144,35
+P00525,0,1,1,evening market snatch,22,50,43
+P02376,0,1,1,godown break-in,22,9,48
+P00745,0,1,1,2-wheeler snatch,22,85,39
+P01067,0,1,1,bar brawl,22,88,39
+P01265,0,1,1,OTP scam,22,92,38
+P02354,0,1,1,bus snatch,22,174,29
+P01455,0,1,1,parking-lot lift,22,113,36
+P00868,0,1,1,fake KYC call,22,148,32
+P02076,0,1,1,pillion-rider grab,22,168,30
+P00235,0,1,1,ATM tamper,22,78,40
+P00123,0,1,1,2-wheeler snatch,22,4,48
+P00143,0,1,1,lock-break theft,22,60,42
+P02532,0,1,1,OTP scam,22,141,33
+P01628,0,1,1,bus snatch,22,177,29
+P02132,0,1,1,duplicate-key theft,22,38,44
+P00127,0,1,1,advance-fee fraud,22,22,46
+P02349,0,1,1,bus snatch,22,31,45
+P00061,0,1,1,OTP scam,22,120,35
+P02904,0,1,1,pillion-rider grab,22,154,31
+P01208,0,1,1,pillion-rider grab,22,154,31
+P00996,0,1,1,2-wheeler snatch,22,25,46
+P02719,0,1,1,lock tampering,22,92,38
+P00971,0,1,1,bus snatch,22,81,40
+P00002,0,1,1,2-wheeler snatch,22,56,42
+P01412,1,2,2,godown break-in,44,3,51
+P00515,0,1,1,ATM tamper,22,113,36
+P00886,0,1,1,2-wheeler snatch,22,14,47
+P02882,0,1,1,bar brawl,22,42,44
+P02694,0,1,1,bar brawl,22,42,44
+P01791,0,1,1,pillion-rider grab,22,1,48
+P01167,0,1,1,fake KYC call,22,31,45
+P00632,0,1,1,rear-window entry,22,44,44
+P01108,0,1,1,daytime recce break,22,5,48
+P00949,0,1,1,street altercation,22,90,39
+P00902,0,1,1,advance-fee fraud,22,83,39
+P01484,0,1,1,shop-counter lift,22,104,37
+P02244,0,1,1,shop-counter lift,22,104,37
+P00277,0,1,1,domestic dispute,22,118,35
+P00852,0,1,1,pillion-rider grab,22,96,38
+P00719,0,1,1,rear-window entry,22,102,37
+P01429,0,1,1,rear-window entry,22,102,37
+P00114,0,1,1,UPI request fraud,22,123,35
+P02018,0,1,1,evening market snatch,22,151,32
+P01424,0,1,1,daytime recce break,22,122,35
+P01874,0,1,1,evening market snatch,22,13,47
+P02479,1,2,2,2-wheeler snatch,44,66,44
+P01465,0,1,1,UPI request fraud,22,12,47
+P02460,0,1,1,UPI request fraud,22,12,47
+P00010,0,1,1,crowd pickpocket,22,171,30
+P00581,0,1,1,advance-fee fraud,22,117,36
+P02677,0,1,1,shutter-break,22,20,46
+P00639,0,1,1,lock-break theft,22,52,43
+P02188,0,1,1,parking-lot lift,22,87,39
+P00599,0,1,1,2-wheeler snatch,22,127,34
+P00179,0,1,1,2-wheeler snatch,22,127,34
+P02569,0,1,1,street altercation,22,91,38
+P00735,0,1,1,shop-counter lift,22,122,35
+P01701,0,1,1,shop-counter lift,22,122,35
+P01929,0,1,1,bus snatch,22,29,45
+P00438,0,1,1,ATM tamper,22,134,34
+P00911,0,1,1,lock-break theft,22,43,44
+P00399,0,1,1,lock-break theft,22,43,44
+P00970,0,1,1,duplicate-key theft,22,156,31
+P02248,0,1,1,duplicate-key theft,22,156,31
+P02196,0,1,1,investment scam,22,2,48
+P02025,0,1,1,2-wheeler snatch,22,37,44
+P01048,0,1,1,investment scam,22,156,31
+P01374,0,1,1,bus snatch,22,147,32
+P00681,0,1,1,bus snatch,22,147,32
+P00759,0,1,1,OTP scam,22,49,43
+P01243,0,1,1,duplicate-key theft,22,84,39
+P01972,0,1,1,advance-fee fraud,22,48,43
+P00743,0,1,1,advance-fee fraud,22,48,43
+P02983,0,1,1,OTP scam,22,107,37
+P01869,0,1,1,evening market snatch,22,44,44
+P00147,0,1,1,domestic dispute,22,141,33
+P00163,0,1,1,bar brawl,22,35,45
+P02438,0,1,1,bus snatch,22,69,41
+P01347,0,1,1,duplicate-key theft,22,139,33
+P00796,0,1,1,evening market snatch,22,72,41
+P01840,0,1,1,pillion-rider grab,22,38,44
+P00895,0,1,1,lock-break theft,22,35,45
+P00906,0,1,1,shop-counter lift,22,45,44
+P02867,0,1,1,shop-counter lift,22,45,44
+P02960,0,1,1,pillion-rider grab,22,44,44
+P01376,0,1,1,2-wheeler snatch,22,164,30
+P01282,0,1,1,OTP scam,22,129,34
+P00664,0,1,1,domestic dispute,22,107,37
+P02540,0,1,1,fake KYC call,22,149,32
+P01983,0,1,1,bar brawl,22,1,48
+P02288,0,1,1,evening market snatch,22,69,41
+P00344,0,1,1,fake KYC call,22,40,44
+P01418,0,1,1,duplicate-key theft,22,70,41
+P02109,0,1,1,UPI request fraud,22,114,36
+P01733,0,1,1,lock tampering,22,96,38
+P02701,0,1,1,lock tampering,22,96,38
+P02600,0,1,1,crowd pickpocket,22,130,34
+P01554,0,1,1,bar brawl,22,40,44
+P00459,0,1,1,shop-counter lift,22,63,42
+P01093,0,1,1,pillion-rider grab,22,166,30
+P02592,0,1,1,parking-lot lift,22,26,46
+P02011,0,1,1,pillion-rider grab,22,57,42
+P01612,0,1,1,UPI request fraud,22,127,34
+P00666,0,1,1,UPI request fraud,22,127,34
+P00547,0,1,1,advance-fee fraud,22,11,47
+P02824,1,2,2,crowd pickpocket,44,120,38
+P02686,0,1,1,bus snatch,22,66,41
+P01584,0,1,1,domestic dispute,22,59,42
+P02471,0,1,1,evening market snatch,22,99,38
+P01186,0,1,1,ATM tamper,22,145,32
+P00723,0,1,1,ATM tamper,22,145,32
+P01804,0,1,1,street altercation,22,165,30
+P02144,0,1,1,evening market snatch,22,59,42
+P02093,0,1,1,evening market snatch,22,6,48
+P01413,0,1,1,street altercation,22,138,33
+P01822,0,1,1,bus snatch,22,106,37
+P00261,0,1,1,daytime recce break,22,176,29
+P00596,0,1,1,crowd pickpocket,22,169,30
+P01336,0,1,1,pillion-rider grab,22,36,45
+P02628,0,1,1,godown break-in,22,110,36
+P00211,0,1,1,godown break-in,22,110,36
+P02466,0,1,1,domestic dispute,22,1,48
+P00075,0,1,1,lock-break theft,22,34,45
+P00536,0,1,1,evening market snatch,22,110,36
+P01493,0,1,1,crowd pickpocket,22,54,43
+P02231,0,1,1,crowd pickpocket,22,74,40
+P02537,0,1,1,domestic dispute,22,99,38
+P00146,0,1,1,bar brawl,22,91,38
+P00672,0,1,1,OTP scam,22,157,31
+P01988,0,1,1,OTP scam,22,157,31
+P02789,0,1,1,bar brawl,22,136,33
+P02416,0,1,1,2-wheeler snatch,22,65,41
+P02663,0,1,1,fake KYC call,22,85,39
+P02735,0,1,1,fake KYC call,22,85,39
+P01872,0,1,1,OTP scam,22,49,43
+P01513,0,1,1,pillion-rider grab,22,86,39
+P02860,0,1,1,fake KYC call,22,105,37
+P02496,0,1,1,parking-lot lift,22,169,30
+P01860,0,1,1,duplicate-key theft,22,53,43
+P02920,0,1,1,shutter-break,22,54,43
+P00060,0,1,1,lock-break theft,22,59,42
+P05001,5,6,3,evening market snatch,100,33,82
+P05003,3,4,3,evening market snatch,78,51,66
+P05010,4,5,3,lock-break theft,89,69,77
+P05011,2,3,2,lock-break theft,56,69,55
+P05017,3,4,2,UPI request fraud,67,4,71
+P05018,1,2,2,UPI request fraud,44,4,61

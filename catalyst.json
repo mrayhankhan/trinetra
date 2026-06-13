@@ -1,0 +1,10 @@
+{
+  "project_name": "trinetra",
+  "functions": {
+    "source": "functions",
+    "targets": ["agent", "network"]
+  },
+  "client": {
+    "source": "out"
+  }
+}

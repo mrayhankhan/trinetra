@@ -1,0 +1,13 @@
+{
+  "deployment": {
+    "name": "network",
+    "stack": "node18",
+    "type": "advancedio",
+    "memory": 256,
+    "source": ".",
+    "entrypoint": "index.js"
+  },
+  "execution": {
+    "timeout": 30
+  }
+}

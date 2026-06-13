@@ -1,0 +1,52 @@
+station_id,station_name,district,subdivision,range_office,latitude,longitude
+ST00001,BLR South PS 01,BLR South,North,Bengaluru City,12.92449,77.57469
+ST00002,BLR South PS 02,BLR South,South,Bengaluru City,12.9206,77.61353
+ST00003,BLR South PS 03,BLR South,North,Northern Range,12.88191,77.56562
+ST00004,BLR South PS 04,BLR South,South,Bengaluru City,12.91367,77.60296
+ST00005,BLR South PS 05,BLR South,Central,Northern Range,12.89323,77.59536
+ST00006,Jayanagar PS 06,Jayanagar,South,Northern Range,12.92042,77.55933
+ST00007,Jayanagar PS 07,Jayanagar,East,Bengaluru City,12.90556,77.5558
+ST00008,Jayanagar PS 08,Jayanagar,East,Western Range,12.94843,77.59378
+ST00009,BTM PS 09,BTM,North,Northern Range,12.89473,77.59759
+ST00010,BTM PS 10,BTM,Central,Western Range,12.92464,77.62227
+ST00011,BTM PS 11,BTM,North,Bengaluru Rural,12.93638,77.63911
+ST00012,BTM PS 12,BTM,South,Bengaluru City,12.91281,77.6072
+ST00013,BTM PS 13,BTM,East,Bengaluru Rural,12.91221,77.59257
+ST00014,Rajajinagar PS 14,Rajajinagar,North,Bengaluru Rural,12.99205,77.53469
+ST00015,Rajajinagar PS 15,Rajajinagar,West,Northern Range,12.9762,77.57552
+ST00016,Rajajinagar PS 16,Rajajinagar,Central,Bengaluru Rural,13.00108,77.57057
+ST00017,Rajajinagar PS 17,Rajajinagar,North,Bengaluru Rural,13.00931,77.5683
+ST00018,Whitefield PS 18,Whitefield,East,Bengaluru City,12.95266,77.77657
+ST00019,Whitefield PS 19,Whitefield,East,Bengaluru Rural,12.97933,77.74374
+ST00020,Whitefield PS 20,Whitefield,West,Bengaluru Rural,12.95589,77.7348
+ST00021,Whitefield PS 21,Whitefield,Central,Western Range,12.98482,77.74571
+ST00022,KR Puram PS 22,KR Puram,West,Western Range,12.98316,77.71985
+ST00023,KR Puram PS 23,KR Puram,Central,Northern Range,12.97545,77.66283
+ST00024,KR Puram PS 24,KR Puram,North,Bengaluru Rural,13.00765,77.70752
+ST00025,KR Puram PS 25,KR Puram,West,Bengaluru City,12.99309,77.69575
+ST00026,KR Puram PS 26,KR Puram,West,Western Range,13.02826,77.71165
+ST00027,Yelahanka PS 27,Yelahanka,North,Western Range,13.11612,77.58041
+ST00028,Yelahanka PS 28,Yelahanka,East,Northern Range,13.07949,77.56019
+ST00029,Yelahanka PS 29,Yelahanka,East,Bengaluru Rural,13.10046,77.56638
+ST00030,Electronic City PS 30,Electronic City,East,Bengaluru Rural,12.81917,77.67575
+ST00031,Electronic City PS 31,Electronic City,Central,Bengaluru City,12.84594,77.65932
+ST00032,Electronic City PS 32,Electronic City,North,Western Range,12.86272,77.6799
+ST00033,Electronic City PS 33,Electronic City,East,Bengaluru Rural,12.81348,77.68268
+ST00034,Electronic City PS 34,Electronic City,North,Bengaluru City,12.85391,77.67896
+ST00035,Mysuru PS 35,Mysuru,South,Bengaluru Rural,12.30959,76.67681
+ST00036,Mysuru PS 36,Mysuru,South,Western Range,12.30166,76.6564
+ST00037,Mysuru PS 37,Mysuru,South,Bengaluru Rural,12.31278,76.64394
+ST00038,Mysuru PS 38,Mysuru,East,Northern Range,12.32398,76.64709
+ST00039,Mysuru PS 39,Mysuru,South,Bengaluru Rural,12.27384,76.62126
+ST00040,Mangaluru PS 40,Mangaluru,South,Bengaluru Rural,12.88043,74.87247
+ST00041,Mangaluru PS 41,Mangaluru,North,Bengaluru Rural,12.88404,74.83188
+ST00042,Mangaluru PS 42,Mangaluru,East,Bengaluru City,12.91085,74.84671
+ST00043,Mangaluru PS 43,Mangaluru,West,Bengaluru Rural,12.91235,74.8734
+ST00044,Mangaluru PS 44,Mangaluru,Central,Northern Range,12.89458,74.85838
+ST00045,Hubballi PS 45,Hubballi,South,Bengaluru City,15.33582,75.11586
+ST00046,Hubballi PS 46,Hubballi,West,Northern Range,15.35802,75.13374
+ST00047,Hubballi PS 47,Hubballi,North,Bengaluru City,15.35416,75.11036
+ST00048,Hubballi PS 48,Hubballi,North,Bengaluru Rural,15.3415,75.12218
+ST00049,Belagavi PS 49,Belagavi,West,Bengaluru Rural,15.83671,74.48499
+ST00050,Belagavi PS 50,Belagavi,North,Northern Range,15.86848,74.52136
+ST00051,Belagavi PS 51,Belagavi,North,Bengaluru City,15.85913,74.50244

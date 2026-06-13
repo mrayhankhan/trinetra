@@ -1,0 +1,10 @@
+account_id,number_masked,bank,suspected_mule
+AC00001,··7422,ICICI,True
+AC00002,··8538,Union,False
+AC00003,··7495,Canara,False
+AC00004,··5754,Axis,False
+AC00005,··9942,ICICI,False
+AC00006,··5639,Axis,True
+AC00007,··5254,Canara,False
+AC00008,··5044,Union,False
+AC00009,··8765,SBI,False

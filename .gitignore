@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+.env*.local
+
+# generated synthetic data
+data/out/
+data/out*/
+__pycache__/
+
+# Catalyst CLI local config (machine-specific)
+.catalystrc

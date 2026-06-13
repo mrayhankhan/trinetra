@@ -1,0 +1,7 @@
+{
+  "name": "trinetra-network",
+  "version": "1.0.0",
+  "description": "TRINETRA network-build function (Catalyst Advanced I/O)",
+  "main": "index.js",
+  "dependencies": {}
+}
