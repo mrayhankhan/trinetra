@@ -430,11 +430,11 @@ for i, (h, d) in enumerate(fut):
     _, tf = textbox(s, 0.65, y, 8.9, 0.58, anchor=MSO_ANCHOR.MIDDLE)
     para(tf, [(h + " — ", INK, True), (d, MUTED, False)], size=10, first=True)
 
-# ----------------------------------------------------------------- Slide 16 (closing)
-s = slides[15]
-_, tf = textbox(s, 1.0, 2.3, 8.0, 1.2, anchor=MSO_ANCHOR.MIDDLE)
-para(tf, [("TRINETRA", RED, True)], size=30, first=True, align=PP_ALIGN.CENTER, space_after=4)
-para(tf, [("The third eye that sees the hidden links between crimes, criminals and money.", MUTED, False)], size=12, align=PP_ALIGN.CENTER)
+# ----------------------------------------------------------------- Cleanup
+# The template's last slide is already a clean "THANK YOU" close, so we add
+# nothing to it. Drop the template's spare "Blank slide" (slide 15).
+xml_slides = prs.slides._sldIdLst
+xml_slides.remove(list(xml_slides)[14])
 
 prs.save(OUT)
 print("saved", OUT)
