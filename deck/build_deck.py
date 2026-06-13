@@ -399,7 +399,7 @@ for i, (big, lab) in enumerate(stats):
 # ----------------------------------------------------------------- Slide 13 (links)
 s = slides[12]
 ct = content_top(s, 0.25)
-links = [("GitHub repository", "https://github.com/<your-org>/trinetra", BLUE),
+links = [("GitHub repository", "https://github.com/mrayhankhan/trinetra", BLUE),
          ("Demo video (3 min)", "https://youtu.be/<unlisted-link>", RED),
          ("Deployed link (Catalyst)", "https://trinetra-60074156791.development.catalystserverless.in/app/index.html", TEAL)]
 cy = max(ct, 2.95)
