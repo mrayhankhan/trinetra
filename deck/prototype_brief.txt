@@ -1,7 +1,8 @@
 PROTOTYPE BRIEF — paste into the HackerEarth form (≤1024 characters)
 Challenge: PS1 — Intelligent Conversational AI for the KSP Crime Database
+
+TRINETRA = Tactical Real-time Intelligence & Network Engine for Tracking,
+Reasoning & Analytics (also "trinetra" = the third eye that sees the hidden).
 --------------------------------------------------------------------------
 
-TRINETRA is an agentic crime-intelligence console for the Karnataka State Police. Investigators query it in Kannada or English by voice or text. It converts natural language to safe, validated ZCQL over the crime database, uncovers hidden networks between offenders, victims, phones and accounts, profiles repeat offenders with a transparent risk score, and answers with an interactive network graph, hotspot map and timeline — every fact cited to its FIR for full explainability. Context-aware follow-ups, money-trail analysis, early-warning alerts, and one-click PDF export of the conversation. Built entirely on Catalyst: Slate frontend, Functions + API Gateway, QuickML LLM-Serving (Qwen) + RAG, Data Store (relational + edge tables), Zia voice, Stratus, SmartBrowz, Authentication with role-based access and a SELECT-only query gate. Impact: cuts FIR-to-lead cross-referencing from days to seconds — turning reactive policing proactive. Scalable, secure, production-grade.
-
-[character count ~ 1010]
+TRINETRA (Tactical Real-time Intelligence & Network Engine for Tracking, Reasoning & Analytics) is an agentic crime-intelligence console for the Karnataka State Police. Investigators query it in Kannada or English by voice or text. It turns natural language into safe, validated ZCQL over the crime database, uncovers hidden networks between offenders, victims, phones and accounts, profiles repeat offenders with a transparent risk score, and answers with an interactive graph, hotspot map and timeline — every fact cited to its FIR. Adds context-aware follow-ups, money-trail analysis, similar-case leads, forecasting and PDF export. Built entirely on Catalyst: Slate frontend, Functions, QuickML LLM-Serving (Qwen), Data Store (relational + edge tables), Zia voice, SmartBrowz, and Authentication with role-based access and a SELECT-only query gate. Impact: cuts FIR-to-lead cross-referencing from days to seconds — turning reactive policing proactive. Scalable, secure, production-grade.
