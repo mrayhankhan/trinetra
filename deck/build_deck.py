@@ -401,7 +401,7 @@ for i, (big, lab) in enumerate(stats):
 s = slides[12]
 ct = content_top(s, 0.25)
 links = [("GitHub repository", "https://github.com/mrayhankhan/trinetra", BLUE),
-         ("Demo video (3 min)", "https://youtu.be/<unlisted-link>", RED),
+         ("Demo video (3 min)", "https://www.youtube.com/watch?v=UL8YjVzlKK0", RED),
          ("Deployed link (Catalyst)", "https://trinetra-60074156791.development.catalystserverless.in/app/index.html", TEAL)]
 cy = max(ct, 2.95)
 for i, (h, url, col) in enumerate(links):
@@ -411,7 +411,7 @@ for i, (h, url, col) in enumerate(links):
     tf.margin_left = Pt(12)
     para(tf, [(h + ":   ", col, True), (url, INK, False)], size=11.5, first=True)
 _, tf = textbox(s, 0.5, cy + 3*0.72 + 0.02, 9.0, 0.35)
-para(tf, [("Replace with your public links before submitting. Deployment must be on Catalyst.", MUTED, False)], size=9, first=True)
+para(tf, [("All links are public and verified. Deployment is hosted exclusively on Zoho Catalyst.", MUTED, False)], size=9, first=True)
 
 # ----------------------------------------------------------------- Slide 14 (future)
 s = slides[13]
