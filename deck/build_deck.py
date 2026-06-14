@@ -155,15 +155,16 @@ for k, v in fields:
 # ----------------------------------------------------------------- Slide 2
 s = slides[1]
 ct = content_top(s)
-_, tf = textbox(s, 0.4, ct, 9.2, 1.2)
-para(tf, [("TRINETRA", RED, True), (" — an agentic crime-intelligence console for the Karnataka State Police. An investigator asks a question in Kannada or English (voice or text); the AI agent queries the crime database, uncovers hidden criminal networks, profiles repeat offenders, and answers with an interactive graph, hotspot map and timeline — every fact cited to its FIR.", INK, False)], size=12, first=True, space_after=6)
+_, tf = textbox(s, 0.4, ct, 9.2, 1.7)
+para(tf, [("TRINETRA", RED, True), ("  —  Tactical Real-time Intelligence & Network Engine for Tracking, Reasoning & Analytics", MUTED, False)], size=13, first=True, space_after=8)
+para(tf, [("An agentic crime-intelligence console for the Karnataka State Police. An investigator asks a question in Kannada or English (voice or text); the AI agent queries the crime database, uncovers hidden criminal networks, profiles repeat offenders, and answers with an interactive graph, hotspot map and timeline — every fact cited to its FIR.", INK, False)], size=12, space_after=6)
 # three stat cards
 cards = [("Days → seconds", "FIR-to-lead cross-referencing"),
          ("EN + ಕನ್ನಡ", "voice & text, context-aware"),
          ("100% on Catalyst", "deployed, explainable, secure")]
 cw, gap = 2.93, 0.2
 x0 = 0.4
-cy = ct + 1.5
+cy = ct + 1.95
 for i, (big, lab) in enumerate(cards):
     x = x0 + i * (cw + gap)
     r = rect(s, x, cy, cw, 1.15, fill=CARD, line=LINE)
